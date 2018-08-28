@@ -5,11 +5,11 @@ permalink: /faq/
 breadcrumb: FAQ
 ---
 
-### **Can my agency website switch over to Isomer Pages?**
+### **Can my agency website switch over to Isomer?**
 
-Isomer Pages is meant for informational services - this means that it is suitable for most corporate websites (Hotels Licensing Board, GovTech corporate websites) and other microsites (e.g. mc.gov.sg and National Digital Identity).
+Isomer is meant for informational services - this means that it is suitable for most corporate websites (Hotels Licensing Board, GovTech corporate websites) and other microsites (e.g. mc.gov.sg and National Digital Identity).
 
-Some websites have both informational and transactional features. Isomer Pages can cover the informational portion of such websites. The informational portion of the website can then contain hyperlinks to the transactional portion of your website.
+Some websites have both informational and transactional features. Isomer can cover the informational portion of such websites. The informational portion of the website can then contain hyperlinks to the transactional portion of your website.
 
 Please feel free to reach out to us if you have any questions.
 
@@ -31,7 +31,7 @@ Design systems are widely used around the world today:
 * In Industry: Google Material design, Adobe Spectrum
 * In Government: U.S. Web Design System, GOV.UK Design System, Australian Government Design System
 
-### **What features does Isomer Pages have?**
+### **What features does Isomer have?**
 
 * Responsive, mobile-first web design powered by the [Design System]({{"http://designsystem.isomer.gov.sg/" | absolute_url}})
 * Content Management System powered by [GitHub]({{"https://github.com/" | absolute_url}})
@@ -39,10 +39,10 @@ Design systems are widely used around the world today:
 * Form submission (e.g. feedback) powered by [Form.sg]({{"https://form.gov.sg" | absolute_url}})
 * Media/Resources page with pagination and sub-categories
 
-### **Can Isomer Pages support embedding of videos?**
+### **Can Isomer support embedding of videos?**
 
 Yes - the videos must be hosted on YouTube, Vimeo, or some third party video-hosting platform. You can then embed the videos in the markdown files.
 
-### **Can Isomer Pages support social media links?**
+### **Can Isomer support social media links?**
 
 Yes - there is the option of providing links to social media platforms.
