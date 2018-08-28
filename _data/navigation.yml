@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About
+  url: /about/
+- title: Docs
+  url: /docs/
+- title: Markdown Editor
+  url: https://isomerpages.github.io/markdown-editor/
+  external: true
+- title: FAQ
+  url: /faq/
+- title: CONTACT US
+  url: /contact-us/
