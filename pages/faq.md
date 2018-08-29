@@ -6,7 +6,7 @@ breadcrumb: FAQ
 ---
 
 ### **What is Isomer?**
-Isomer is a static website generator created by the Government Technology Agency of Singapore (GovTech). 
+Isomer is a website generator created by the Government Technology Agency of Singapore (GovTech). 
 It provides templates for static websites, hosting and is compliance to IM8 and DSS.
 
 The team at GovTech builds, provide training and maintains Isomer as a service to all Singapore Government Agencies. 
