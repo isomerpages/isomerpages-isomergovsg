@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Slides
 permalink: /resources/slides/
 breadcrumb: Slides
-collection_name: slides
+collection_name: resources
 ---
 
 **bold this text**
