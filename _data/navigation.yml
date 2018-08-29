@@ -4,17 +4,8 @@
 #                                #
 ##################################
 
-- title: About
-  url: /about/
 - title: Resources
-  url: /resources/slides/
-  sub-links: 
-  - title: Slides
-    url: /resources/slides/
-  - title: Training Material
-    url: /resources/training-material/
-  - title: Markdown Example
-    url: /resources/markdown-example/
+  url: /resources/
 - title: FAQ
   url: /faq/
 - title: Design System

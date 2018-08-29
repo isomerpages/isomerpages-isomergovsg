@@ -6,14 +6,14 @@ breadcrumb: FAQ
 ---
 
 #### **What is Isomer?**
-Isomer is a website generator created by the Government Technology Agency of Singapore (GovTech). 
+Isomer is a informational website generator created by the Government Technology Agency of Singapore (GovTech). 
 It provides templates for websites, hosting and is compliant to Instruction Manual 8 (IM8), Design Service Standard (DSS) 
 and Usability Checklist (UC).
 
 GovTech builds, provides training and maintains Isomer as a service to all Singapore Government Agencies. 
 This website that you are seeing now is generated and hosted on Isomer.
 
-#### **What do Agencies need to maintain on their website that is on Isomer?**
+#### **What is the responsibilities of the Agencies for website that is on Isomer?**
 Agencies will be responsible for maintaining the content and ensuring the content meets related standards in DSS. 
 
 #### **Do Agencies need to worry about IM8 if their website is on Isomer?**
@@ -30,20 +30,15 @@ This will cover website hosting, maintenance, support and training of the system
 #### **What are some of the Government websites that are already on Isomer?**
 These are some of the Government websites that are already on Isomer:
 * GovTech website: [https://something1.gov.sg](https://something1.gov.sg){:target="_blank"}
-* HLB website:[https://something2.gov.sg](https://something2.gov.sg){:target="_blank"} 
-* BOA website:[https://something3.gov.sg](https://something3.gov.sg){:target="_blank"}
+* HLB website: [https://something2.gov.sg](https://something2.gov.sg){:target="_blank"} 
+* BOA website: [https://something3.gov.sg](https://something3.gov.sg){:target="_blank"}
 
 #### **How do Agencies get started on Isomer?**
 You may contact us at <admin@isomer.gov.sg>
 
 #### **What type of websites is Isomer suitable for?**
-Websites with these profiles are suited to be on Isomer:
-* Blogs
-* Documentation
-* Landing site
-* Marketing website
-
-You may contact us at <admin@isomer.gov.sg> if you are unsure if your website is suitable to be on Isomer.
+Informational websites are suited to be on Isomer.
+You may contact us at <admin@isomer.gov.sg> for more information.
 
 #### **What are my options if I am unable to use Isomer?**
 Agencies can consider Isomer Design System.
