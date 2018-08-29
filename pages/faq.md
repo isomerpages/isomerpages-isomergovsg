@@ -47,6 +47,6 @@ Isomer Design System is a collection of UI components and design patterns that w
 
 Design systems are widely used around the world today:
 * In Industry: [Google Material design](https://material.io/design/){:target="_blank"}, [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/){:target="_blank"}
-* In Government: [U.S. Web Design System](https://designsystem.digital.gov/){:target="_blank"}, [GOV.UK Design System](https://design-system.service.gov.uk/){:target="_blank"}, [Australian Design System](https://designsystem.gov.au/){:target="_blank"}
+* In Government: [U.S. Web Design System](https://designsystem.digital.gov/){:target="_blank"}, [Gov.UK Design System](https://design-system.service.gov.uk/){:target="_blank"}, [Australian Design System](https://designsystem.gov.au/){:target="_blank"}
 
 For Isomer Design System, Agencies will be responsible for hosting, maintenance and compliance to IM8 and DSS of their website.
