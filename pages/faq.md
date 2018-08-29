@@ -12,7 +12,7 @@ It provides templates for websites, hosting and is compliant to Instruction Manu
 GovTech builds, provides training and maintains Isomer as a service to all Singapore Government Agencies. 
 This website that you are seeing now is generated and hosted on Isomer.
 
-#### **With Isomer, what do Agencies need to maintain on their website?**
+#### **What do Agencies need to maintain on their website that is on Isomer?**
 Agencies will be responsible for maintaining the content and ensuring the content meets related standards in DSS. 
 Example 
 
@@ -26,9 +26,6 @@ Yes, Agencies will be responsible for choosing what content to migrate and also 
 #### **Do Agencies need to pay to use Isomer?**
 It will free of charge for the first 12 months. Subsquently, GovTech will charge Agencies $420/month. 
 This will cover website hosting, maintenance, support and training of the system.
-
-#### **How long does it take to have a website up on Isomer?**
-Excluding the effort to do content migration, typically it will take about 5 working days for GovTech to generate and host your website.
 
 #### **What are some of the Government websites that are already on Isomer?**
 These are some of the Government websites that are already on Isomer:
