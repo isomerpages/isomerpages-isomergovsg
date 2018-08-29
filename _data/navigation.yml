@@ -8,11 +8,11 @@
   url: /about/
 - title: Docs
   url: /docs/
+- title: FAQ
+  url: /faq/
 - title: Design System
   url: https://designsystem.isomer.gov.sg/
   external: true
-- title: FAQ
-  url: /faq/
 - title: Markdown Editor
   url: https://isomerpages.github.io/markdown-editor/
   external: true
