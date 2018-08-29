@@ -19,6 +19,9 @@ Mainly just content. For most part of DSS, Isomer is compliance. However, there 
 If your website is generated and maintained by Isomer, you do not need to worry about IM8. 
 This requirement will be centrally handled by GovTech.
 
+### **Do Agencies need migrate their content from existing website to Isomer website?**
+Yes, agencies will need to handle the migration. But GovTech will be there to support the migration by providing training.
+
 ### **Do Agencies need to pay to use Isomer?**
 It will free of charge for the first 12 months. Subsquently, the cost will be $420/month.
 
@@ -27,6 +30,9 @@ Below are some of the Government website that are on Isomer today:
 * https://tech.gov.sg
 * https://hlb.gov.sg
 * https://boa.gov.sg
+
+### **How do Agencies get started on Isomer?**
+You may contact us at our email admin@isomer.gov.sg
 
 ### **My Agencies have transactional websites, can I port my website over to Isomer?**
 Isomer static website generator is not suitable for website that perform transactions. 
