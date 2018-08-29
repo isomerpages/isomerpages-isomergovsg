@@ -10,7 +10,7 @@ Isomer is a website generator created by the Government Technology Agency of Sin
 It provides templates for websites, hosting and is compliant to Instruction Manual 8 (IM8) and Design Service Standard (DSS).
 
 The team at GovTech builds, provides training and maintains Isomer as a service to all Singapore Government Agencies. 
-This website is also generated and hosted via Isomer.
+This website is also generated and hosted using Isomer.
 
 ### **With Isomer, what do Agencies need to maintain on their website?**
 Mainly just content. Isomer is compliant to most part of DSS, however there are content related standards in DSS that agencies will need to meet.
@@ -28,9 +28,7 @@ This will cover hosting, maintenance, support and training of the system.
 
 ### **What are some of the Government website that are already on Isomer?**
 Below are some of the Government website that are on Isomer today:
-* https://tech.gov.sg
-* https://hlb.gov.sg
-* https://boa.gov.sg
+* [https://something.gov.sg](https://something.gov.sg){:target="_blank"}
 
 ### **How do Agencies get started on Isomer?**
 You may contact us at our email admin@isomer.gov.sg
