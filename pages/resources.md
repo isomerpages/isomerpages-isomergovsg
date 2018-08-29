@@ -8,7 +8,7 @@ breadcrumb: Resources
 ### **Training Materials**
 * [Training Guide for Editor]({{"/files/Editor Training Guide.pdf" | absolute_url }}){:target="_blank"}
 * [Training Guide for Reviewer]({{"/files/Reviewer Training Guide.pdf" | absolute_url }}){:target="_blank"}
-* [Github Account Setup Guide]({{"/files/Github Account Setup Guide.pdf | absolute_url }}){:target="_blank"}
+* [Github Account Setup Guide]({{"/files/Github Account Setup Guide.pdf" | absolute_url }}){:target="_blank"}
 * Use [Markdown Editor](https://isomerpages.github.io/markdown-editor){:target="_blank"} shown during training session
 
 ### **Markdown Examples**
