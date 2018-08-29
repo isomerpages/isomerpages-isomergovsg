@@ -14,7 +14,6 @@ This website that you are seeing now is generated and hosted on Isomer.
 
 #### **What do Agencies need to maintain on their website that is on Isomer?**
 Agencies will be responsible for maintaining the content and ensuring the content meets related standards in DSS. 
-Example 
 
 #### **Do Agencies need to worry about IM8 if their website is on Isomer?**
 If your Agencies is using Isomer, you do not need to worry about IM8. 
