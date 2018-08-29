@@ -5,44 +5,37 @@ permalink: /faq/
 breadcrumb: FAQ
 ---
 
-### **Can my agency website switch over to Isomer?**
+### **What is Isomer?**
+Isomer is a static website generator created by the Government Technology Agency of Singapore (GovTech). 
+It provides templates for static websites, hosting and is compliance to IM8 and DSS.
 
-Isomer is meant for informational services - this means that it is suitable for most corporate websites (Hotels Licensing Board, GovTech corporate websites) and other microsites (e.g. mc.gov.sg and National Digital Identity).
+The team at GovTech builds, provide training and maintains Isomer as a service to all Singapore Government Agencies. 
+This website you are on now is generated and hosted on Isomer.
 
-Some websites have both informational and transactional features. Isomer can cover the informational portion of such websites. The informational portion of the website can then contain hyperlinks to the transactional portion of your website.
+### **With Isomer, what do Agencies need to maintain on their website?**
+Mainly just content. For most part of DSS, Isomer is compliance. However, there are content and procedural related requirements in DSS that agencies will need to comply to.
 
-Please feel free to reach out to us if you have any questions.
+### **Do Agencies need to worry about IM8 if their website is on Isomer?**
+If your website is generated and maintained by Isomer, you do not need to worry about IM8. 
+This requirement will be centrally handled by GovTech.
 
-### **What is a static site?**
+### **Do Agencies need to pay to use Isomer?**
+It will free of charge for the first 12 months. Subsquently, the cost will be $420/month.
 
-Static sites are websites that are comprised only of static files: HTML, CSS, JavaScript, and other documents (e.g. PDF, Word). Static sites do not require web application servers or databases.
+### **What are some of the Government website that are already on Isomer?**
+Below are some of the Government website that are on Isomer today:
+* https://tech.gov.sg
+* https://hlb.gov.sg
+* https://boa.gov.sg
 
-In contrast to static sites, dynamic sites are websites that require web application servers and/or databases. Websites powered by dynamic Content Management Systems (those with servers) WordPress, Sitefinity, or Sitecore, are NOT static sites.
+### **My Agencies have transactional websites, can I port my website over to Isomer?**
+Isomer static website generator is not suitable for website that perform transactions. 
 
-When a user tries to load a web page from a dynamic site, the application server has to pull a bunch of data from the database and build the web page from templates, before serving it to the user. This is all done on-the-fly.
+We recommend using Isomer Design System.....
 
-In contrast, when a user tries to load a web page from a static site, the static files are served to the user immediately. This can be done because the static files are pre-generated even before the user attempts to access the static site.
-
-### **What is the Singapore Government Design System?**
-
-The Singapore Government Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide users with a unified experience across all public-facing government digital services.
+### **What is the Isomer Design System?**
+Isomer Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide users with a unified experience across all public-facing government digital services.
 
 Design systems are widely used around the world today:
 * In Industry: Google Material design, Adobe Spectrum
 * In Government: U.S. Web Design System, GOV.UK Design System, Australian Government Design System
-
-### **What features does Isomer have?**
-
-* Responsive, mobile-first web design powered by the [Design System]({{"http://designsystem.isomer.gov.sg/" | absolute_url}})
-* Content Management System powered by [GitHub]({{"https://github.com/" | absolute_url}})
-* Search powered by [Lunr.js]({{"https://lunrjs.com/" | absolute_url}})
-* Form submission (e.g. feedback) powered by [Form.sg]({{"https://form.gov.sg" | absolute_url}})
-* Media/Resources page with pagination and sub-categories
-
-### **Can Isomer support embedding of videos?**
-
-Yes - the videos must be hosted on YouTube, Vimeo, or some third party video-hosting platform. You can then embed the videos in the markdown files.
-
-### **Can Isomer support social media links?**
-
-Yes - there is the option of providing links to social media platforms.
