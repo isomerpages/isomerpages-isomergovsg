@@ -44,6 +44,9 @@ breadcrumbs:
 # Site configuration
 ####################
 
+# FAQ URL
+faq_url: "/faq/"
+
 # Feedback Form URL
 feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
 
