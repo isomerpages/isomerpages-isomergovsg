@@ -27,9 +27,14 @@ Yes, Agencies will be responsible for content migration. GovTech will support Ag
 It will free of charge for the first 12 months. Subsquently, GovTech will charge Agencies $420/month. 
 GovTech will cover website hosting, maintenance, support and training of the system.
 
+### **How long does it take to have a website up on Isomer?**
+Excluding the effort to do content migration, typically it will take about 1 week for GovTech to host and generate your website.
+
 ### **What are some of the Government website that are already on Isomer?**
-Below are some of the Government websites that are already on Isomer today:
-* [https://something.gov.sg](https://something.gov.sg){:target="_blank"} 
+These are some of the Government websites that are already on Isomer:
+* [https://something1.gov.sg](https://something1.gov.sg){:target="_blank"}
+* [https://something2.gov.sg](https://something2.gov.sg){:target="_blank"} 
+* [https://something3.gov.sg](https://something3.gov.sg){:target="_blank"}
 
 ### **How do Agencies get started on Isomer?**
 You may contact us at our email admin@isomer.gov.sg
