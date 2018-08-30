@@ -5,13 +5,13 @@ permalink: /resources/
 breadcrumb: Resources
 ---
 
-#### **Training Materials**
+### **Training Materials**
 * [Training Guide for Editor]({{"/files/Editor Training Guide.pdf" | absolute_url }}){:target="_blank"}
 * [Training Guide for Reviewer]({{"/files/Reviewer Training Guide.pdf" | absolute_url }}){:target="_blank"}
 * [Github Account Setup Guide]({{"/files/Github Account Setup Guide.pdf" | absolute_url }}){:target="_blank"}
-* Use [Markdown Editor](https://isomerpages.github.io/markdown-editor){:target="_blank"} shown during training session
+* [Markdown Editor](https://isomerpages.github.io/markdown-editor){:target="_blank"} shown during training session
 
-#### **Markdown Examples**
+### **Markdown Examples**
 * [Setting font size for your headers using markdown](https://isomerpages.github.io/markdown-editor/#U1ZWVtDScsvPK1EozqxKVUjLL1LISE1MSS0q1tLiiswvVUhOzFNIzsjPL05VSMlMS0stSgWqTYNpKAbrqMwvhWmz4lIGAQUPME8hGGSoIReGkBEXuogxF5qACRcq3xQA){:target="_blank"}
 
 * [Format text using markdown](https://isomerpages.github.io/markdown-editor/#TY0xDsIwDEX3nsJSNw8gmKtKLNyAAVUMSWraqGkNiYMoQ89OGiFg89f/z68sS0A8sh+ViJ06EHoKYnHmCEZNqdPsWkRQUwtoRTlr7IsQZo4+jzdwSNX82dODEmR41HaiTEufaLt+kp4gqJFSdqnFDRRfj3KBYVmCeDuQ9J5j1y9Ltqq2hSuzkA8g/BNDFeKtbnaXarsea9R1s89R10VRwykQaMdmuMeEZ3pUA/29CLIaOMob){:target="_blank"}
