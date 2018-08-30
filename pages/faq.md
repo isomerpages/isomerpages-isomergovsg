@@ -6,7 +6,7 @@ breadcrumb: FAQ
 ---
 
 #### **What is Isomer?**
-Isomer is a informational website generator created by the Government Technology Agency of Singapore (GovTech).
+Isomer is an informational website generator created by the Government Technology Agency of Singapore (GovTech).
 
 It provides templates for websites, hosting and is compliant to Instruction Manual 8 (IM8), Design Service Standard (DSS) 
 and Usability Checklist (UC). 
@@ -14,21 +14,21 @@ and Usability Checklist (UC).
 GovTech builds, provides training and maintains Isomer as a service to all Singapore Government Agencies. 
 This website that you are seeing now is generated and hosted using Isomer.
 
-#### **Do my agency need to worry about IM8 if our website is on Isomer?**
-Your agency do not need to worry about IM8 for websites that are on Isomer.
+#### **Does my agency need to worry about IM8 if our website is on Isomer?**
+Your agency does not need to worry about IM8 for websites that are on Isomer.
 This requirement will be centrally managed by GovTech.
 
-#### **What are the responsibilities of my agency for website that is on Isomer?**
-Your agency will be responsible for maintaining and ensuring that their website content the content meets related standards in DSS. 
-GovTech will be responsible for websites hosting, maintanence, support and ensuring compliant to IM8, DSS and UC.
+#### **What are the responsibilities of my agency for a website that is on Isomer?**
+Your agency will be responsible for maintaining and ensuring that your website content meets related standards in DSS. 
+GovTech will be responsible for websites hosting, maintanence, support and ensuring compliance to IM8, DSS and UC.
 
-#### **Do my agency need to pay to have our website to be on Isomer?**
-It will free of charge for the first 12 months. Subsquently, GovTech will charge our agency $420/month. 
-This will cover website hosting, maintenance, support and training of the system.
+#### **Does my agency need to pay to have our website to be on Isomer?**
+It will be free of charge for the first 12 months. Subsquently, GovTech will charge your agency $420/month. 
+This will cover website hosting, maintenance, support and training for the system.
 
-#### **Do my agency need to migrate the content from our existing website?**
+#### **Does my agency need to migrate the content from our existing website?**
 Your agency will be responsible for choosing what content to migrate and also the migration of the content. 
-GovTech will support agency by providing training.
+GovTech will support your agency by providing training.
 
 #### **What are some of the Government websites that are already on Isomer?**
 These are some of the Government websites that are already on Isomer:
@@ -37,18 +37,18 @@ These are some of the Government websites that are already on Isomer:
 * BOA website: [https://something3.gov.sg](https://something3.gov.sg){:target="_blank"}
 
 #### **How do Agencies get started on Isomer?**
-You may contact us at <admin@isomer.gov.sg> for more information.
+You can contact us at <admin@isomer.gov.sg> for more information.
 
 #### **What type of websites is Isomer suitable for?**
 Informational websites are suited to be on Isomer.
-You may contact us at <admin@isomer.gov.sg> for more information.
+You can contact us at <admin@isomer.gov.sg> for more information.
 
 #### **What are my options if I am unable to use Isomer?**
-Your agency can consider Isomer Design System. 
+Your agency can consider using the Isomer Design System. 
 
-Isomer Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide users with a unified experience across all public-facing government digital services.
+Isomer Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
 
-Do note that for Isomer Design System, your agency will be responsible for hosting, maintenance and compliance to IM8 and DSS of their website.
+Do note that for Isomer Design System, your agency will be responsible for development, hosting, maintenance and compliance to IM8 and DSS of your website.
 
 Design systems are widely used around the world today:
 * In Industry: [Google Material design](https://material.io/design/){:target="_blank"}, [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/){:target="_blank"}
