@@ -8,14 +8,13 @@ breadcrumb: FAQ
 #### **What is Isomer?**
 Isomer is an informational website generator created by the Government Technology Agency of Singapore (GovTech).
 
-It provides templates for websites, hosting and is compliant to Instruction Manual 8 (IM8), Design Service Standard (DSS) 
-and Usability Checklist (UC). 
+It provides templates for websites, hosting and is compliant design to applicable clauses in Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC). 
 
 GovTech builds, provides training and maintains Isomer as a service to all Singapore Government Agencies. 
 This website that you are seeing now is generated and hosted using Isomer.
 
 #### **Does my agency need to worry about IM8 if our website is on Isomer?**
-Your agency does not need to worry about IM8 for websites that are on Isomer.
+Your agency does not need to worry about applicable clauses in IM8 for websites that are on Isomer.
 This requirement will be centrally managed by GovTech.
 
 #### **What are the responsibilities of my agency for a website that is on Isomer?**
@@ -32,9 +31,9 @@ GovTech will support your agency by providing training.
 
 #### **What are some of the Government websites that are already on Isomer?**
 These are some of the Government websites that are already on Isomer:
-* GovTech website: [https://something1.gov.sg](https://something1.gov.sg){:target="_blank"}
-* HLB website: [https://something2.gov.sg](https://something2.gov.sg){:target="_blank"} 
-* BOA website: [https://something3.gov.sg](https://something3.gov.sg){:target="_blank"}
+* GovTech website: [http://tech.gov.sg/](http://beta.tech.gov.sg/){:target="_blank"}
+* HLB website: [https://hlb.gov.sg](https://d3owwuwxtxaalq.cloudfront.net/){:target="_blank"} 
+* BOA website: [https://boa.gov.sg](https://isomerpages.github.io/isomerpages-boa/){:target="_blank"}
 
 #### **How do Agencies get started on Isomer?**
 You can contact us at <admin@isomer.gov.sg> for more information.
