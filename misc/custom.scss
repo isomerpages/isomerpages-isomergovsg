@@ -370,9 +370,12 @@ $widescreen: 1152px + (4 * $gap) !default;
 
 .helper {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   vertical-align: middle;
+  .is-hidden-desktop &{
+    justify-content: center;
+  }
 }
 
 .isomer-agency-logo {
