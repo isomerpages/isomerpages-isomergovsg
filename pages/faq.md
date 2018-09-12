@@ -15,14 +15,14 @@ This website that you are seeing now is generated and hosted using Isomer.
 
 #### **Does my agency need to worry about IM8 if our website is on Isomer?**
 Your agency does not need to worry about applicable clauses in IM8 for websites that are on Isomer.
-This requirement will be centrally managed by GovTech.
+The fulfillment of these clauses will be centrally managed by GovTech.
 
 #### **What are the responsibilities of my agency for a website that is on Isomer?**
-Your agency will be responsible for maintaining and ensuring that your website content meets related standards in DSS. 
-GovTech will be responsible for websites hosting, maintanence, support and ensuring compliance to IM8, DSS and UC.
+Your agency will be responsible for maintaining and ensuring that your website content meets content-related standards in DSS. 
+GovTech will be responsible for website hosting, maintenance, support and ensuring compliance to relevant clauses of the IM8, DSS and UC.
 
 #### **Does my agency need to pay to have our website to be on Isomer?**
-It will be free of charge for the first 12 months. Subsquently, GovTech will charge your agency $420/month. 
+Isomer will be free of charge for the first 12 months. Subsquently, GovTech will charge your agency $420/month. 
 This will cover website hosting, maintenance, support and training for the system.
 
 #### **Does my agency need to migrate the content from our existing website?**
