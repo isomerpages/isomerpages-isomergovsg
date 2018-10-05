@@ -52,3 +52,4 @@ feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
