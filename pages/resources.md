@@ -20,7 +20,7 @@ breadcrumb: Resources
 
 * [Adding website URL](http://d18l463gxq2d93.cloudfront.net/#nYy9CsIwEMf3PsWfZlAz2L3g4ObgJDiJSNocydF6KclJBvHd7eILOP8+jDEG1h69ZwmoNBRWwvVytrY5UaZNQUwVmjBmcityuP2smWW6b6Pq0nddYI2vYT+m5675u3z36nIgPbSPYXYytR9odIq0kBSwrA+hisriU/0C){:target="_blank"}
 
-* [Adding document links](https://isomerpages.github.io/markdown-editor/#VcoxCoAwDADA3VcEOqgF7Rvc/IM4VBM1WBtpU/y+OLoeZ4wxYO2AyHEHlCcG8QiB42ltNVKiOsMhD6jAmsgrgYdp40D/PDfu8un8rCNkleS+lN3OepSly6Tl7m/c2hc=){:target="_blank"}
+* [Adding document links](http://d18l463gxq2d93.cloudfront.net/#VcoxCoAwDADA3VcEOqgF7Rvc/IM4VBM1WBtpU/y+OLoeZ4wxYO2AyHEHlCcG8QiB42ltNVKiOsMhD6jAmsgrgYdp40D/PDfu8un8rCNkleS+lN3OepSly6Tl7m/c2hc=){:target="_blank"}
 
 * [Adding image](http://d18l463gxq2d93.cloudfront.net/#JYvBDoIwEAXvfMUzvWgT4Rv4BePNeFjbpW1Ct6RdUP9eIsncZsYYY2Dt6H2SgJQpsLXdPaaGnVje+JYVjgTkPegoetw4c35xhRa4SBIYGvmwmNLMWEhjd3qMs3IV0rTtBX8UU6lorjILKpPn2p7n4f+1wRVRcnpdW79IuPwA){:target="_blank"}
 
