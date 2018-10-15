@@ -9,7 +9,7 @@ breadcrumb: Resources
 * [Training Guide for Editor](/files/Editor Training Guide.pdf){:target="_blank"}
 * [Training Guide for Reviewer](/files/Reviewer Training Guide.pdf){:target="_blank"}
 * [Github Account Setup Guide](/files/Github Account Setup Guide.pdf){:target="_blank"}
-* [Markdown Editor](http://d18l463gxq2d93.cloudfront.net){:target="_blank"} shown during training
+* [Markdown Helper](http://d18l463gxq2d93.cloudfront.net){:target="_blank"} shown during training
 
 ### **Markdown Language Examples**
 * [Setting font size for your headers](http://d18l463gxq2d93.cloudfront.net/#U1ZWVlbQ0gpOLSnJzEtXSMvPK1EozqxKBbKKFDJSE1NSi4q1tLi4lEHqHBWKcxNzcsAKUqCyXBCJ3NSUzNJcdBmgRFJmOoooAA==){:target="_blank"}
