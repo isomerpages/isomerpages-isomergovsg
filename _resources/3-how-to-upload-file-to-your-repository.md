@@ -13,4 +13,4 @@ collection_name: resources
 4. Choose your file
 5. Click on commit changes
 
-![How to Upload File to your Website Repository](/images/resources/-upload-file-to-your-repository.gif)
+![How to Upload File to your Website Repository](/images/resources/how-to-upload-file-to-your-repository.gif)
