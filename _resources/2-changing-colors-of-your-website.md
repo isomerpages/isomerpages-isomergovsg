@@ -6,7 +6,7 @@ breadcrumb: Changing Colors of Your Website
 collection_name: resources
 ---
 
-### **Step-by-step guide to change colors for your website**
+### **Step-by-step guide**
 1. Select your "Staging" Branch
 2. In your website repository, go to "misc" folder
 3. Edit custom.scss file
