@@ -6,7 +6,7 @@ breadcrumb: Changing Content of Your Homepage
 collection_name: resources
 ---
 
-### **Step-by-step guide to change the text, logo, image for your homepage**
+### **Step-by-step guide to change text, url, logo or image of your homepage**
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
 3. Edit homepage.yml file
