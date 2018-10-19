@@ -6,6 +6,8 @@ breadcrumb: How to Change the Colors for Your Website
 collection_name: resources
 ---
 
+![How to Change the Colors for Your Website](/images/resources/website-color-change.gif)
+
 You can change the primary and secondary color of your website by:
 1. In your repository, go to /misc folder
 2. Edit custom.scss file
@@ -19,4 +21,4 @@ $secondary: #4372d6;
 $secondary-hover: darken(#4372d6, 20%);
 ```
 
-![How to Change the Colors for Your Website](/images/resources/website-color-change.gif)
+
