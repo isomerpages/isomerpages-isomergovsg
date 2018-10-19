@@ -6,7 +6,7 @@ breadcrumb: Changing Content of Your Contact Us Page
 collection_name: resources
 ---
 
-### **Step-by-step guide**
+#### **Step-by-step guide**
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
 3. Edit contact-us.yml file
@@ -53,5 +53,5 @@ column:
 
 ```
 
-### **Demo**
+#### **Demo**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-contact-us-page.gif)
