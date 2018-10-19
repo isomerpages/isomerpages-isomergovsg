@@ -13,15 +13,15 @@ collection_name: resources
 
 
 ### **Organising your website content using Markdown**
-* [Formatting text with a list](https://markdown.isomer.gov.sg/#Vcy7CgIxEIXhfp7iQLogK0lpp4VgZW2ZLIMGcoFkgvr2gptd2O4bmPMrpRS0vpaanEjITwh/BO8gLzjE0ERrepSO2WXMlZ0wfI+R5di6X/R/OxE0bsIJZpMlYPNkdpclutcDviPtYitrP/fkuY6qmZbFmezQ5Qc=){:target="_blank"}
+* [Organising content with a list](https://markdown.isomer.gov.sg/#Vcy7CgIxEIXhfp7iQLogK0lpp4VgZW2ZLIMGcoFkgvr2gptd2O4bmPMrpRS0vpaanEjITwh/BO8gLzjE0ERrepSO2WXMlZ0wfI+R5di6X/R/OxE0bsIJZpMlYPNkdpclutcDviPtYitrP/fkuY6qmZbFmezQ5Qc=){:target="_blank"}
 
-* [Adding table](https://markdown.isomer.gov.sg/#zVDBSsNAEL3nK4bk0gZMrGKlJQl48+CtoAeRsmmmTehmJ+xOGlrxp/wEv8zdxgasiFcvO7PzZua9eUEQBBCGd0VRqQ0Ai1xiGHpPCBpXVNeoCthTC0ywQYVaMIKwtUYYm1lED/WinwbaoYYSNUK+h9a4vVwiPPfoVzfpl1HJ3Jh5HHddFx1BM4CR5Y5LruWyB8avcxZ6g5z6y1wKtfXfPC8M70lXB1IsZM9trPSk51lJYUzqHz8XpZ95AAlrF1xSgKbONEKl/rWfLbhdr0Hk1DIsrF7RkMYk5mJoz4YyNNS0UnBFCkx1OGu7iaZQV1I6dHR1OZmOT7iN+lxE9uCsrK1QoPVvzLeTWTSDbf3x/n2Vfd1tmfPhETVXq79c2P1w4T+f9Qk=){:target="_blank"}
+* [Organising content with a table](https://markdown.isomer.gov.sg/#zVDBSsNAEL3nK4bk0gZMrGKlJQl48+CtoAeRsmmmTehmJ+xOGlrxp/wEv8zdxgasiFcvO7PzZua9eUEQBBCGd0VRqQ0Ai1xiGHpPCBpXVNeoCthTC0ywQYVaMIKwtUYYm1lED/WinwbaoYYSNUK+h9a4vVwiPPfoVzfpl1HJ3Jh5HHddFx1BM4CR5Y5LruWyB8avcxZ6g5z6y1wKtfXfPC8M70lXB1IsZM9trPSk51lJYUzqHz8XpZ95AAlrF1xSgKbONEKl/rWfLbhdr0Hk1DIsrF7RkMYk5mJoz4YyNNS0UnBFCkx1OGu7iaZQV1I6dHR1OZmOT7iN+lxE9uCsrK1QoPVvzLeTWTSDbf3x/n2Vfd1tmfPhETVXq79c2P1w4T+f9Qk=){:target="_blank"}
 
 
 ### **Adding media to your website using Markdown**
-* [Adding image](https://markdown.isomer.gov.sg/#JYvBDoIwEAXvfMUzvWgT4Rv4BePNeFjbpW1Ct6RdUP9eIsncZsYYY2Dt6H2SgJQpsLXdPaaGnVje+JYVjgTkPegoetw4c35xhRa4SBIYGvmwmNLMWEhjd3qMs3IV0rTtBX8UU6lorjILKpPn2p7n4f+1wRVRcnpdW79IuPwA){:target="_blank"}
+* [Adding jpg, png image or gif](https://markdown.isomer.gov.sg/#JYvBDoIwEAXvfMUzvWgT4Rv4BePNeFjbpW1Ct6RdUP9eIsncZsYYY2Dt6H2SgJQpsLXdPaaGnVje+JYVjgTkPegoetw4c35xhRa4SBIYGvmwmNLMWEhjd3qMs3IV0rTtBX8UU6lorjILKpPn2p7n4f+1wRVRcnpdW79IuPwA){:target="_blank"}
 
-* [Adding document link](https://markdown.isomer.gov.sg/#VcoxCoAwDADA3VcEOqgF7Rvc/IM4VBM1WBtpU/y+OLoeZ4wxYO2AyHEHlCcG8QiB42ltNVKiOsMhD6jAmsgrgYdp40D/PDfu8un8rCNkleS+lN3OepSly6Tl7m/c2hc=){:target="_blank"}
+* [Adding word, pdf document link](https://markdown.isomer.gov.sg/#VcoxCoAwDADA3VcEOqgF7Rvc/IM4VBM1WBtpU/y+OLoeZ4wxYO2AyHEHlCcG8QiB42ltNVKiOsMhD6jAmsgrgYdp40D/PDfu8un8rCNkleS+lN3OepSly6Tl7m/c2hc=){:target="_blank"}
 
 * [Adding website URL](https://markdown.isomer.gov.sg/#nYy9CsIwEMf3PsWfZlAz2L3g4ObgJDiJSNocydF6KclJBvHd7eILOP8+jDEG1h69ZwmoNBRWwvVytrY5UaZNQUwVmjBmcityuP2smWW6b6Pq0nddYI2vYT+m5675u3z36nIgPbSPYXYytR9odIq0kBSwrA+hisriU/0C){:target="_blank"}
 
