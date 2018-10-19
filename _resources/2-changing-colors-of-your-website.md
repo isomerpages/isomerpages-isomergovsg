@@ -10,7 +10,7 @@ collection_name: resources
 1. Select your "Staging" Branch
 2. In your website repository, go to "misc" folder
 3. Edit custom.scss file
-4. Change the primary and secondary color of your website by amending the section shown below
+4. Change the primary and secondary color of your website by amending the section below inside the file
 5. Click on "Commit changes" button
 
 ```
