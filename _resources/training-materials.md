@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Training Materials
 permalink: /resources/
 breadcrumb: Resources
-collection: resources
+collection_name: resources
 ---
 
 ### **Training Materials**
