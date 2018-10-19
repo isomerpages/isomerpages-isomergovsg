@@ -16,7 +16,6 @@ collection_name: resources
 <sub>***BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT**</sub>
 
 ```
-# code block
 locations:
   # HQ Address [REQUIRED]
   - title: 10 Pasir Panjang Road
