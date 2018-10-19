@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Changing Content, URL, Logo or Image of Your Homepage 
-permalink: /changing-content-of-your-homepage/
-breadcrumb: Changing Content of Your Homepage 
+permalink: /changing-content-url-logo-image-of-your-homepage/
+breadcrumb: Changing Content, URL, Logo or Image of Your Homepage 
 collection_name: resources
 ---
 
