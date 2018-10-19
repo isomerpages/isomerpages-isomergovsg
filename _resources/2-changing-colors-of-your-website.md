@@ -21,6 +21,7 @@ $secondary: #4372d6;
 $secondary-hover: darken(#4372d6, 20%);
 ```
 
+### **Demo**
 ![How to Change the Colors for Your Website](/images/resources/website-color-change.gif)
 
 
