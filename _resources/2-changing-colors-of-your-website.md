@@ -6,7 +6,7 @@ breadcrumb: Changing Colors of Your Website
 collection_name: resources
 ---
 
-### **Step-by-step guide**
+#### **Step-by-step guide**
 1. Select your "Staging" Branch
 2. In your website repository, go to "misc" folder
 3. Edit custom.scss file
@@ -20,7 +20,7 @@ $secondary: #4372d6;
 $secondary-hover: darken(#4372d6, 20%);
 ```
 
-### **Demo**
+#### **Demo**
 ![How to Change the Colors for Your Website](/images/resources/website-color-change.gif)
 
 
