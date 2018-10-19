@@ -50,4 +50,5 @@ resources-more-button-url: publications/
 
 ```
 
+### **Demo**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
