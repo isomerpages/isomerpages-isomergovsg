@@ -8,9 +8,9 @@ collection_name: resources
 
 ### **Step-by-step guide to upload file to your repository**
 1. Select your "Staging" Branch
-2. In your repository, go to folder that you wish to upload your files. Usually it will be images or files folder
+2. In your repository, go to folder that you wish to upload your file
 3. Click on "Upload files" button
 4. Choose your file
-5. Click on commit changes
+5. Click on "Commit changes" button
 
 ![How to Upload File to your Website Repository](/images/resources/how-to-upload-file-to-your-repository.gif)
