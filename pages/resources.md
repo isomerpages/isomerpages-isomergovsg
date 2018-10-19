@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Resources
 permalink: /resources/
 breadcrumb: Resources
