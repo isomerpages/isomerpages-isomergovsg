@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing Content of Your Homepage 
+title: Changing Content, URL, Logo or Image of Your Homepage 
 permalink: /changing-content-of-your-homepage/
 breadcrumb: Changing Content of Your Homepage 
 collection_name: resources
 ---
 
-### **Step-by-step guide to change text, url, logo or image of your homepage**
+### **Step-by-step guide**
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
 3. Edit homepage.yml file
