@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Markdown Language Examples
-permalink: /markdown-language-examples/
-breadcrumb: markdown-language-examples
+title: Markdown Examples
+permalink: /markdown-examples/
+breadcrumb: markdown-examples
 collection_name: resources
 ---
 
