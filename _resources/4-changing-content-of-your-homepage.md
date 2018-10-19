@@ -6,7 +6,7 @@ breadcrumb: Changing Content, URL, Logo or Image of Your Homepage
 collection_name: resources
 ---
 
-### **Step-by-step guide**
+#### **Step-by-step guide**
 1. Select your "Staging" Branch
 2. In your repository, go to "_data" folder
 3. Edit homepage.yml file
@@ -50,5 +50,5 @@ resources-more-button-url: publications/
 
 ```
 
-### **Demo**
+#### **Demo**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
