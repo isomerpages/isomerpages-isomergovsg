@@ -14,7 +14,6 @@ collection_name: resources
 5. Click on "Commit changes" button
 
 ```
-# code block
 // Website brand colors
 $primary: #6031b6;
 $secondary: #4372d6;
