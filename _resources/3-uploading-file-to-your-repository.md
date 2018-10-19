@@ -13,5 +13,7 @@ collection_name: resources
 4. Choose your file
 5. Click on "Commit changes" button
 
+<sub>***WE HIGHLY RECOMMEND TO REPLACE THE SPACE IN THE FILENAME WITH THE SYMBOL DASH (-)**</sub>
+
 ### **Demo**
 ![How to Upload File to your Website Repository](/images/resources/how-to-upload-file-to-your-repository.gif)
