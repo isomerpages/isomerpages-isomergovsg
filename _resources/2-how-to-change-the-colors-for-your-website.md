@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: How to Change Colors for Your Website
-permalink: /how-to-change-colors-for-your-website/
-breadcrumb: How to Change Colors for Your Website
+title: How to Change Colors of Your Website
+permalink: /how-to-change-colors-of-your-website/
+breadcrumb: How to Change Colors of Your Website
 collection_name: resources
 ---
 
