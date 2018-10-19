@@ -6,10 +6,10 @@ breadcrumb: How to Change the Colors for Your Website
 collection_name: resources
 ---
 
-You can change the primary and secondary color of your website:
-- In your repo, find /misc/custom.scss file
-- Edit /custom.scss file
-- Change the primary and secondary color of your website by amending the file section in the file
+You can change the primary and secondary color of your website by:
+1. In your repo, find /misc/custom.scss file
+2. Edit custom.scss file
+3. Change the primary and secondary color of your website by amending the section below inside custom.scss file
 
 ```
 # code block
