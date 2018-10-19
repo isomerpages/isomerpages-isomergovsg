@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Markdown Examples
-permalink: /markdown-examples/
-breadcrumb: markdown examples
+title: Markdown Helper
+permalink: /markdown-helper/
+breadcrumb: Markdown Helper
 collection_name: resources
 ---
 
