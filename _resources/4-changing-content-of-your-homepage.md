@@ -13,8 +13,7 @@ collection_name: resources
 4. Change the text, logo, image by amending the section below inside the file
 5. Click on "Commit changes" button
 
-<sub>***BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT**</sub>
-
+<font color="red"><b>BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT</b></font>
 ```
 # Agency logo
 agency-logo: /images/isomer-logo.svg
