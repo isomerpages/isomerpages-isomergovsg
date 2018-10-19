@@ -11,7 +11,7 @@ collection_name: resources
 2. In your website repository, go to /misc folder
 3. Edit custom.scss file
 4. Change the primary and secondary color of your website by amending the section below inside custom.scss file
-5. Click on commit changes
+5. Click on "Commit changes" button
 
 ```
 # code block
