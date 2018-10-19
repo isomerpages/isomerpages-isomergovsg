@@ -13,7 +13,7 @@ collection_name: resources
 4. Change the content by amending the section below inside the file
 5. Click on "Commit changes" button
 
-<font color="red"><b>* Be very careful with the spacing in the contact-us.yml file. <br>* Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>* Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
 locations:
   # HQ Address [REQUIRED]
