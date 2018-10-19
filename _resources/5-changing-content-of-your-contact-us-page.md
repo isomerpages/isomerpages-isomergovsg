@@ -13,7 +13,7 @@ collection_name: resources
 4. Change the content by amending the section below inside the file
 5. Click on "Commit changes" button
 
-<font color="red"><sub>***BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT**</sub></font>
+<font color="red">**BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT**</font>
 
 ```
 locations:
