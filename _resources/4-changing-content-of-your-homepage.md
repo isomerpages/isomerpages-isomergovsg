@@ -13,7 +13,7 @@ collection_name: resources
 4. Change the text, logo, image by amending the section shown below
 5. Click on "Commit changes" button
 
-**WARNING: TAKE NOTE OF THE SPACING IN THE FILE, THE WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT**
+***WARNING: BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT***
 
 ```
 # code block
