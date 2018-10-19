@@ -11,7 +11,7 @@ collection_name: resources
 2. In your repository, go to "_data" folder
 3. Edit homepage.yml file
 4. Change the text, logo, image by amending the section below inside the file
-5. Click on "Commit changes" button
+5. Click on "Commit changes" button<br>
 <sub>****BE VERY CAREFUL WITH THE SPACING IN THE YML FILE. YOUR WEBSITE WILL BREAK IF THE SPACING ARE INCORRECT***</sub>
 
 ```
