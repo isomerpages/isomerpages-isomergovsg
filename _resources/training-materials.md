@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Training Materials
-permalink: /training-materials/
-breadcrumb: Training Materials
+permalink: /resources/
+breadcrumb: Resources
 collection: resources
 ---
 
