@@ -13,7 +13,7 @@ collection_name: resources
 4. Change the text, logo, image by amending the section below inside the file
 5. Click on "Commit changes" button
 
-<font color="red"><b>* Be very careful with the spacing in the homepage.yml file. <br>* Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>* Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
 # Agency logo
 agency-logo: /images/isomer-logo.svg
