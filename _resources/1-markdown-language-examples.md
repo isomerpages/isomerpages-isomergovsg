@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Markdown Examples
 permalink: /markdown-examples/
-breadcrumb: markdown-examples
+breadcrumb: markdown examples
 collection_name: resources
 ---
 
