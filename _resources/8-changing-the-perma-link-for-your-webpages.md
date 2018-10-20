@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing the Perma Link for your Webpages
+title: Changing perma link for your webpages
 permalink: /changing-the-perma-link-for-your-webpages/
-breadcrumb: Changing the Perma Link for your Webpages
+breadcrumb: Changing perma Link for your webpages
 collection_name: resources
 ---
 
@@ -14,9 +14,9 @@ collection_name: resources
 * Click on "Commit changes" button
 
 ```
----
+# Sample .md file section for reference
+
 permalink: /faq/
----
 ```
 
 #### **Demo**
