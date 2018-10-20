@@ -15,6 +15,8 @@ collection_name: resources
 
 <font color="red"><b>* Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
+# Sample homepage.yml file section for reference
+
 # Agency logo
 agency-logo: /images/isomer-logo.svg
 
