@@ -7,11 +7,11 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide**
-1. Select your "Staging" Branch
-2. In your website repository, go to "misc" folder
-3. Edit custom.scss file
-4. Change the color of your website by amending the section below inside the file
-5. Click on "Commit changes" button
+* Select your "Staging" Branch
+* In your website repository, go to "misc" folder
+* Edit custom.scss file
+* Change the color of your website by amending the section below inside the file
+* Click on "Commit changes" button
 
 ```
 // Website brand colors
