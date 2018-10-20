@@ -15,11 +15,10 @@ collection_name: resources
 
 ```
 ---
-layout: leftnav-page-content
-title: Changing Colors of Your Website
-permalink: /changing-colors-of-your-website/
-breadcrumb: Changing Colors of Your Website
-collection_name: resources
+layout: simple-page
+title: Frequently Asked Questions
+permalink: /faq/
+breadcrumb: FAQ
 ---
 ```
 
