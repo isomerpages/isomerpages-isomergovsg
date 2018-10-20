@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing the Perma Link of Your Webpages
-permalink: /changing-the-perma-link-of-your-webpages/
-breadcrumb: Changing the Perma Link of Your Webpages
+title: Changing the Perma Link for your Webpages
+permalink: /changing-the-perma-link-for-your-webpages/
+breadcrumb: Changing the Perma Link for your Webpages
 collection_name: resources
 ---
 
