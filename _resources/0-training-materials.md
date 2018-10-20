@@ -7,7 +7,7 @@ collection_name: resources
 ---
 
 #### **What is Isomer, Github, Markdown**
-* [Training Guide for Editor of Content](/files/Editor Training Guide.pdf){:target="_blank"}
+* [Training Guide for Editor of Content](/files/Editor Isomer Training.pdf){:target="_blank"}
 * [Training Guide for Reviewer of Content](/files/Reviewer Training Guide.pdf){:target="_blank"}
 * [Training Guide for Administrator of Github Repository](/files/Administrator Isomer Training.pdf){:target="_blank"}
 
