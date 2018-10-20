@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Content for your Contact Us Page
+title: Changing content for your contact us page
 permalink: /changing-content-for-your-contact-us-page/
-breadcrumb: Changing Content for your Contact Us Page
+breadcrumb: Changing content for your contact us page
 collection_name: resources
 ---
 
@@ -15,6 +15,8 @@ collection_name: resources
 
 <font color="red"><b>* Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
+# Sample contact-us.yml file section for reference
+
 locations:
   # HQ Address [REQUIRED]
   - title: 10 Pasir Panjang Road
