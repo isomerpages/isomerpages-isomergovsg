@@ -7,11 +7,11 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide**
-1. Select your "Staging" Branch
-2. In your repository, go to "_data" folder
-3. Edit contact-us.yml file
-4. Change the content by amending the section below inside the file
-5. Click on "Commit changes" button
+* Select your "Staging" Branch
+* In your repository, go to "_data" folder
+* Edit contact-us.yml file
+* Change the content by amending the section below inside the file
+* Click on "Commit changes" button
 
 <font color="red"><b>* Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
