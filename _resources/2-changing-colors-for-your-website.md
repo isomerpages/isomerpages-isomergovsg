@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Colors for your Website
+title: Changing colors for your website
 permalink: /changing-colors-for-your-website/
-breadcrumb: Changing Colors for your Website
+breadcrumb: Changing colors for your website
 collection_name: resources
 ---
 
