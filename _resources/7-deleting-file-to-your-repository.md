@@ -7,10 +7,10 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide**
-1. Select your "Staging" Branch
-2. In your repository, go to file that you wish to delete
-3. Click on "delete" trash button
-4. Click on "Commit changes" button
+* Select your "Staging" Branch
+* In your repository, go to file that you wish to delete
+* Click on "delete" trash button
+* Click on "Commit changes" button
 
 #### **Demo**
 ![Editing File to Your Repository](/images/resources/deleting-file-to-your-repository.gif)
