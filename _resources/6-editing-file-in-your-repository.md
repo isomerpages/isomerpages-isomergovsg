@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Editing a File in your Repository
+title: Editing a file in your repository
 permalink: /editing-file-in-your-repository/
-breadcrumb: Editing File in your Repository
+breadcrumb: Editing file in your repository
 collection_name: resources
 ---
 
