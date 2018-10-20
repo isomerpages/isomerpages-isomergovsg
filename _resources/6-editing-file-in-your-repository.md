@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Editing a File to Your Repository
-permalink: /editing-file-to-your-repository/
-breadcrumb: Editing File to Your Repository
+title: Editing a File in your Repository
+permalink: /editing-file-in-your-repository/
+breadcrumb: Editing File in your Repository
 collection_name: resources
 ---
 
