@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Uploading a File to your Repository
-permalink: /uploading-a-file-to-your-repository/
-breadcrumb: Uploading a File to your Repository
+title: Uploading files to your repository
+permalink: /uploading-files-to-your-repository/
+breadcrumb: Uploading files to your repository
 collection_name: resources
 ---
 
