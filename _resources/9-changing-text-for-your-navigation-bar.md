@@ -15,9 +15,24 @@ collection_name: resources
 
 <font color="red"><b>* Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
-
-
+- title: Who We Are
+  url: /who-we-are/
+- title: Submit Proposal
+  url: /submit-proposal/overview/
+  sub-links:
+  - title: Overview
+    url: /submit-proposal/overview/
+  - title: Eligibility
+    url: /submit-proposal/eligibility/
+  - title: Criteria
+    url: /submit-proposal/criteria/
+  - title: Terms Of Participation
+    url: /submit-proposal/terms-of-participation/
+  - title: Proposal
+    url: /submit-proposal/proposal/
+- title: Contact Us
+  url: /contact-us/
 ```
 
 #### **Demo**
-![Changing Content of Your Homepage](/images/resources/changing-text-for-your-navigation-bar.gif)
+![Changing Text for your Navigation Bar](/images/resources/changing-text-for-your-navigation-bar.gif)
