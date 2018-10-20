@@ -15,10 +15,7 @@ collection_name: resources
 
 ```
 ---
-layout: simple-page
-title: Frequently Asked Questions
 permalink: /faq/
-breadcrumb: FAQ
 ---
 ```
 
