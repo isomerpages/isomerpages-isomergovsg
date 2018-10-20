@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Adding more item to your navigation bar
-permalink: /adding-more-item-to-your-navigation-bar/
-breadcrumb: Adding more item to your navigation bar
+title: Adding first level item to your navigation bar
+permalink: /adding-first-level-item-to-your-navigation-bar/
+breadcrumb: Adding first level item to your navigation bar
 collection_name: resources
 ---
 
@@ -18,14 +18,14 @@ collection_name: resources
 # Code snippet for reference
 
 # For link to within the website
-  - title: Students and Graduates
-    url: /careers/students-and-graduates/
+- title: Students and Graduates
+  url: /careers/students-and-graduates/
 
 # For link to external website
-  - title: Apply Now
-    url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
-    external: true
+- title: Apply Now
+  url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
+  external: true
 ```
 
 #### **Demo**
-![Adding more item to your navigation bar](/images/resources/adding-more-item-to-your-navigation-bar.gif)
+![Adding first level item to your navigation bar](/images/resources/adding-first-level-item-to-your-navigation-bar.gif)
