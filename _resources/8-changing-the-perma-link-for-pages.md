@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing the perma link for pages
-permalink: /changing-the-perma-link-for-pages/
-breadcrumb: Changing the perma link for pages
+title: Changing the Perma Link of Your Webpages
+permalink: /changing-the-perma-link-of-your-webpages/
+breadcrumb: Changing the Perma Link of Your Webpages
 collection_name: resources
 ---
 
@@ -23,4 +23,4 @@ breadcrumb: FAQ
 ```
 
 #### **Demo**
-![Editing File to Your Repository](/images/resources/changing-the-perma-link-for-pages.gif)
+![Editing File to Your Repository](/images/resources/changing-the-perma-link-of-your-webpages.gif)
