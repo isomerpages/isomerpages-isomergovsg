@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Deleting a File to Your Repository
+title: Deleting a File in your Repository
 permalink: /deleting-file-to-your-repository/
-breadcrumb: Deleting a File to Your Repository
+breadcrumb: Deleting a File in your Repository
 collection_name: resources
 ---
 
