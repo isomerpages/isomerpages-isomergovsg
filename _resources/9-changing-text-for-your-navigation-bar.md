@@ -15,21 +15,16 @@ collection_name: resources
 
 <font color="red"><b>* Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
+
 - title: Who We Are
   url: /who-we-are/
-- title: Submit Proposal
-  url: /submit-proposal/overview/
+- title: Digital Gov Transformation
+  url: /digital-government-transformation/
   sub-links:
   - title: Overview
-    url: /submit-proposal/overview/
-  - title: Eligibility
-    url: /submit-proposal/eligibility/
-  - title: Criteria
-    url: /submit-proposal/criteria/
-  - title: Terms Of Participation
-    url: /submit-proposal/terms-of-participation/
-  - title: Proposal
-    url: /submit-proposal/proposal/
+    url: /digital-government-transformation/
+  - title: Digital Government Blueprint
+    url: /digital-government-blueprint/
 - title: Contact Us
   url: /contact-us/
 ```
