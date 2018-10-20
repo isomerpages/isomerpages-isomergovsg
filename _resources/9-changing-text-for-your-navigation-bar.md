@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Content for your Navigation Bar
+title: Changing content for your navigation bar
 permalink: /changing-content-for-your-navigation-bar/
-breadcrumb: Changing Content for your Navigation Bar
+breadcrumb: Changing content for your navigation bar
 collection_name: resources
 ---
 
@@ -15,6 +15,7 @@ collection_name: resources
 
 <font color="red"><b>* Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
+# Sample navigation.yml file section for reference
 
 - title: Who We Are
   url: /who-we-are/
