@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Training Materials
+title: Training materials
 permalink: /training-materials/
-breadcrumb: Training Materials
+breadcrumb: Training materials
 collection_name: resources
 ---
 
