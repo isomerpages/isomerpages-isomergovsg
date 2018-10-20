@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Content of Your Contact Us Page
-permalink: /changing-content-of-your-contact-us-page/
-breadcrumb: Changing Content of Your Contact Us Page
+title: Changing Content for your Contact Us Page
+permalink: /changing-content-for-your-contact-us-page/
+breadcrumb: Changing Content for your Contact Us Page
 collection_name: resources
 ---
 
