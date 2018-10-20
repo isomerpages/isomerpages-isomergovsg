@@ -10,7 +10,7 @@ collection_name: resources
 1. Select your "Staging" Branch
 2. In your repository, go to file that you wish to edit
 3. Click on "edit" pencil button
-4. Edit your file
+4. Edit your file content or name
 5. Click on "Commit changes" button
 
 #### **Demo**
