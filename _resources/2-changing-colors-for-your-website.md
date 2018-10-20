@@ -14,6 +14,8 @@ collection_name: resources
 * Click on "Commit changes" button
 
 ```
+# Sample custom.scss file section for reference
+
 // Website brand colors
 $primary: #6031b6;
 $secondary: #4372d6;
