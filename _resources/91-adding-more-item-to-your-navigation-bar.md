@@ -28,4 +28,4 @@ collection_name: resources
 ```
 
 #### **Demo**
-![Adding more item to your navigation bar](/images/resources/changing-content-for-your-navigation-bar.gif)
+![Adding more item to your navigation bar](/images/resources/adding-more-item-to-your-navigation-bar.gif)
