@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Markdown Helper
+title: Markdown helper
 permalink: /markdown-helper/
-breadcrumb: Markdown Helper
+breadcrumb: Markdown helper
 collection_name: resources
 ---
 
