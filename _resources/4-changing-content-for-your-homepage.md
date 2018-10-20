@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Text, URL, Logo or Image for your Homepage 
+title: Changing text, url, logo or image for your homepage 
 permalink: /changing-text-url-logo-image-for-your-homepage/
-breadcrumb: Changing Text, URL, Logo or Image for your Homepage 
+breadcrumb: Changing text, url, logo or image for your homepage 
 collection_name: resources
 ---
 
