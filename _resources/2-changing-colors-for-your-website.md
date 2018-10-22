@@ -23,7 +23,7 @@ The **secondary** color is displayed in the following elements:
 * the page banner in the inner website pages (all except the homepage)
 
 
-### **Step-by-step guide**
+### **Step-by-step guide to change color for your website**
 
 ![GIF of How to Change the Colors for Your Website](/images/resources/website-color-change.gif)
 
