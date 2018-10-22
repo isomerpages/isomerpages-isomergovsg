@@ -1,55 +1,88 @@
 ---
 layout: leftnav-page-content
-title: Changing text, url, logo or image for your Homepage 
-permalink: /changing-text-url-logo-image-for-your-homepage/
-breadcrumb: Changing text, url, logo or image for your Homepage 
+title: Changing Content for Homepage 
+permalink: /changing-content-for-homepage/
+breadcrumb: Changing Content for Homepage 
 collection_name: resources
 ---
+#### **Homepage**
+Each Isomer website has a Homepage
+![Homepage](/images/resources/homepage.png)
 
-#### **Step-by-step guide to changing text, url, logo or image for Homepage**
+Homepage can be:
+- Configure a call to action can either be configured as a button, drop-down.
+- Navigation options is limited by the amount of spaces in the section
+- You may use .gif files for your logo
+- For Key features, we recommend keeping it within 3 to 4 options
+
+
+#### **Step-by-step guide to change content for Homepage**
+![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change the text, logo, image by amending the section below inside the file
 * Click on "Commit changes" button
 
-<font color="red"><b>* Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
 # Sample homepage.yml file section for reference
 
+# Favicon
+favicon: /images/favicon-govtech.ico
+
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/govtech.gif
 
 # Hero Banner
-hero-title: Bioethics Advisory Committee Singapore
-hero-subtitle: Examining ethical, legal, and social issues in human biomedical research
-hero-banner: /images/Background_Logo.png
+hero-title: Empowering our nation through technology
+hero-subtitle: From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure, GovTech uses technology to improve the lives of everyone in Singapore.
+hero-banner: /images/banner_GovTech.png
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/overview/
-    
+    url: /who-we-are/our-role/
+
+# Key Highlights
 key-highlights:
-  - title: What We Do
-    description: More information here
-    url: /who-we-are/what-we-do/
-  - title: Reports
-    description: More information here
-    url: /publications/reports/
-  - title: Consultation Papers
-    description: More information here
-    url: /publications/consultation-papers/
-  - title: Current Projects
-    description: More information here
-    url: /activities/current-projects
+  - title: STRATEGIC NATIONAL PROJECTS
+    description: Singapore's five Smart Nation Strategic National Project
+    url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
+    external: true
+  - title: DIGITAL GOVERNMENT BLUEPRINT
+    description: To create a Government that is “Digital to the Core, and Serves with Heart
+    url: /digital-government-blueprint/
+  - title: GET INVOLVED
+    description: Engagement and co-creation with citizens and businesses
+    url: /get-involved/
+  - title: SMART NATION <br> SCHOLARSHIP
+    description: Unleash your passion and potential with us
+    url: /careers/students-and-graduates/
+    external: true
 
-resources-title: Publications
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/
+
+# Resources Section
+resources-title: Media
 resources-subtitle: Be in the know
-resources-more-button: More Publications
-resources-more-button-url: publications/
+resources-more-button: More Media
+resources-more-button-url: /media/
 
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+careers-title: Careers
+careers-subtitle: Be part of the digital transformation
+careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
+careers-more-button: Explore Opportunities
+careers-more-button-url: /careers/why-govtech/
 ```
 
-#### **Demo**
-![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
+
