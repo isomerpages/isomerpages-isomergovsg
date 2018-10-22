@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing content for your navigation bar
-permalink: /changing-content-for-your-navigation-bar/
-breadcrumb: Changing content for your navigation bar
+title: Managing content for your navigation bar
+permalink: /managing-content-for-your-navigation-bar/
+breadcrumb: Managing content for your navigation bar
 collection_name: resources
 ---
 #### **Navigation and Footer Bar**
