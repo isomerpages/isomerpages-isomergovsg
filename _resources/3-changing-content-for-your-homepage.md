@@ -15,6 +15,7 @@ Homepage template can be configured as follow:
 - Navigation bar item content is limited by the amount of spaces in the section
 - For key features, we recommend keeping it within 3 to 4 options
 
+---
 
 #### **Step-by-step guide to change content for your Homepage**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
