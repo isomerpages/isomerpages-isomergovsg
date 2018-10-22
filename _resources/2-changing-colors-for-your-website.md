@@ -6,7 +6,7 @@ breadcrumb: Changing colors for your website
 collection_name: resources
 ---
 
-### **Website Colors**
+#### **Website Colors**
 
 Each Isomer website has two main colors, a primary color and a secondary color.
 
@@ -23,7 +23,7 @@ The **secondary** color is displayed in the following elements:
 * the page banner in the inner website pages (all except the homepage)
 
 
-### **Step-by-step guide to change color for your website**
+#### **Step-by-step guide to change color for your website**
 
 ![GIF of How to Change the Colors for Your Website](/images/resources/website-color-change.gif)
 
