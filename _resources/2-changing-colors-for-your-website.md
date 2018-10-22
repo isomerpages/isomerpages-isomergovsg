@@ -22,6 +22,7 @@ The **secondary** color is displayed in the following elements:
 * the key highlights buttons in the homepage
 * the page banner in the inner website pages (all except the homepage)
 
+---
 
 #### **Step-by-step guide to change color for your website**
 
@@ -43,6 +44,4 @@ $secondary: #4372d6;
 $secondary-hover: darken(#4372d6, 20%);
 ```
 
-##### Note: If you are picking a new primary or secondary color for your Isomer website, please ensure that the color fulfills the minimum color contrast ratio of 4.5 for accessibility. If you have any questions regarding this, please reach out to us via Slack or email us at <admin@isomer.gov.sg>.
-
-
+##### Note: If you are picking a new primary or secondary color for your Isomer website, please ensure that the color fulfills the minimum color contrast ratio of 4.5 for accessibility. If you have any questions regarding this, please reach out to us via Slack or email us at <admin@isomer.gov.sg>
