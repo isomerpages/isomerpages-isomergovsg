@@ -8,7 +8,7 @@ collection_name: resources
 
 #### **Contact Us page**
 Each Isomer website has Contact Us page.
-![Changing Content of Your Homepage](/images/resources/contact-us-page.png)
+![Changing Content of Your Homepage](/images/resources/contact-us.png)
 
 Contact Us page consist of 2 sections:
 - Title
