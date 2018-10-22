@@ -7,6 +7,7 @@ collection_name: resources
 ---
 #### **Homepage**
 Each Isomer website has a Homepage
+
 ![Homepage](/images/resources/homepage.png)
 
 Homepage template can be configured as follow:
