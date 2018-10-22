@@ -23,7 +23,7 @@ Homepage template can be configured as follow:
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
-* Change the text, logo, image by amending the section below inside the file
+* Change the text, logo, image by amending the section below inside homepage.yml
 * Click on "Commit changes" button
 
 <font color="red"><b>Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect</b></font>
