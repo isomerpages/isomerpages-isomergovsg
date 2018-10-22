@@ -10,7 +10,7 @@ collection_name: resources
 
 Each Isomer website has two main colors, a primary color and a secondary color.
 
-![Image showing where the primary and secondary colors show up](/images/resources/colors.png)
+![Image showing where the primary and secondary colors show up](/images/resources/website_colors.png)
 
 The **primary** color is displayed in the following elements:
 * the notifications banner in the homepage
