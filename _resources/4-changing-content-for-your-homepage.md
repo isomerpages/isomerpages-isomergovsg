@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Content for Homepage 
-permalink: /changing-content-for-homepage/
-breadcrumb: Changing Content for Homepage 
+title: Changing Content for your Homepage 
+permalink: /changing-content-for-your-homepage/
+breadcrumb: Changing Content for your Homepage 
 collection_name: resources
 ---
 #### **Homepage**
@@ -16,7 +16,7 @@ Homepage can be:
 - For Key features, we recommend keeping it within 3 to 4 options
 
 
-#### **Step-by-step guide to change content for Homepage**
+#### **Step-by-step guide to change content for your Homepage**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 
 * Select your "Staging" Branch
