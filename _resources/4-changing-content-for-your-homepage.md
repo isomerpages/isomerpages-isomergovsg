@@ -8,7 +8,7 @@ collection_name: resources
 #### **Homepage**
 Each Isomer website has a Homepage
 
-![Homepage](/images/resources/homepage.png)
+![Homepage](/images/resources/homepage.PNG)
 
 Homepage template can be configured as follow:
 - The call to action can either be configured as a button, drop-down option
