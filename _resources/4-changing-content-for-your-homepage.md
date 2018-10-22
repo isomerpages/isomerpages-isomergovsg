@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing text, url, logo or image for your homepage 
+title: Changing text, url, logo or image for your Homepage 
 permalink: /changing-text-url-logo-image-for-your-homepage/
-breadcrumb: Changing text, url, logo or image for your homepage 
+breadcrumb: Changing text, url, logo or image for your Homepage 
 collection_name: resources
 ---
 
-#### **Step-by-step guide**
+#### **Step-by-step guide to changing text, url, logo or image for Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
