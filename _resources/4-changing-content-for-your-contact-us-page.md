@@ -8,7 +8,7 @@ collection_name: resources
 
 #### **Contact Us page**
 Each Isomer website has Contact Us page.
-![Changing Content of Your Homepage](/images/resources/contact-us.png)
+![Changing Content of Your Homepage](/images/resources/contact-us.PNG)
 
 Contact Us page consist of 2 sections:
 - Title
@@ -16,13 +16,13 @@ Contact Us page consist of 2 sections:
 
 ---
 
-#### **Step-by-step guide to change Content for your Contact Us page**
+#### **Step-by-step guide to change content for your contact us page**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-contact-us-page.gif)
 
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit contact-us.yml file
-* Change the content by amending the section below inside the file
+* Change the content by amending the section below inside contact-us.yml
 * Click on "Commit changes" button
 
 <font color="red"><b>Note: Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
