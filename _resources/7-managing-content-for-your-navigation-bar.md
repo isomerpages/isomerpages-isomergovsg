@@ -38,7 +38,7 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide to add 1st level nav to your navigation and footer bar**
-![Adding first level nav](/images/resources/adding-first-level-nav.gif)
+![Adding first level nav](/images/resources/adding-first-level-item-to-your-navigation-bar.gif)
 
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
@@ -63,7 +63,7 @@ collection_name: resources
 ```
 
 #### **Step-by-step guide to add 2nd level nav to your navigation and footer bar**
-![Adding second level nav](/images/resources/adding-second-level-nav.gif)
+![Adding second level nav](/images/resources/adding-second-level-item-to-your-navigation-bar.gif)
 
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
