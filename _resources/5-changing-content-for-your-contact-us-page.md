@@ -1,19 +1,29 @@
 ---
 layout: leftnav-page-content
-title: Changing content for your Contact Us page
+title: Changing Content for your Contact Us page
 permalink: /changing-content-for-your-contact-us-page/
-breadcrumb: Changing content for your contact us page
+breadcrumb: Changing Content for your contact us page
 collection_name: resources
 ---
 
-#### **Step-by-step guide to change content for Contact Us**
+#### **Contact Us page**
+Each Isomer website has Contact Us page.
+![Changing Content of Your Homepage](/images/resources/contact-us-page.png)
+
+Contact Us page consist of 2 sections:
+- Title
+- Content
+
+#### **Step-by-step guide to change Content for Contact Us**
+![Changing Content of Your Homepage](/images/resources/changing-content-of-your-contact-us-page.gif)
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit contact-us.yml file
 * Change the content by amending the section below inside the file
 * Click on "Commit changes" button
 
-<font color="red"><b>* Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>Note: Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
 # Sample contact-us.yml file section for reference
 
@@ -54,5 +64,4 @@ column:
 
 ```
 
-#### **Demo**
-![Changing Content of Your Homepage](/images/resources/changing-content-of-your-contact-us-page.gif)
+Note: You are not allowed to change the title for Contact Us page. If you have any questions regarding this, please reach out to us via Slack or email us at admin@isomer.gov.sg.
