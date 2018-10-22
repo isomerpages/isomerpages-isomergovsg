@@ -34,7 +34,6 @@ The **secondary** color is displayed in the following elements:
 4. Change the color of your website by amending the section below inside the file
 5. Click on "Commit changes" button to save
 
-<br> 
 ```
 # Sample custom.scss file section for reference
 
