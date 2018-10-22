@@ -5,15 +5,20 @@ permalink: /changing-content-for-your-navigation-bar/
 breadcrumb: Changing content for your navigation bar
 collection_name: resources
 ---
+#### **Navigation and Footer Bar**
 
-#### **Step-by-step guide**
+---
+
+#### **Step-by-step guide to change content for your navigation and footer bar**
+![Changing Text for your Navigation Bar](/images/resources/changing-content-for-your-navigation-bar.gif)
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit navigation.yml file
-* Change the content by amending the section below inside the file
+* Change the content by amending the section below inside navigation.yml
 * Click on "Commit changes" button
 
-<font color="red"><b>* Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
 ```
 # Sample navigation.yml file section for reference
 
@@ -30,5 +35,45 @@ collection_name: resources
   url: /contact-us/
 ```
 
-#### **Demo**
-![Changing Text for your Navigation Bar](/images/resources/changing-content-for-your-navigation-bar.gif)
+---
+
+#### **Step-by-step guide to add 1st level nav to your navigation and footer bar**
+![Adding first level nav](/images/resources/adding-first-level-nav.gif)
+
+* Select your "Staging" Branch
+* In your repository, go to "_data" folder
+* Edit navigation.yml file
+* Copy the code snippet below into navigation.yml
+* Update the content accordingly
+* Click on "Commit changes" button
+
+<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
+```
+# Sample code snipper for you to create a 1st level nav
+
+- title: Who We Are
+  url: /who-we-are/
+```
+
+#### **Step-by-step guide to add 2nd level nav to your navigation and footer bar**
+![Adding second level nav](/images/resources/adding-second-level-nav.gif)
+
+* Select your "Staging" Branch
+* In your repository, go to "_data" folder
+* Edit navigation.yml file
+* Copy the code snippet below into navigation.yml
+* Update the content accordingly
+* Click on "Commit changes" button
+
+<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
+```
+# Sample code snipper for you to create a 2nd level nav
+
+- title: Digital Gov Transformation
+  url: /digital-government-transformation/
+  sub-links:
+  - title: Overview
+    url: /digital-government-transformation/
+  - title: Digital Government Blueprint
+    url: /digital-government-blueprint/
+```
