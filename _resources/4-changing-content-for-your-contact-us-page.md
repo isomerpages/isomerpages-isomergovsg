@@ -14,6 +14,8 @@ Contact Us page consist of 2 sections:
 - Title
 - Content
 
+---
+
 #### **Step-by-step guide to change Content for your Contact Us page**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-contact-us-page.gif)
 
