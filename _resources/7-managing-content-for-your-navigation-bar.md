@@ -47,12 +47,19 @@ collection_name: resources
 * Update the content accordingly
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</font>
+  
 ```
-# Sample code snipper for you to create a 1st level nav
+# Sample code snippet for you to create a 1st level nav
 
 - title: Who We Are
   url: /who-we-are/
+  
+# Sample code snippet for you to create a 1st level nav with external link
+
+- title: Who We Are
+  url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
+  external: true
 ```
 
 #### **Step-by-step guide to add 2nd level nav to your navigation and footer bar**
@@ -65,9 +72,10 @@ collection_name: resources
 * Update the content accordingly
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
+<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</font>
+  
 ```
-# Sample code snipper for you to create a 2nd level nav
+# Sample code snippet for you to create a 2nd level nav
 
 - title: Digital Gov Transformation
   url: /digital-government-transformation/
@@ -76,4 +84,15 @@ collection_name: resources
     url: /digital-government-transformation/
   - title: Digital Government Blueprint
     url: /digital-government-blueprint/
+    
+# Sample code snippet for you to create a 2nd level nav    
+    
+- title: Digital Gov Transformation
+  url: /digital-government-transformation/
+  sub-links:
+  - title: Overview
+    url: /digital-government-transformation/
+  - title: Digital Government Blueprint
+    url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl 
+    external: true
 ```
