@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing content for your contact us page
+title: Changing content for your Contact Us page
 permalink: /changing-content-for-your-contact-us-page/
 breadcrumb: Changing content for your contact us page
 collection_name: resources
 ---
 
-#### **Step-by-step guide**
+#### **Step-by-step guide to change content for Contact Us**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit contact-us.yml file
