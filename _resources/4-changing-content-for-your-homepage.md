@@ -9,11 +9,10 @@ collection_name: resources
 Each Isomer website has a Homepage
 ![Homepage](/images/resources/homepage.png)
 
-Homepage can be:
-- Configure a call to action can either be configured as a button, drop-down.
-- Navigation options is limited by the amount of spaces in the section
-- You may use .gif files for your logo
-- For Key features, we recommend keeping it within 3 to 4 options
+Homepage template can be configured as follow:
+- The call to action can either be configured as a button, drop-down option
+- Navigation bar item content is limited by the amount of spaces in the section
+- For key features, we recommend keeping it within 3 to 4 options
 
 
 #### **Step-by-step guide to change content for your Homepage**
