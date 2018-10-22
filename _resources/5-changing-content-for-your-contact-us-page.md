@@ -64,4 +64,4 @@ column:
 
 ```
 
-Note: You are not allowed to change the title for Contact Us page. If you have any questions regarding this, please reach out to us via Slack or email us at admin@isomer.gov.sg.
+##### Note: You are not allowed to change the title for Contact Us page. If you have any questions regarding this, please reach out to us via Slack or email us at admin@isomer.gov.sg.
