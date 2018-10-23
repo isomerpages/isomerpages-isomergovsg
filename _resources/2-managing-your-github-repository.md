@@ -29,8 +29,8 @@ There are a couple of guideline to follow for managing your files in your respos
 
 #### **2. Step-by-step guide to upload a file to your repository**
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)
-##### **Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work**
 
+* **WARNING: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work**
 * Select your "Staging" Branch
 * In your repository, go to folder that you wish to upload your file
 * Click on "Upload files" button
