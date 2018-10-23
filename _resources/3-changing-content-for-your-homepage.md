@@ -82,7 +82,7 @@ resources-more-button-url: /media/
 # To edit the careers details, go to careers-stories.yml
 careers-title: Careers
 careers-subtitle: Be part of the digital transformation
-careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans.
+careers-description: We harness the transformative power of technology
 careers-more-button: Explore Opportunities
 careers-more-button-url: /careers/why-govtech/
 ```
