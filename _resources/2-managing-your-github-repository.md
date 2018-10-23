@@ -22,7 +22,7 @@ collection_name: resources
 
 <font color="red"><b>Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work</br></font>
 
----
+
 
 #### **Step-by-step guide to edit a file in your repository**
 
@@ -34,7 +34,7 @@ collection_name: resources
 * Edit your file content or name
 * Click on "Commit changes" button
 
----
+
 
 #### **Step-by-step guide to delet a file in your repository**
 
