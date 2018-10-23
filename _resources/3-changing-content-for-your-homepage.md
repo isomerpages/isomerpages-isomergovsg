@@ -159,8 +159,6 @@ key-highlights:
 
 
 #### **7. Step-by-step guide to change resources section for your Homepage**
-![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
-
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
