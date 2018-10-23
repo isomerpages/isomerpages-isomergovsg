@@ -63,7 +63,7 @@ There are a couple of guideline to follow for managing your files in your respos
 
 #### **5. Step-by-step guide to create a new folder in your repository**
 
-![Creating folder in your repository](/images/resources/creating-folder-to-your-repository.gif)
+![Creating folder in your repository](/images/resources/creating-folder-in-your-repository.gif)
 
 * Select your "Staging" Branch
 * Go to the folder that you wish to create a new folder
