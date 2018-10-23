@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Content for your Homepage 
-permalink: /changing-content-for-your-homepage/
-breadcrumb: Changing Content for your Homepage 
+title: Managing your website homepage
+permalink: /managing-your-website-homepage/
+breadcrumb: Managing your website homepage
 collection_name: resources
 ---
 #### **Homepage**
