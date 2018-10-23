@@ -21,14 +21,14 @@ Homepage template can be configured as follow:
 
 ![Changing favicon of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 
-#### **1. Step-by-step guide to change Favicon for your Homepage**
+#### **1. Step-by-step guide to change Favicon for your homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change your favicon by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
@@ -39,14 +39,14 @@ favicon: /images/favicon-govtech.ico
 ```
 
 
-#### **2. Step-by-step guide to change agency logo for your Homepage**
+#### **2. Step-by-step guide to change agency logo for your homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change your agency logo by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
@@ -57,14 +57,14 @@ agency-logo: /images/govtech.gif
 ```
 
 
-#### **3. Step-by-step guide to change hero banner content for your Homepage**
+#### **3. Step-by-step guide to change hero banner content for your homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change your hero banner image or content by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
@@ -77,14 +77,14 @@ hero-banner: /images/banner_GovTech.png
 ```
 
 
-#### **4. Step-by-step guide to change hero banner content for your Homepage**
+#### **4. Step-by-step guide to change hero banner content for your homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change your hero banner image or content by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
@@ -97,14 +97,14 @@ hero-banner: /images/banner_GovTech.png
 ```
 
 
-#### **5. Step-by-step guide to change call to action button for your Homepage**
+#### **5. Step-by-step guide to change call to action button for your homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change your call to action content by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
@@ -134,13 +134,13 @@ i-want-to:
 
 
 #### **6. Step-by-step guide to change key highlight content for your Homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change your key highlight content, sequence by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
@@ -159,13 +159,13 @@ key-highlights:
 
 
 #### **7. Step-by-step guide to change resources section for your Homepage**
+> Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
 * Change the content by amending the section below inside homepage.yml
 * Click on "Commit changes" button
-
-###### **Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect**
 
 ```
 # Sample homepage.yml file section for reference
