@@ -5,8 +5,9 @@ permalink: /changing-the-perma-link-for-your-webpages/
 breadcrumb: Changing perma Link for your webpages
 collection_name: resources
 ---
-
 #### **Step-by-step guide**
+![Editing File to Your Repository](/images/resources/changing-the-perma-link-of-your-webpages.gif)
+
 * Select your "Staging" Branch
 * In your repository, go to page that you wish to change the perma link
 * Click on "edit" pencil button
@@ -19,5 +20,3 @@ collection_name: resources
 permalink: /faq/
 ```
 
-#### **Demo**
-![Editing File to Your Repository](/images/resources/changing-the-perma-link-of-your-webpages.gif)
