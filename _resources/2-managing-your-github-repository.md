@@ -18,7 +18,6 @@ There are a couple of guideline to follow for managing your files in your respos
 ---
 
 #### **1. Step-by-step guide to create a new file in your repository**
-
 ![Creating a new file in your repository](/images/resources/creating-a-new-file-in-your-repository.gif)
 
 * Select your "Staging" Branch
@@ -27,9 +26,10 @@ There are a couple of guideline to follow for managing your files in your respos
 * Under the "Name your file..." section, put in your file name
 * Click on "Commit changes" button
 
-#### **2. Step-by-step guide to upload a file to your repository**
 
+#### **2. Step-by-step guide to upload a file to your repository**
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)
+###### **Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work**
 
 * Select your "Staging" Branch
 * In your repository, go to folder that you wish to upload your file
@@ -37,11 +37,8 @@ There are a couple of guideline to follow for managing your files in your respos
 * Choose your file. It can be of pdf, doc, jpg, png, gif
 * Click on "Commit changes" button
 
-###### **Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work**
-
 
 #### **3. Step-by-step guide to edit a file in your repository**
-
 ![Editing a file in your repository](/images/resources/editing-file-to-your-repository.gif)
 
 * Select your "Staging" Branch
@@ -52,7 +49,6 @@ There are a couple of guideline to follow for managing your files in your respos
 
 
 #### **4. Step-by-step guide to delete a file in your repository**
-
 ![Deleting a file in your repository](/images/resources/deleting-file-to-your-repository.gif)
 
 * Select your "Staging" Branch
@@ -62,7 +58,6 @@ There are a couple of guideline to follow for managing your files in your respos
 
 
 #### **5. Step-by-step guide to create a new folder in your repository**
-
 ![Creating folder in your repository](/images/resources/creating-folder-in-your-repository.gif)
 
 * Select your "Staging" Branch
