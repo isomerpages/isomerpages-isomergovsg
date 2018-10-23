@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Managing your website color
-permalink: /managing-your-website-color/
-breadcrumb: Managing your website color
+title: Managing color of your website
+permalink: /managing-color-of-your-website/
+breadcrumb: Managing color of your website
 collection_name: resources
 ---
 
@@ -21,6 +21,8 @@ The **primary** color is displayed in the following elements:
 The **secondary** color is displayed in the following elements:
 * the key highlights buttons in the homepage
 * the page banner in the inner website pages (all except the homepage)
+
+> Note: If you are picking a new primary or secondary color for your Isomer website, please ensure that the color fulfills the minimum color contrast ratio of 4.5 for accessibility. If you have any questions regarding this, please reach out to us via Slack or email us at <admin@isomer.gov.sg>
 
 ---
 
@@ -43,4 +45,4 @@ $secondary: #4372d6;
 $secondary-hover: darken(#4372d6, 20%);
 ```
 
-##### Note: If you are picking a new primary or secondary color for your Isomer website, please ensure that the color fulfills the minimum color contrast ratio of 4.5 for accessibility. If you have any questions regarding this, please reach out to us via Slack or email us at <admin@isomer.gov.sg>
+
