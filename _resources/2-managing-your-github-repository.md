@@ -20,7 +20,7 @@ collection_name: resources
 * Choose your file
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work</font>
+<font color="red"><b>Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work</br></font>
 
 ---
 
