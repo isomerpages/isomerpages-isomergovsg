@@ -9,16 +9,19 @@ collection_name: resources
 Each Isomer website has a Homepage
 ![Homepage](/images/resources/homepage.PNG)
 
+![Homepage](/images/resources/resources.PNG)
+
 Homepage template can be configured as follow:
 - The call to action can either be configured as a button, drop-down option
 - Navigation bar item content is limited by the amount of spaces in the section
 - For key features, we recommend keeping it within 3 to 4 options
+- The cards in resources section always display the 3 latest media by date
 
 ---
 
 ![Changing favicon of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 
-#### **Step-by-step guide to change Favicon for your Homepage**
+#### **1. Step-by-step guide to change Favicon for your Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
@@ -36,7 +39,7 @@ favicon: /images/favicon-govtech.ico
 ```
 
 
-#### **Step-by-step guide to change agency logo for your Homepage**
+#### **2. Step-by-step guide to change agency logo for your Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
@@ -54,7 +57,7 @@ agency-logo: /images/govtech.gif
 ```
 
 
-#### **Step-by-step guide to change hero banner content for your Homepage**
+#### **3. Step-by-step guide to change hero banner content for your Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
@@ -74,7 +77,7 @@ hero-banner: /images/banner_GovTech.png
 ```
 
 
-#### **Step-by-step guide to change hero banner content for your Homepage**
+#### **4. Step-by-step guide to change hero banner content for your Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
@@ -94,7 +97,7 @@ hero-banner: /images/banner_GovTech.png
 ```
 
 
-#### **Step-by-step guide to change call to action button for your Homepage**
+#### **5. Step-by-step guide to change call to action button for your Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
@@ -130,7 +133,7 @@ i-want-to:
 ```
 
 
-#### **Step-by-step guide to change key highlight content for your Homepage**
+#### **6. Step-by-step guide to change key highlight content for your Homepage**
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
 * Edit homepage.yml file
@@ -155,7 +158,7 @@ key-highlights:
 ```
 
 
-#### **Step-by-step guide to change resources section for your Homepage**
+#### **7. Step-by-step guide to change resources section for your Homepage**
 ![Changing Content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 
 * Select your "Staging" Branch
