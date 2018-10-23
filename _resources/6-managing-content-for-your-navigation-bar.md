@@ -35,7 +35,7 @@ collection_name: resources
   url: /contact-us/
 ```
 
----
+
 
 #### **Step-by-step guide to add 1st level nav to your navigation and footer bar**
 ![Adding first level nav](/images/resources/adding-first-level-item-to-your-navigation-bar.gif)
@@ -61,6 +61,7 @@ collection_name: resources
   url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
   external: true
 ```
+
 
 #### **Step-by-step guide to add 2nd level nav to your navigation and footer bar**
 ![Adding second level nav](/images/resources/adding-second-level-item-to-your-navigation-bar.gif)
