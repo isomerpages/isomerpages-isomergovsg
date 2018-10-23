@@ -10,9 +10,10 @@ collection_name: resources
 Each Isomer website has Contact Us page.
 ![Changing Content of Your Homepage](/images/resources/contact-us.PNG)
 
-Contact Us page consist of 2 sections:
+Contact Us page consist of 2 sections. You are not allowed to change the title for Contact Us page.
 - Title
 - Content
+
 
 ---
 
@@ -25,7 +26,8 @@ Contact Us page consist of 2 sections:
 * Change the content by amending the section below inside contact-us.yml
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect</b></font>
+##### **Note: Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect**
+
 ```
 # Sample contact-us.yml file section for reference
 
@@ -63,7 +65,4 @@ column:
   - title: Fax
     content:
     - line: +65 6211 2222
-
 ```
-
-##### Note: You are not allowed to change the title for Contact Us page. If you have any questions regarding this, please reach out to us via Slack or email us at admin@isomer.gov.sg.
