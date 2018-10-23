@@ -68,7 +68,7 @@ key-highlights:
 # To edit the programme details, go to programmes.yml
 programmes-title: Products and Services
 programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-description: Using technology to make an impact, inspire change.
 programmes-more-button: More Products and Services
 programmes-more-button-url: /products-and-services/
 
@@ -82,7 +82,7 @@ resources-more-button-url: /media/
 # To edit the careers details, go to careers-stories.yml
 careers-title: Careers
 careers-subtitle: Be part of the digital transformation
-careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
+careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans.
 careers-more-button: Explore Opportunities
 careers-more-button-url: /careers/why-govtech/
 ```
