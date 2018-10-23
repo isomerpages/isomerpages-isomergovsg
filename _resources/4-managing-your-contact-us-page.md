@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Managing your contact us page
-permalink: /managing-your-contact-us-page/
-breadcrumb: Managing your contact us page
+title: Managing your contact page
+permalink: /managing-your-contact-page/
+breadcrumb: Managing your contact page
 collection_name: resources
 ---
 
