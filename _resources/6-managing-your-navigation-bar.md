@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Managing content for your navigation bar
-permalink: /managing-content-for-your-navigation-bar/
-breadcrumb: Managing content for your navigation bar
+title: Managing your navigation bar
+permalink: /managing-your-navigation-bar/
+breadcrumb: Managing your navigation bar
 collection_name: resources
 ---
 
@@ -12,6 +12,7 @@ collection_name: resources
 
 #### **Step-by-step guide to change content for your navigation and footer bar**
 ![Changing Text for your Navigation Bar](/images/resources/changing-content-for-your-navigation-bar.gif)
+> Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
@@ -19,7 +20,7 @@ collection_name: resources
 * Change the content by amending the section below inside navigation.yml
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</b></font>
+
 ```
 # Sample navigation.yml file section for reference
 
@@ -40,6 +41,7 @@ collection_name: resources
 
 #### **Step-by-step guide to add 1st level nav to your navigation and footer bar**
 ![Adding first level nav](/images/resources/adding-first-level-item-to-your-navigation-bar.gif)
+> Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
@@ -64,6 +66,7 @@ collection_name: resources
 
 #### **Step-by-step guide to add 2nd level nav to your navigation and footer bar**
 ![Adding second level nav](/images/resources/adding-second-level-item-to-your-navigation-bar.gif)
+> Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
 * Select your "Staging" Branch
 * In your repository, go to "_data" folder
