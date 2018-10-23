@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Managing your website homepage
-permalink: /managing-your-website-homepage/
-breadcrumb: Managing your website homepage
+title: Managing your homepage
+permalink: /managing-your-homepage/
+breadcrumb: Managing your homepage
 collection_name: resources
 ---
 #### **Homepage**
