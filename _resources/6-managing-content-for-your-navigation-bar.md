@@ -5,6 +5,7 @@ permalink: /managing-content-for-your-navigation-bar/
 breadcrumb: Managing content for your navigation bar
 collection_name: resources
 ---
+
 #### **Navigation and Footer Bar**
 
 ---
@@ -47,8 +48,6 @@ collection_name: resources
 * Update the content accordingly
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</font>
-  
 ```
 # Sample code snippet for you to create a 1st level nav
 
@@ -73,7 +72,6 @@ collection_name: resources
 * Update the content accordingly
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect</font>
   
 ```
 # Sample code snippet for you to create a 2nd level nav
