@@ -11,6 +11,7 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide to upload a file to your repository**
+
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)
 
 * Select your "Staging" Branch
@@ -24,6 +25,7 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide to edit a file in your repository**
+
 ![Editing a file in your repository](/images/resources/editing-file-to-your-repository.gif)
 
 * Select your "Staging" Branch
@@ -35,6 +37,7 @@ collection_name: resources
 ---
 
 #### **Step-by-step guide to delet a file in your repository**
+
 ![Deleting a file in your repository](/images/resources/deleting-file-to-your-repository.gif)
 
 * Select your "Staging" Branch
