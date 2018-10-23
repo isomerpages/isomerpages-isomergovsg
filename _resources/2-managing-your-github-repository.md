@@ -17,7 +17,17 @@ There are a couple of guideline to follow for managing your files in your respos
 
 ---
 
-#### **1. Step-by-step guide to upload a file to your repository**
+#### **1. Step-by-step guide to create a new file in your repository**
+
+![Creating a new file in your repository](/images/resources/creating-a-new-file-in-your-repository.gif)
+
+* Select your "Staging" Branch
+* Go to the folder that you wish to create a new folder
+* In your repository, click on "Create new file" button
+* Under the "Name your file..." section, put in your file name
+* Click on "Commit changes" button
+
+#### **2. Step-by-step guide to upload a file to your repository**
 
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)
 
@@ -27,10 +37,10 @@ There are a couple of guideline to follow for managing your files in your respos
 * Choose your file. It can be of pdf, doc, jpg, png, gif
 * Click on "Commit changes" button
 
-##### **Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work**
+###### **Note: Always replace the space in the filename with dash (-). Otherwise, the linking to the file might not work**
 
 
-#### **2. Step-by-step guide to edit a file in your repository**
+#### **3. Step-by-step guide to edit a file in your repository**
 
 ![Editing a file in your repository](/images/resources/editing-file-to-your-repository.gif)
 
@@ -41,7 +51,7 @@ There are a couple of guideline to follow for managing your files in your respos
 * Click on "Commit changes" button
 
 
-#### **3. Step-by-step guide to delete a file in your repository**
+#### **4. Step-by-step guide to delete a file in your repository**
 
 ![Deleting a file in your repository](/images/resources/deleting-file-to-your-repository.gif)
 
@@ -50,4 +60,14 @@ There are a couple of guideline to follow for managing your files in your respos
 * Click on "delete" trash button
 * Click on "Commit changes" button
 
+
+#### **5. Step-by-step guide to create a new folder in your repository**
+
+![Creating folder in your repository](/images/resources/creating-folder-to-your-repository.gif)
+
+* Select your "Staging" Branch
+* Go to the folder that you wish to create a new folder
+* In your repository, click on "Create new file" button
+* Under the "Name your file..." section, create the directory by specifying folder-name/ignore.md
+* Click on "Commit changes" button
 
