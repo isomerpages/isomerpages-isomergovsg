@@ -26,7 +26,8 @@ Homepage template can be configured as follow:
 * Change the text, logo, image by amending the section below inside homepage.yml
 * Click on "Commit changes" button
 
-<font color="red"><b>Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect</b></font>
+###### Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
+
 ```
 # Sample homepage.yml file section for reference
 
