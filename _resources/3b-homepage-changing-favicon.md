@@ -6,7 +6,7 @@ breadcrumb: Homepage - Changing favicon
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change Favicon**
+#### **Step-by-step guide to change favicon**
 ![Changing favicon of your homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
