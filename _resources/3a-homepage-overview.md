@@ -17,5 +17,3 @@ Homepage template can be configured as follow:
 - Navigation bar item content is limited by the amount of spaces in the section
 - For key features, we recommend keeping it within 3 to 4 options
 - The cards in resources section always display the 3 latest media by date
-
----
