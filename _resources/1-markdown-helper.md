@@ -25,6 +25,6 @@ collection_name: resources
 
 * [Adding website URL](https://markdown.isomer.gov.sg/#nYy9CsIwEMf3PsWfZlAz2L3g4ObgJDiJSNocydF6KclJBvHd7eILOP8+jDEG1h69ZwmoNBRWwvVytrY5UaZNQUwVmjBmcityuP2smWW6b6Pq0nddYI2vYT+m5675u3z36nIgPbSPYXYytR9odIq0kBSwrA+hisriU/0C){:target="_blank"}
 
-* [Adding Youtube video](https://markdown.isomer.gov.sg/#VY+xTsMwEIZ3P8XJ2SI1obRlCEkkCogBBgQsjI59ra06cWRfGvL2mLSqqHXLyd//+3OSJAmk6YNSptvDtxtoaBCORqFLU/alTYA42o0wuQGEUiCuqYItM3i0Rh7AdcA/tfDIoRmI4honxvx1gt3+Dzy3DSpUlwhbxVvXT8DNzos2duEfAdJ1hB2xdQbvIhCCIWiQRsQOSCNwZY4cSOzZxVoA/oi2tzj7R946dwhgzQELVkYepBUhVLzpF9PJkNcM5lOeXofRKNIV39zdcNBo9poqvlpuOAQvK66J+lDk+TiO2bkhk67NZ+V8u5Uf69eXJ/UWw3Nd47xCX/G4C2vdWHExkOutmO4BO+mnnlAtWlRGnIndYG2QPv6yLvOTU83KPMrX7Bc=){:target="_blank"}
+* [Adding youtube video](https://markdown.isomer.gov.sg/#VY+xTsMwEIZ3P8XJ2SI1obRlCEkkCogBBgQsjI59ra06cWRfGvL2mLSqqHXLyd//+3OSJAmk6YNSptvDtxtoaBCORqFLU/alTYA42o0wuQGEUiCuqYItM3i0Rh7AdcA/tfDIoRmI4honxvx1gt3+Dzy3DSpUlwhbxVvXT8DNzos2duEfAdJ1hB2xdQbvIhCCIWiQRsQOSCNwZY4cSOzZxVoA/oi2tzj7R946dwhgzQELVkYepBUhVLzpF9PJkNcM5lOeXofRKNIV39zdcNBo9poqvlpuOAQvK66J+lDk+TiO2bkhk67NZ+V8u5Uf69eXJ/UWw3Nd47xCX/G4C2vdWHExkOutmO4BO+mnnlAtWlRGnIndYG2QPv6yLvOTU83KPMrX7Bc=){:target="_blank"}
 
 * [Adding a email link](https://markdown.isomer.gov.sg/#U1ZWVlbQ0nJMScnMS1dIzU3MzFHIyczL1tLi8kgtSlUvVsjIL1coyVdILkpNLElVSERSo6NgA+Y4FOfnppZkAA3QS87PteMCAA==){:target="_blank"}
