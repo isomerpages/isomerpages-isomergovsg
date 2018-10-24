@@ -7,7 +7,6 @@ collection_name: resources
 second_nav_title: "Website color"
 ---
 #### **Website Colors**
-
 Each Isomer website has two main colors, a primary color and a secondary color.
 
 ![Image showing where the primary and secondary colors show up](/images/resources/website_colors.PNG)
