@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /editing-the-homepage/overview/
-breadcrumb: Editing the Homepage - Overview
+permalink: /homepage/overview/
+breadcrumb: Homepage - Overview
 collection_name: resources
-second_nav_title: "Editing the Homepage"
+second_nav_title: "Homepage"
 ---
 #### **Homepage**
 Each Isomer website has a Homepage
@@ -19,5 +19,3 @@ Homepage template can be configured as follow:
 - The cards in resources section always display the 3 latest media by date
 
 ---
-
-![Changing favicon of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
