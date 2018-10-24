@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Managing color of your website
-permalink: /managing-color-of-your-website/
-breadcrumb: Managing color of your website
+title: Changing your website color
+permalink: /changing-your--website-color/
+breadcrumb: Changing your website color
 collection_name: resources
 ---
 
