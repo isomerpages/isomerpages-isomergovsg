@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing content for key highlight
-permalink: /homepage/changing-content-for-key-highlight/
-breadcrumb: Homepage - Changing content for key highlight
+title: Changing key highlight
+permalink: /homepage/changing-key-highlight/
+breadcrumb: Homepage - Changing key highlight
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change key highlight content**
+#### **Step-by-step guide to change key highlight**
 ![Changing favicon of your homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
