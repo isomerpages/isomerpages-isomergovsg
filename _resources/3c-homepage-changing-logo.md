@@ -6,7 +6,7 @@ breadcrumb: Homepage - Changing logo
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change agency logo for your homepage**
+#### **Step-by-step guide to change logo**
 ![Changing logo of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
