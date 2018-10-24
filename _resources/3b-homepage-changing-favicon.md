@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing Favicon
+title: Changing favicon
 permalink: /homepage/changing-favicon/
-breadcrumb: Homepage - Changing Favicon
+breadcrumb: Homepage - Changing favicon
 collection_name: resources
 second_nav_title: "Homepage"
 ---
