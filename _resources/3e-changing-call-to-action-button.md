@@ -6,7 +6,7 @@ breadcrumb: Homepage - Changing call to action button
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change call to action button for your homepage**
+#### **Step-by-step guide to change call to action button**
 ![Changing call to action button of your homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
@@ -36,7 +36,6 @@ i-want-to:
     url: /application-guidelines/change-of-hotel-keeper/
   - title: change hotel name
     url: /application-guidelines/change-of-hotel-name/
-
   - title: renew hotel licence
     url: /application-guidelines/renew-hotel-licence/
 
