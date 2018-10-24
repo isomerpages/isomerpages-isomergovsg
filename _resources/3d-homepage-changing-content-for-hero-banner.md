@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing hero banner content
-permalink: /homepage/changing-hero-banner-content/
-breadcrumb: Homepage - Changing hero banner content
+title: Changing content for hero banner
+permalink: /homepage/changing-content-for-hero-banner-content/
+breadcrumb: Homepage - Changing content for hero banner
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change hero banner content for your homepage**
+#### **Step-by-step guide to change content for your hero banner**
 ![Changing hero banner content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
