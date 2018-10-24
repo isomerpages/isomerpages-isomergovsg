@@ -1,25 +1,11 @@
 ---
 layout: leftnav-page-content
-title: Managing your homepage
-permalink: /managing-your-homepage/
-breadcrumb: Managing your homepage
+title: Change Favicon
+permalink: /editing-the-homepage/change-favicon/
+breadcrumb: Editing the Homepage - Change Favicon
 collection_name: resources
+second_nav_title: "Editing the Homepage"
 ---
-#### **Homepage**
-Each Isomer website has a Homepage
-![Homepage](/images/resources/homepage.PNG)
-
-![Homepage](/images/resources/resources.PNG)
-
-Homepage template can be configured as follow:
-- The call to action can either be configured as a button, drop-down option
-- Navigation bar item content is limited by the amount of spaces in the section
-- For key features, we recommend keeping it within 3 to 4 options
-- The cards in resources section always display the 3 latest media by date
-
----
-
-![Changing favicon of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 
 #### **1. Step-by-step guide to change Favicon for your homepage**
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
