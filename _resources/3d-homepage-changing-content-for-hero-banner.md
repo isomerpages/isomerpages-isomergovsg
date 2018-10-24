@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Changing content for hero banner
-permalink: /homepage/changing-content-for-hero-banner-content/
-breadcrumb: Homepage - Changing content for hero banner
+title: Changing hero banner
+permalink: /homepage/changing-hero-banner-content/
+breadcrumb: Homepage - Changing hero banner
 collection_name: resources
 second_nav_title: "Homepage"
 ---
