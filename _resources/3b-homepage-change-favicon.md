@@ -4,7 +4,7 @@ title: Change Favicon
 permalink: /homepage/change-favicon/
 breadcrumb: Homepage - Change Favicon
 collection_name: resources
-second_nav_title: "Change Favicon"
+second_nav_title: "Homepage"
 ---
 
 ![Changing favicon of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
