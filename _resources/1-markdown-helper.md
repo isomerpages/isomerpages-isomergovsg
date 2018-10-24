@@ -21,15 +21,10 @@ collection_name: resources
 #### **Adding media to your website using Markdown**
 * [Adding jpg, png image or gif](https://markdown.isomer.gov.sg/#JYvBDoIwEAXvfMUzvWgT4Rv4BePNeFjbpW1Ct6RdUP9eIsncZsYYY2Dt6H2SgJQpsLXdPaaGnVje+JYVjgTkPegoetw4c35xhRa4SBIYGvmwmNLMWEhjd3qMs3IV0rTtBX8UU6lorjILKpPn2p7n4f+1wRVRcnpdW79IuPwA){:target="_blank"}
 
-* [Adding word, pdf document link](https://markdown.isomer.gov.sg/#VcoxCoAwDADA3VcEOqgF7Rvc/IM4VBM1WBtpU/y+OLoeZ4wxYO2AyHEHlCcG8QiB42ltNVKiOsMhD6jAmsgrgYdp40D/PDfu8un8rCNkleS+lN3OepSly6Tl7m/c2hc=){:target="_blank"}
+* [Adding word, pdf, excel etc. document link](https://markdown.isomer.gov.sg/#HcxBDsIgFEXRuat4CQOV1HYNztyDcYD815aI0MAnuHyr05uTa4wxsPYqEtKCnosM2GQewI9nBNWPkOzbm0kRQ3pZe7ix8Fix5g7N8IVOCYf7HCJ33FPMTv74cZp+sU5L0LU9L5XatnH/n78=){:target="_blank"}
 
 * [Adding website URL](https://markdown.isomer.gov.sg/#nYy9CsIwEMf3PsWfZlAz2L3g4ObgJDiJSNocydF6KclJBvHd7eILOP8+jDEG1h69ZwmoNBRWwvVytrY5UaZNQUwVmjBmcityuP2smWW6b6Pq0nddYI2vYT+m5675u3z36nIgPbSPYXYytR9odIq0kBSwrA+hisriU/0C){:target="_blank"}
 
 * [Adding Youtube video](https://markdown.isomer.gov.sg/#VY+xTsMwEIZ3P8XJ2SI1obRlCEkkCogBBgQsjI59ra06cWRfGvL2mLSqqHXLyd//+3OSJAmk6YNSptvDtxtoaBCORqFLU/alTYA42o0wuQGEUiCuqYItM3i0Rh7AdcA/tfDIoRmI4honxvx1gt3+Dzy3DSpUlwhbxVvXT8DNzos2duEfAdJ1hB2xdQbvIhCCIWiQRsQOSCNwZY4cSOzZxVoA/oi2tzj7R946dwhgzQELVkYepBUhVLzpF9PJkNcM5lOeXofRKNIV39zdcNBo9poqvlpuOAQvK66J+lDk+TiO2bkhk67NZ+V8u5Uf69eXJ/UWw3Nd47xCX/G4C2vdWHExkOutmO4BO+mnnlAtWlRGnIndYG2QPv6yLvOTU83KPMrX7Bc=){:target="_blank"}
 
 * [Adding a email link](https://markdown.isomer.gov.sg/#U1ZWVlbQ0nJMScnMS1dIzU3MzFHIyczL1tLi8kgtSlUvVsjIL1coyVdILkpNLElVSERSo6NgA+Y4FOfnppZkAA3QS87PteMCAA==){:target="_blank"}
-
-
-
-
-
