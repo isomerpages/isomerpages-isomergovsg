@@ -1,11 +1,13 @@
 ---
 layout: leftnav-page-content
 title: Change Favicon
-permalink: /editing-the-homepage/change-favicon/
-breadcrumb: Editing the Homepage - Change Favicon
+permalink: /homepage/change-favicon/
+breadcrumb: Homepage - Change Favicon
 collection_name: resources
-second_nav_title: "Editing the Homepage"
+second_nav_title: "Change Favicon"
 ---
+
+![Changing favicon of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 
 #### **1. Step-by-step guide to change Favicon for your homepage**
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
