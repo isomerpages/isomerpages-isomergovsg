@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Adding a new simple page
-permalink: /webpage/adding-a-new-simple-page/
-breadcrumb: Webpage - Adding a new simple page
+title: Creating a new simple page
+permalink: /webpage/creating-a-new-simple-page/
+breadcrumb: Webpage - Creating a new simple page
 collection_name: resources
 second_nav_title: "Webpage"
 ---
-#### **Step-by-step guide to add a new simple page**
-![Add a new simple page](/images/resources/adding-a-new-simple-page.gif)
+#### **Step-by-step guide to create a new simple page**
+![Create a new simple page](/images/resources/adding-a-new-simple-page.gif)
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
 * Select your "Staging" Branch
