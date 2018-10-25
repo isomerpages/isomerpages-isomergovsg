@@ -19,4 +19,3 @@ Isomer webpages are powered by markdown language. To format or add content to th
 
 The **key difference** between the page layout is that one has **no left navigation bar** and the other one **has a left navigation bar**. 
 Other than that, they are pretty much the same.
-
