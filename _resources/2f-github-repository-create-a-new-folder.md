@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Create a folder
-permalink: /github-repository/create-a-folder/
-breadcrumb: Github repository - Create a folder
+title: Create a new folder in your repository
+permalink: /github-repository/create-a-new-folder/
+breadcrumb: Github repository - Create a new folder
 collection_name: resources
 second_nav_title: "Github repository"
 ---
