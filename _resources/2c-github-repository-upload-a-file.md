@@ -4,7 +4,7 @@ title: Upload a file
 permalink: /github-repository/upload-a-file/
 breadcrumb: Github repository - Upload a file
 collection_name: resources
-second_nav_title: "Github respository"
+second_nav_title: "Github repository"
 ---
 #### **Step-by-step guide to upload a file to your repository**
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)
