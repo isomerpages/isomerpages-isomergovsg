@@ -7,13 +7,16 @@ collection_name: resources
 second_nav_title: "Webpage"
 ---
 #### **Webpage**
-Isomer supports 2 types of webpages, a single page and a left nav page.
+Isomer supports 2 types of layout for webpages, a single page and a left nav page.
+
+#### Single page
 ![Single page](/images/resources/single-page.PNG)
 
+#### Left nav page
 ![Left nav page](/images/resources/left-nav-page.PNG)
 
 Isomer webpages are powered by markdown language. To format or add content to the webpages, you may refer to the [markdown example](/markdown-helper/){:target="_blank"}
 
-The **key difference** between the page type is that one has **no left navigation bar** and the other one **has a left navigation bar**. 
+The **key difference** between the page layout is that one has **no left navigation bar** and the other one **has a left navigation bar**. 
 Other than that, they are pretty much the same.
 
