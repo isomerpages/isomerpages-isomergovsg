@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Edit a file in your repository
-permalink: /github-repository/edit-a-file/
-breadcrumb: Github repository - Edit a file
+title: Editing a file in your repository
+permalink: /github-repository/editing-a-file/
+breadcrumb: Github repository - Editing a file
 collection_name: resources
 second_nav_title: "Github repository"
 ---
