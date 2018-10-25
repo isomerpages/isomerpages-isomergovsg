@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Create a file
-permalink: /github-respository/create-a-file/
-breadcrumb: Github respository - Create a file
+permalink: /github-repository/create-a-file/
+breadcrumb: Github repository - Create a file
 collection_name: resources
 second_nav_title: "Github respository"
 ---
