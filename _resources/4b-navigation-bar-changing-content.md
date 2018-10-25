@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing content
+title: Changing text for your navigation bar
 permalink: /navigation-bar/changing-content/
-breadcrumb: Navigation Bar - Changing content
+breadcrumb: Navigation Bar - Changing text
 collection_name: resources
 second_nav_title: "Navigation bar"
 ---
-#### **Step-by-step guide to change content for your navigation and footer bar**
+#### **Step-by-step guide to change text for your navigation bar**
 ![Changing Text for your Navigation Bar](/images/resources/changing-content-for-your-navigation-bar.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
