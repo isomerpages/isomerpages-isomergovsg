@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Adding a new left nav page
-permalink: /webpage/adding-a-new-left-nav-page/
-breadcrumb: Webpage - Adding a new left nav page
+title: Creating a new left nav page
+permalink: /webpage/creating-a-new-left-nav-page/
+breadcrumb: Webpage - Creating a new left nav page
 collection_name: resources
 second_nav_title: "Webpage"
 ---
-#### **Step-by-step guide to add a new left nav page**
-![Add a new left nav page](/images/resources/adding-a-new-left-nav-page.gif)
+#### **Step-by-step guide to create a new left nav page**
+![Create a new left nav page](/images/resources/adding-a-new-left-nav-page.gif)
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
 * Select your "Staging" Branch
