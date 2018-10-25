@@ -4,7 +4,7 @@ title: Overview
 permalink: /github-repository/overview/
 breadcrumb: Github repository - Overview
 collection_name: resources
-second_nav_title: "Github respository"
+second_nav_title: "Github repository"
 ---
 #### **Github Repository**
 Each Isomer website has a Github repository
