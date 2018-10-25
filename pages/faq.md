@@ -21,6 +21,9 @@ The fulfillment of these clauses will be centrally managed by GovTech.
 Your agency will be responsible for maintaining and ensuring that your website content meets content-related standards in DSS. 
 GovTech will be responsible for website hosting, maintenance, support and ensuring compliance to relevant clauses of the IM8, DSS and UC.
 
+#### **Does my agency need to pay to have our website to be on Isomer?**
+Isomer is free of charge. The service will cover website hosting, maintenance, support and training for the system.
+
 #### **Does my agency need to migrate the content from our existing website?**
 Your agency will be responsible for choosing what content to migrate and also the migration of the content. 
 GovTech will support your agency by providing training.
