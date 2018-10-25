@@ -10,7 +10,7 @@ second_nav_title: "Webpage"
 Isomer supports 2 types of layout for webpages, a simple page and a left nav page.
 
 #### Simple page
-![Simple page](/images/resources/single-page.PNG)
+![Simple page](/images/resources/simple-page.PNG)
 
 #### Left nav page
 ![Left nav page](/images/resources/left-nav-page.PNG)
