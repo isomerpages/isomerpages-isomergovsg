@@ -12,7 +12,7 @@ Each Isomer website has a navigation and footer bar
 
 ![Footer bar](/images/resources/footer.PNG)
 
-*Navigation bar* can be configured to be either as a 1st level or 2nd level nav
+**Navigation bar** can be configured to be either as a 1st level or 2nd level nav
 - Items in the navigation bar can be configured to point to an external website
 
 **Footer bar** for your website are automatically generated based on your content in your navigation bar
