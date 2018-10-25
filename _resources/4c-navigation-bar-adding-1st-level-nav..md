@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Adding 1st level nav
+title: Adding 1st level nav to your navigation bar
 permalink: /navigation-bar/adding-1st-level-nav/
 breadcrumb: Navigation Bar - Adding 1st level nav
 collection_name: resources
