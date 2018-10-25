@@ -6,7 +6,6 @@ breadcrumb: Webpage - Changing permaLink
 collection_name: resources
 second_nav_title: "Webpage"
 ---
-
 #### **Step-by-step guide to change permalink for your webpage**
 ![Change permalink for your webpage](/images/resources/changing-the-perma-link-of-your-webpages.gif)
 * Select your "Staging" Branch
