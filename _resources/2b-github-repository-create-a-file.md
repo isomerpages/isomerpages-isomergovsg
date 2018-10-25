@@ -4,7 +4,7 @@ title: Create a file
 permalink: /github-repository/create-a-file/
 breadcrumb: Github repository - Create a file
 collection_name: resources
-second_nav_title: "Github respository"
+second_nav_title: "Github repository"
 ---
 #### **Step-by-step guide to create a new file in your repository**
 ![Creating a new file in your repository](/images/resources/creating-a-new-file-in-your-repository.gif)
