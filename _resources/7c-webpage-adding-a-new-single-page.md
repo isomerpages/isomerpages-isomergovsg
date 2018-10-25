@@ -9,6 +9,7 @@ second_nav_title: "Webpage"
 #### **Step-by-step guide to add a new single page**
 ![Add a new webpage](/images/resources/adding-a-new-single-page.gif)
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
+
 * Select your "Staging" Branch
 * Go to the folder that you wish to create your new single page. Typically, this will be the pages or navigation bar folder
 * Click on “Create new file” button
