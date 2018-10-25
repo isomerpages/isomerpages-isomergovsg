@@ -11,7 +11,7 @@ second_nav_title: "Webpage"
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
 * Select your "Staging" Branch
-* Go to the folder that you wish to create your new simple page. Typically, this will be the pages or nav bar folder
+* Go to the folder that you wish to create your new simple page
 * Click on “Create new file” button
 * Copy and paste the header code snippet below into your file
 * Change title, permalink, breadcrumb according to your need. We recommend to make reference from your other existing .md simple page
