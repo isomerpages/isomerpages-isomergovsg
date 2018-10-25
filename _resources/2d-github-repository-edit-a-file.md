@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Edit a file
+title: Edit a file in your repository
 permalink: /github-repository/edit-a-file/
 breadcrumb: Github repository - Edit a file
 collection_name: resources
