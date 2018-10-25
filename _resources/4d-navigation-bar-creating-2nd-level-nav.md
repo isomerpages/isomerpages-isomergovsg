@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Adding 2nd level nav to your navigation bar
-permalink: /navigation-bar/adding-2nd-level-nav/
-breadcrumb: Navigation Bar - Adding 2nd level nav
+title: Creating 2nd level nav to your navigation bar
+permalink: /navigation-bar/creating-2nd-level-nav/
+breadcrumb: Navigation Bar - Creating 2nd level nav
 collection_name: resources
 second_nav_title: "Navigation bar"
 ---
-#### **Step-by-step guide to add 2nd level nav to your navigation**
+#### **Step-by-step guide to create a 2nd level nav to your navigation bar**
 ![Adding second level nav](/images/resources/adding-second-level-item-to-your-navigation-bar.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
@@ -17,7 +17,6 @@ second_nav_title: "Navigation bar"
 * Update the content accordingly
 * Click on "Commit changes" button
 
-  
 ```
 # Sample code snippet for you to create a 2nd level nav
 
@@ -29,7 +28,7 @@ second_nav_title: "Navigation bar"
   - title: Digital Government Blueprint
     url: /digital-government-blueprint/
     
-# Sample code snippet for you to create a 2nd level nav    
+# Sample code snippet for you to create a 2nd level nav linking to external website
     
 - title: Digital Gov Transformation
   url: /digital-government-transformation/
