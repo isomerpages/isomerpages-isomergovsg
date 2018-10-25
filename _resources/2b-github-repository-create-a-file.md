@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Create a file
+title: Create a file in your repository
 permalink: /github-repository/create-a-file/
 breadcrumb: Github repository - Create a file
 collection_name: resources
