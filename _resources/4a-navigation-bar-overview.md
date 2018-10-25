@@ -7,7 +7,7 @@ collection_name: resources
 second_nav_title: "Navigation bar"
 ---
 #### **Navigation and footer bar**
-Each Isomer website has a navigation bar and footer
+Each Isomer website has a navigation bar and footer.
 
 #### Navigation bar
 ![Navigation bar](/images/resources/navigation.PNG)
@@ -15,10 +15,10 @@ Each Isomer website has a navigation bar and footer
 #### Footer
 ![Footer](/images/resources/footer.PNG)
 
-**Navigation bar** can be configured to be either as a 1st level or 2nd level nav
-- Items in the navigation bar can be configured to point to an external website
+**Navigation bar** can be configured to be either as a 1st level or 2nd level nav.
+- Items in the navigation bar can be configured to point to an external website.
 
-**Footer** for your website are automatically generated based on your content in your navigation bar
-- You will not be able to change the content only for the footer. It must be changed at the navigation bar
-- Agencies can opt to disable "Agencies Social Media Link"
+**Footer** for your website are automatically generated based on your content in your navigation bar.
+- You will not be able to change the content only for the footer.
+- "Agencies Social Media Link" is an optional feature. This is disabled by default.
 - Feedback form are powered by [form.gov.sg](https://form.gov.sg/#!/)
