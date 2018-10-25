@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Delete a file
+title: Delete a file in your repository
 permalink: /github-repository/delete-a-file/
 breadcrumb: Github repository - Delete a file
 collection_name: resources
