@@ -7,9 +7,12 @@ collection_name: resources
 second_nav_title: "Homepage"
 ---
 #### **Homepage**
-Each Isomer website has a Homepage
+Each Isomer website has a Homepage which contain the main and resources section.
+
+#### Main section
 ![Homepage](/images/resources/homepage.PNG)
 
+#### Resources section
 ![Homepage](/images/resources/resources.PNG)
 
 Homepage template can be configured as follow:
