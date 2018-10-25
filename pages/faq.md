@@ -46,7 +46,7 @@ Your agency can consider using the Isomer Design System.
 
 Isomer Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
 
-Do note that for Isomer Design System, your agency will be responsible for development, hosting, maintenance and compliance to IM8 and DSS of your website.
+Do note that for the Isomer Design System, your agency will be responsible for  developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
 
 Design systems are widely used around the world today:
 * In Industry: [Google Material design](https://material.io/design/){:target="_blank"}, [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/){:target="_blank"}
