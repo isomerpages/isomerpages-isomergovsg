@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Upload a file
+title: Upload a file to your repository
 permalink: /github-repository/upload-a-file/
 breadcrumb: Github repository - Upload a file
 collection_name: resources
