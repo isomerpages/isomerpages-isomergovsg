@@ -1,13 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Changing perma link for your webpages
-permalink: /changing-the-perma-link-for-your-webpages/
-breadcrumb: Changing perma Link for your webpages
+title: Changing permalink for your webpage
+permalink: /webpage/changing-the-permalink-for-your-webpages/
+breadcrumb: Webpage - Changing permaLink
 collection_name: resources
+second_nav_title: "Webpage"
 ---
-#### **Step-by-step guide**
-![Editing File to Your Repository](/images/resources/changing-the-perma-link-of-your-webpages.gif)
 
+#### **Step-by-step guide to change permalink for your webpage**
+![Change permalink for your webpage](/images/resources/changing-the-perma-link-of-your-webpages.gif)
 * Select your "Staging" Branch
 * In your repository, go to page that you wish to change the perma link
 * Click on "edit" pencil button
@@ -19,4 +20,3 @@ collection_name: resources
 
 permalink: /faq/
 ```
-
