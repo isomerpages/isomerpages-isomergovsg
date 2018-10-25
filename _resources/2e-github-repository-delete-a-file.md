@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Delete a file in your repository
-permalink: /github-repository/delete-a-file/
-breadcrumb: Github repository - Delete a file
+title: Deleting a file in your repository
+permalink: /github-repository/deleting-a-file/
+breadcrumb: Github repository - Deleting a file
 collection_name: resources
 second_nav_title: "Github repository"
 ---
