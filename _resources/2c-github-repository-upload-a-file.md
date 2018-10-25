@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Upload a file
-permalink: /github-respository/upload-a-file/
-breadcrumb: Github respository - Upload a file
+permalink: /github-repository/upload-a-file/
+breadcrumb: Github repository - Upload a file
 collection_name: resources
 second_nav_title: "Github respository"
 ---
