@@ -14,7 +14,7 @@ second_nav_title: "Navigation bar"
 * In your repository, go to "_data" folder
 * Edit navigation.yml file
 * Copy the code snippet below into navigation.yml
-* State the permalink of your target simple page under url. To create a simple page, refer [here](/adding-a-new-simple-page/){:target="_blank"} 
+* State the permalink of your target simple page under url. To create a simple page, refer [here](/webpage/creating-a-new-simple-page/){:target="_blank"} 
 * Click on "Commit changes" button
 
 ```
