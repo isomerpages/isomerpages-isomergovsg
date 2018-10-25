@@ -7,7 +7,7 @@ collection_name: resources
 second_nav_title: "Webpage"
 ---
 #### **Step-by-step guide to change permalink for your page**
-![Change permalink for your webpage](/images/resources/changing-the-perma-link-of-your-webpage.gif)
+![Change permalink for your webpage](/images/resources/changing-the-perma-link-of-your-webpages.gif)
 * Select your "Staging" Branch
 * In your repository, go to page that you wish to change the permalink
 * Click on "edit" pencil button
