@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Delete a file
-permalink: /github-respository/delete-a-file/
-breadcrumb: Github respository - Delete a file
+title: Deleting a file in your repository
+permalink: /github-repository/deleting-a-file/
+breadcrumb: Github repository - Deleting a file
 collection_name: resources
-second_nav_title: "Github respository"
+second_nav_title: "Github repository"
 ---
 #### **Step-by-step guide to delete a file in your repository**
 ![Deleting a file in your repository](/images/resources/deleting-file-to-your-repository.gif)

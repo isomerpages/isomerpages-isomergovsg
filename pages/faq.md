@@ -8,10 +8,10 @@ breadcrumb: FAQ
 #### **What is Isomer?**
 Isomer is an informational website generator created by the Government Technology Agency of Singapore (GovTech).
 
-It provides templates for websites, hosting and is compliant to applicable clauses in the Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC). 
+It provides template for website with hosting and is compliant to applicable clauses in the Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC). 
 
 GovTech builds, provides training and maintains Isomer as a service to all Singapore Government Agencies. 
-This website that you are seeing now is generated and hosted using Isomer.
+This website that you are seeing now is powered by Isomer.
 
 #### **Does my agency need to worry about IM8 if our website is on Isomer?**
 Your agency does not need to worry about applicable clauses in IM8 for websites that are on Isomer.

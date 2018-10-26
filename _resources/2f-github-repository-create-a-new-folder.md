@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Create a folder
-permalink: /github-respository/create-a-folder/
-breadcrumb: Github respository - Create a folder
+title: Creating a new folder in your repository
+permalink: /github-repository/creating-a-new-folder/
+breadcrumb: Github repository - Creating a new folder
 collection_name: resources
-second_nav_title: "Github respository"
+second_nav_title: "Github repository"
 ---
 #### **Step-by-step guide to create a new folder in your repository**
 ![Creating folder in your repository](/images/resources/creating-folder-in-your-repository.gif)

@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing logo
+title: Changing logo in your homepage
 permalink: /homepage/changing-logo/
 breadcrumb: Homepage - Changing logo
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change logo**
+#### **Step-by-step guide to change logo in your homepage**
 ![Changing logo of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 

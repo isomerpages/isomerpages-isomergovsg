@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Upload a file
-permalink: /github-respository/upload-a-file/
-breadcrumb: Github respository - Upload a file
+title: Uploading a file to your repository
+permalink: /github-repository/uploading-a-file/
+breadcrumb: Github repository - Uploading a file
 collection_name: resources
-second_nav_title: "Github respository"
+second_nav_title: "Github repository"
 ---
 #### **Step-by-step guide to upload a file to your repository**
 ![How to upload a file to your repository](/images/resources/how-to-upload-file-to-your-repository.gif)

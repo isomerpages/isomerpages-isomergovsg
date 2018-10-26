@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing resources
-permalink: /homepage/changing-resources/
-breadcrumb: Homepage - Changing resources
+title: Changing resources section in your homepage
+permalink: /homepage/changing-resources-section/
+breadcrumb: Homepage - Changing resources section
 collection_name: resources
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change resources section**
+#### **Step-by-step guide to change resources section in your homepage**
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
 * Select your "Staging" Branch
