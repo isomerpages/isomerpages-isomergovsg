@@ -15,3 +15,4 @@ Resources page has the following features:
 - Color element of the post can be changed
 - Downloadable post enable use to download a file in a new window
 - Content post has layout similar to simple page
+- Date filter is automatically enabled for resources page
