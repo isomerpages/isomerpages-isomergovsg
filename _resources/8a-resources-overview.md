@@ -6,8 +6,12 @@ breadcrumb: Resources - Overview
 collection_name: resources
 second_nav_title: "Resources"
 ---
-#### **Resources**
-![Resources](/images/resources/resources-page.PNG)
+#### **Resources page**
+Each Isomer website has resources page with 2 type of post, downloadable post or content post.
+![Resources page](/images/resources/resources-page.PNG)
 
-For resources, there will be 12 articles that will be displayed for each page. 
-You may define the category name of the resources page. There is also a filter for dates.
+Resources page function as follow:
+- Each page will display only 12 post sorted by latest date
+- Post category, title and date can be amended
+- Downloadable post enable use to download a file in a new window
+- Content post has layout similar to simple page
