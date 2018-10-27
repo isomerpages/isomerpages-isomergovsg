@@ -4,7 +4,7 @@ title: Changing content for your contact us page
 permalink: /contact-us/changing-content/
 breadcrumb: Contact Us - Changing content
 collection_name: resources
-second_nav_title: "Contact us"
+second_nav_title: "Contact Us"
 ---
 #### **Step-by-step guide to change content for your contact us page**
 ![Changing Content of contact us](/images/resources/changing-content-of-your-contact-us-page.gif)
