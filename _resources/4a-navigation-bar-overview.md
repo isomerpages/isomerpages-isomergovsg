@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /navigation-and-footer-bar/overview/
-breadcrumb: Navigation and footer bar - Overview
+permalink: /navigation-bar-and-footer/overview/
+breadcrumb: Navigation bar and footer  - Overview
 collection_name: resources
-second_nav_title: "Navigation bar"
+second_nav_title: "Navigation bar and footer"
 ---
 #### **Navigation and footer bar**
 Each Isomer website has a navigation bar and footer.
