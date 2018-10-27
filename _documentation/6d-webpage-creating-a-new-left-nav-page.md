@@ -11,11 +11,11 @@ second_nav_title: "Webpage"
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
 * Select your "Staging" Branch
-* Go to the folder that you wish to create your new left nav page
+* Go to the navbar folder that you wish to create your new left nav page
 * Click on “Create new file” button
 * Copy and paste the header code snippet below into your file
-* Change title, permalink, breadcrumb, collection according to your need. We recommend to make reference from your other existing .md pages
-* Add in your markdown content of your page. We recommend copying from other existing .md pages
+* Fill in title, permalink, breadcrumb, collection according to your need. We recommend to make reference from your other existing .md pages
+* Add in your markdown content of your page. We recommend to make reference from your other existing .md pages
 * Save the file in .md
 * Click on "Commit changes" button
 
@@ -24,9 +24,9 @@ second_nav_title: "Webpage"
 # Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
 layout: leftnav-page-content
-title: Change to your own title description
-permalink: /change-to-your-own-title-description/
-breadcrumb: Change to your own title description
-collection_name: Change to the collection of the nav bar. You may refer this from other pages in the nav bar folder
+title: Fill in your own title description
+permalink: /fill-in-your-own-title-description/
+breadcrumb: Fill in your own title description
+collection_name: Fill in collection of the nav bar. You may get this from other pages in the navbar folder
 ---
 ```
