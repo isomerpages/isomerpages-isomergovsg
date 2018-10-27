@@ -7,7 +7,7 @@ collection_name: resources
 second_nav_title: "Navigation bar"
 ---
 #### **Step-by-step guide to change social media links for your footer**
-![Adding second level nav](/images/resources/changing-social-media-links-for-your-footer.gif)
+![Changing social media links for your footer](/images/resources/changing-social-media-links-for-your-footer.gif)
 > Note: Be very careful with the spacing in the social-media.yml file. Your website will break if the spacing are incorrect
 
 * Select your "Staging" Branch
