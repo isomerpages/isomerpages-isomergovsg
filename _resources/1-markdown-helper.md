@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Markdown Helper
 permalink: /markdown-helper/
 breadcrumb: Markdown Helper
-collection_name: resources
+collection_name: documentation
 ---
 
 #### **Formatting your website content using Markdown**
