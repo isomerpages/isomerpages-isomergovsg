@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Changing color for your website
 permalink: /website-color/changing-color/
 breadcrumb: Website Color - Changing color
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Website Color"
 ---
 #### **Step-by-step guide to change color for your website**
