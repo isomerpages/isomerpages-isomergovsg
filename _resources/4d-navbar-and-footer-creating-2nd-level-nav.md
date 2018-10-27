@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Creating 2nd level nav to your navigation bar
-permalink: /navigation-bar-and-footer/creating-2nd-level-nav/
-breadcrumb: Navigation bar and footer - Creating 2nd level nav
+title: Creating 2nd level nav to your navbar
+permalink: /navbar-and-footer/creating-2nd-level-nav/
+breadcrumb: Navbar and footer - Creating 2nd level nav
 collection_name: resources
-second_nav_title: "Navigation bar and footer"
+second_nav_title: "Navbar and footer"
 ---
-#### **Step-by-step guide to create a 2nd level nav on your navigation bar**
+#### **Step-by-step guide to create a 2nd level nav on your navbar**
 ![Adding second level nav](/images/resources/adding-second-level-item-to-your-navigation-bar.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
