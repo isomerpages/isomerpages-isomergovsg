@@ -15,7 +15,7 @@ second_nav_title: "Webpage"
 * Click on “Create new file” button
 * Copy and paste the header code snippet below into your file
 * Change title, permalink, breadcrumb according to your need. We recommend to make reference from your other existing .md simple page
-* Add in your markdown content of your page. We recommend copying from other existing .md pages
+* Add in your markdown content of your page. We recommend to make reference from your other existing .md simple page
 * Save the file in .md
 * Click on "Commit changes" button
 
