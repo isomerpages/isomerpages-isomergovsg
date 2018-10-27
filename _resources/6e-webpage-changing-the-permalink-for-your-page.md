@@ -2,8 +2,8 @@
 layout: leftnav-page-content
 title: Changing permalink for your page
 permalink: /webpage/changing-the-permalink-for-your-page/
-breadcrumb: Webpage - Changing permaLink
-collection_name: resources
+breadcrumb: Webpage - Changing permalink
+collection_name: documentation
 second_nav_title: "Webpage"
 ---
 #### **Step-by-step guide to change permalink for your page**
