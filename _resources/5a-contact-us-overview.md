@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /contact-us/overview/
 breadcrumb: Contact Us - Overview
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Contact Us"
 ---
 #### **Contact Us page**
