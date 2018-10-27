@@ -24,8 +24,8 @@ second_nav_title: "Webpage"
 # Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
 layout: simple-page
-title: Change to your own title description
-permalink: /change-to-your-own-title-description/
-breadcrumb: Change to your own title description
+title: fill in your own title description
+permalink: /fill-in-your-own-title-description/
+breadcrumb: Fill in your own title description
 ---
 ```
