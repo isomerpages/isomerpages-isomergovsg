@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Changing text for your navigation bar
-permalink: /navigation-bar/changing-content/
-breadcrumb: Navigation Bar - Changing text
+permalink: /navigation-bar-and-footer/changing-content/
+breadcrumb: Navigation bar and footer - Changing text
 collection_name: resources
-second_nav_title: "Navigation bar"
+second_nav_title: "Navigation bar and footer"
 ---
 #### **Step-by-step guide to change text for your navigation bar**
 ![Changing Text for your Navigation Bar](/images/resources/changing-content-for-your-navigation-bar.gif)
