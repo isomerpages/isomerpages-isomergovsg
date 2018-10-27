@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Changing text for your navbar
 permalink: /navbar-and-footer/changing-content/
 breadcrumb: Navbar and Footer - Changing text
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Navbar and Footer"
 ---
 #### **Step-by-step guide to change text for your navbar**
