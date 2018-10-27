@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Creating 1st level nav to your navigation bar
-permalink: /navigation-bar/creating-1st-level-nav/
-breadcrumb: Navigation Bar - Creating 1st level nav
+permalink: /navigation-bar-and-footerr/creating-1st-level-nav/
+breadcrumb: Navigation bar and footer - Creating 1st level nav
 collection_name: resources
-second_nav_title: "Navigation bar"
+second_nav_title: "Navigation bar and footer"
 ---
 #### **Step-by-step guide to create 1st level nav on your navigation bar**
 ![Adding first level nav](/images/resources/adding-first-level-item-to-your-navigation-bar.gif)
