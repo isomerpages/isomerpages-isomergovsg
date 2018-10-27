@@ -14,8 +14,8 @@ second_nav_title: "Webpage"
 * Go to the navbar folder that you wish to create your new left nav page
 * Click on “Create new file” button
 * Copy and paste the header code snippet below into your file
-* Fill in title, permalink, breadcrumb, collection according to your need. We recommend to make reference from your other existing .md pages
-* Add in your markdown content of your page. We recommend to make reference from your other existing .md pages
+* Fill in title, permalink, breadcrumb, collection. We recommend to make reference from your other existing .md pages
+* Add in your markdown content of your page
 * Save the file in .md
 * Click on "Commit changes" button
 
