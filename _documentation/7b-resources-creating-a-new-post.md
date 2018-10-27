@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Creating a New Post for your Resources
+title: Creating a new post for your resources
 permalink: /resources/creating-a-new-post/
-breadcrumb: Resources - Creating a New Post
+breadcrumb: Resources - Creating a new post
 collection_name: documentation
 second_nav_title: "Resources"
 ---
