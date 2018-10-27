@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Uploading a file to your repository
 permalink: /github-repository/uploading-a-file/
 breadcrumb: Github Repository - Uploading a file
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Github Repository"
 ---
 #### **Step-by-step guide to upload a file to your repository**
