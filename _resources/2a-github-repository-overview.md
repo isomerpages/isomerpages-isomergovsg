@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Overview
 permalink: /github-repository/overview/
-breadcrumb: Github repository - Overview
+breadcrumb: Github Repository - Overview
 collection_name: resources
-second_nav_title: "Github repository"
+second_nav_title: "Github Repository"
 ---
 #### **Github Repository**
 Each Isomer website has a Github repository
