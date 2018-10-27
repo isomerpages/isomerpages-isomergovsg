@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Creating 1st level nav to your navbar
 permalink: /navbar-and-footer/creating-1st-level-nav/
 breadcrumb: Navbar and Footer - Creating 1st level nav
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Navbar and Footer"
 ---
 #### **Step-by-step guide to create 1st level nav on your navbar**
