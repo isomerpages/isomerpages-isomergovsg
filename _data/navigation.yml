@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-- title: RESOURCES
+- title: DOCUMENTATION
   url: /training-materials/
   sub-links:
   - title: Training Materials
@@ -19,12 +19,12 @@
     url: /navbar-and-footer/overview/
   - title: Contact Us
     url: /contact-us/overview/
-  - title: Website Color
-    url: /website-color/overview/
   - title: Webpage
     url: /webpage/overview/
   - title: Resources
     url: /resources/overview/
+  - title: Website Color
+    url: /website-color/overview/
 - title: FAQ
   url: /faq/
 - title: CONTACT US
