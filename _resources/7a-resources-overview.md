@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /resources/overview/
 breadcrumb: Resources - Overview
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Resources"
 ---
 #### **Resources page**
