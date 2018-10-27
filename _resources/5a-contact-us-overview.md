@@ -4,7 +4,7 @@ title: Overview
 permalink: /contact-us/overview/
 breadcrumb: Contact Us - Overview
 collection_name: resources
-second_nav_title: "Contact us"
+second_nav_title: "Contact Us"
 ---
 #### **Contact Us page**
 Each Isomer website has Contact Us page.
