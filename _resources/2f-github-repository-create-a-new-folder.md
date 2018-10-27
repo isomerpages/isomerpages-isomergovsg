@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Creating a new folder in your repository
 permalink: /github-repository/creating-a-new-folder/
 breadcrumb: Github Repository - Creating a new folder
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Github Repository"
 ---
 #### **Step-by-step guide to create a new folder in your repository**
