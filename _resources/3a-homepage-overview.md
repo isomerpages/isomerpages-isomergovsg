@@ -13,7 +13,7 @@ Each Isomer website has a Homepage which contain the main and resources section.
 ![Homepage](/images/resources/homepage.PNG)
 
 #### Resources section
-![Homepage](/images/resources/homepage-resource-section.PNG)
+![Homepage](/images/resources/homepage-resources-section.PNG)
 
 Homepage template can be configured as follow:
 - The call to action can either be configured as a button, drop-down option
