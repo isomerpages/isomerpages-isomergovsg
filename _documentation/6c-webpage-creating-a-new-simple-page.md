@@ -14,7 +14,7 @@ second_nav_title: "Webpage"
 * Go to the folder that you wish to create your new simple page
 * Click on “Create new file” button
 * Copy and paste the header code snippet below into your file
-* Fill in title, permalink, breadcrumb according to your need. We recommend to make reference from your other existing .md simple page
+* Fill in title, permalink, breadcrumb. We recommend to make reference from your other existing .md simple page
 * Add in your markdown content of your page
 * Save the file in .md
 * Click on "Commit changes" button
