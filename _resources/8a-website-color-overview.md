@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /website-color/overview/
 breadcrumb: Website Color - Overview
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Website Color"
 ---
 #### **Website Colors**
