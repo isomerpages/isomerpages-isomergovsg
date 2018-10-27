@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Creating a new simple page
 permalink: /webpage/creating-a-new-simple-page/
 breadcrumb: Webpage - Creating a new simple page
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Webpage"
 ---
 #### **Step-by-step guide to create a new simple page**
