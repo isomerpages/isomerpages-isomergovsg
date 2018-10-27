@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /github-repository/overview/
 breadcrumb: Github Repository - Overview
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Github Repository"
 ---
 #### **Github Repository**
