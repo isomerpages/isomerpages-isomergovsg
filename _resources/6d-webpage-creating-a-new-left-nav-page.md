@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Creating a new left nav page
 permalink: /webpage/creating-a-new-left-nav-page/
 breadcrumb: Webpage - Creating a new left nav page
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Webpage"
 ---
 #### **Step-by-step guide to create a new left nav page**
