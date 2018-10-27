@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Changing color for your website
 permalink: /website-color/changing-color/
-breadcrumb: Website color - Changing color
+breadcrumb: Website Color - Changing color
 collection_name: resources
-second_nav_title: "Website color"
+second_nav_title: "Website Color"
 ---
 #### **Step-by-step guide to change color for your website**
 ![How to change the colors for your website](/images/resources/website-color-change.gif)
