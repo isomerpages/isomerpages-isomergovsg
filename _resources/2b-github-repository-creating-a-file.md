@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Creating a file in your repository
 permalink: /github-repository/creating-a-file/
-breadcrumb: Github repository - Creating a file
+breadcrumb: Github Repository - Creating a file
 collection_name: resources
-second_nav_title: "Github repository"
+second_nav_title: "Github Repository"
 ---
 #### **Step-by-step guide to create a new file in your repository**
 ![Creating a new file in your repository](/images/resources/creating-a-new-file-in-your-repository.gif)
