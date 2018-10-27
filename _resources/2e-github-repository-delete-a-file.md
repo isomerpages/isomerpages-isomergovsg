@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Deleting a file in your repository
 permalink: /github-repository/deleting-a-file/
 breadcrumb: Github Repository - Deleting a file
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Github Repository"
 ---
 #### **Step-by-step guide to delete a file in your repository**
