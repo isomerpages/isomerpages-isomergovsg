@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Changing key highlight in your homepage
 permalink: /homepage/changing-key-highlight/
 breadcrumb: Homepage - Changing key highlight
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change key highlight in your homepage**
