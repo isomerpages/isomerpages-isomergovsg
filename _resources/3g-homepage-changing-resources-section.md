@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Changing resources section in your homepage
 permalink: /homepage/changing-resources-section/
 breadcrumb: Homepage - Changing resources section
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change resources section in your homepage**
