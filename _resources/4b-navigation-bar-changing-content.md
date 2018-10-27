@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Changing text for your navigation bar
-permalink: /navigation-bar-and-footer/changing-content/
-breadcrumb: Navigation bar and footer - Changing text
+title: Changing text for your navbar
+permalink: /navbar-and-footer/changing-content/
+breadcrumb: Navbar and footer - Changing text
 collection_name: resources
-second_nav_title: "Navigation bar and footer"
+second_nav_title: "Navbar and footer"
 ---
-#### **Step-by-step guide to change text for your navigation bar**
-![Changing Text for your Navigation Bar](/images/resources/changing-content-for-your-navigation-bar.gif)
+#### **Step-by-step guide to change text for your navbar**
+![Changing text for your navbar](/images/resources/changing-content-for-your-navigation-bar.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
 * Select your "Staging" Branch
@@ -15,7 +15,6 @@ second_nav_title: "Navigation bar and footer"
 * Edit navigation.yml file
 * Change the content by amending the section below inside navigation.yml
 * Click on "Commit changes" button
-
 
 ```
 # Sample navigation.yml file section for reference
