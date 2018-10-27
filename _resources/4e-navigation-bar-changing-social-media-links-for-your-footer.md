@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Changing social media links for your footer
-permalink: /navigation-bar/changing-social-media-links-for-your-footer/
-breadcrumb: Navigation Bar - Changing social media links for your footer
+permalink: /navigation-bar-and-footer/changing-social-media-links-for-your-footer/
+breadcrumb: Navigation bar and footer - Changing social media links for your footer
 collection_name: resources
-second_nav_title: "Navigation bar"
+second_nav_title: "Navigation bar and footer"
 ---
 #### **Step-by-step guide to change social media links for your footer**
 ![Changing social media links for your footer](/images/resources/changing-social-media-links-for-your-footer.gif)
