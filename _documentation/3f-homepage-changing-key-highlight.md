@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing key highlight in your homepage
+title: Changing key highlight
 permalink: /homepage/changing-key-highlight/
 breadcrumb: Homepage - Changing key highlight
 collection_name: documentation
