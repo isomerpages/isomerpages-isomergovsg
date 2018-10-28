@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing resources section in your homepage
+title: Changing resources section
 permalink: /homepage/changing-resources-section/
 breadcrumb: Homepage - Changing resources section
 collection_name: documentation
