@@ -10,11 +10,11 @@ second_nav_title: "Navbar and Footer"
 ![Changing text for your navbar](/images/resources/changing-content-for-your-navigation-bar.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
-* Select your "Staging" Branch
-* In your repository, go to "_data" folder
-* Edit navigation.yml file
-* Change the content by amending the section below inside navigation.yml
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit navigation.yml file
+4. Change the content by amending the section below inside navigation.yml
+5. Click on "Commit changes" button
 
 ```
 # Sample navigation.yml file section for reference
