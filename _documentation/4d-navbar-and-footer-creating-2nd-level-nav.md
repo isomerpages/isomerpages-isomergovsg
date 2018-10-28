@@ -31,7 +31,7 @@ collections:
 
 ---
 
-#### **Part 2: Step-by-step guide to create a navbar folder for your 2nd level**
+#### **Part 2: Step-by-step guide to create a navbar folder for your 2nd level nav**
 ![Adding 2nd nav folder](/images/resources/adding-second-level-item-to-your-navigation-bar-part-2.gif)
 > Note: You will notice that the folder name goes by the naming convention of _collection name which we define in part 1. This is by design how the website works
 
@@ -42,7 +42,14 @@ collections:
 
 ---
 
-#### **Part 3: Step-by-step guide to create a 2nd level nav**
+#### **Part 3: Step-by-step guide to create a left nav page for your 2nd level nav**
+1. Select your "Staging" Branch
+2. Create a new left nav page by stating using collection "who-we-are" which we define in part 1
+3. [Click here](/webpage/creating-a-new-left-nav-page/){:target="_blank"} on the instructions on how to create a new left nav page
+
+---
+
+#### **Part 4: Step-by-step guide to create a 2nd level nav**
 ![Adding 2nd level nav](/images/resources/adding-second-level-item-to-your-navigation-bar-part-3.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
@@ -55,22 +62,9 @@ collections:
 ```
 # Sample code snippet for you to create a 2nd level nav
 
-- title: Digital Gov Transformation
-  url: /digital-government-transformation/
-  sub-links:
-  - title: Overview
-    url: /digital-government-transformation/
-  - title: Digital Government Blueprint
-    url: /digital-government-blueprint/
-    
-# Sample code snippet for you to create a 2nd level nav linking to external website
-    
 - title: Who We Are
   url: /who-we-are/
   sub-links:
   - title: My team
     url: /my-team/
-  - title: Our role
-    url: https://www.google.com
-    external: true
 ```
