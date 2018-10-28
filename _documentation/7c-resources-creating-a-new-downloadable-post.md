@@ -12,11 +12,12 @@ second_nav_title: "Resources"
 
 1. Select your "Staging" Branch
 2. Go to media folder in your repo and then the respective folder
-3. Click on “Create new file” button
-4. Copy and paste the header code snippet below into your file
-5. Fill in title, date, permalink according to your need. We recommend to make reference from your other existing post
-6. Save the file in the format of YYYY-MM-DD-filename.md. THIS IS VERY IMPORTANT OTHERWISE IT WILL NOT WORK!
-7. Click on "Commit changes" button
+3. Go to _post folder
+4. Click on “Create new file” button
+5. Copy and paste the header code snippet below into your file
+6. Fill in title, date, permalink according to your need. We recommend to make reference from your other existing post
+7. Save the file in the format of YYYY-MM-DD-filename.md. THIS IS VERY IMPORTANT OTHERWISE IT WILL NOT WORK!
+8. Click on "Commit changes" button
 
 ```
 # Sample code snippet for downloadable post
