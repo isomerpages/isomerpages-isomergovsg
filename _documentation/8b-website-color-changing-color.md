@@ -9,7 +9,7 @@ second_nav_title: "Website Color"
 #### **Step-by-step guide to change color for your website**
 ![How to change the colors for your website](/images/resources/website-color-change.gif)
 
-1. Select your "Staging" Branch in the repository's main page
+1. Select your "Staging" Branch in the repository
 2. Go into the "misc" folder
 3. Edit the custom.scss file
 4. Change the color of your website by amending the section below inside the file
