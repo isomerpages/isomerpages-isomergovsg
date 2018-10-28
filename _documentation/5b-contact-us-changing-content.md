@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing content for your contact us page
+title: Changing content
 permalink: /contact-us/changing-content/
 breadcrumb: Contact Us - Changing content
 collection_name: documentation
