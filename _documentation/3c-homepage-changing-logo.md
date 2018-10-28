@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing logo in your homepage
+title: Changing logo
 permalink: /homepage/changing-logo/
 breadcrumb: Homepage - Changing logo
 collection_name: documentation
