@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing call to action button in your homepage
+title: Changing call to action button
 permalink: /homepage/changing-call-to-action-button/
 breadcrumb: Homepage - Changing call to action button
 collection_name: documentation
