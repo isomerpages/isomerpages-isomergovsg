@@ -11,7 +11,7 @@ second_nav_title: "Resources"
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
 1. Select your "Staging" Branch
-2. Go to your resources and respective category folder, that you wish to create your new post
+2. Go to media folder in your repo and then the respective folder
 3. Click on “Create new file” button
 4. Copy and paste the header code snippet below into your file
 5. Fill in title, date, permalink according to your need. We recommend to make reference from your other existing post
