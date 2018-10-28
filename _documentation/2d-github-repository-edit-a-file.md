@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Editing a file in your repository
+title: Editing a file
 permalink: /github-repository/editing-a-file/
 breadcrumb: Github Repository - Editing a file
 collection_name: documentation
