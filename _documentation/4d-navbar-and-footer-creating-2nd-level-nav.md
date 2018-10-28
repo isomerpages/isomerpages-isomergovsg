@@ -7,7 +7,7 @@ collection_name: documentation
 second_nav_title: "Navbar and Footer"
 ---
 > IMPORTANT: For simplicity sake, the guide assumes that the creation of the 2nd level nav of "WHO WE ARE"
-Once you have a sense of how it is done, you may change "WHO WE ARE" into your preferred header name
+Once you have a sense of how it is done, you may change "WHO WE ARE" into your preferred header name. If you have any questions regarding this, please reach out to us via Slack or email us at admin@isomer.gov.sg
 
 #### **Part 1: Step-by-step guide to create a collection for your 2nd level nav**
 ![Adding collection](/images/resources/adding-second-level-item-to-your-navigation-bar-part-1.gif)
@@ -43,7 +43,7 @@ collections:
 ---
 
 #### **Part 3: Step-by-step guide to create a 2nd level nav**
-![Adding second level nav](/images/resources/adding-second-level-item-to-your-navigation-bar-part-3.gif)
+![Adding 2nd level nav](/images/resources/adding-second-level-item-to-your-navigation-bar-part-3.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
 1. Select your "Staging" Branch
