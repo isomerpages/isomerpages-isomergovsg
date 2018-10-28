@@ -10,11 +10,11 @@ second_nav_title: "Navbar and Footer"
 ![Changing social media links for your footer](/images/resources/changing-social-media-links-for-your-footer.gif)
 > Note: Be very careful with the spacing in the social-media.yml file. Your website will break if the spacing are incorrect
 
-* Select your "Staging" Branch
-* In your repository, go to "_data" folder
-* Edit social-media.yml file
-* Change the links
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit social-media.yml file
+4. Change the links
+5. Click on "Commit changes" button
 
 ```
 # Sample code snippet for social-media.yml
