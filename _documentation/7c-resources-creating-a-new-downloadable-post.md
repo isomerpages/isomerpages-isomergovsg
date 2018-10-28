@@ -7,7 +7,7 @@ collection_name: documentation
 second_nav_title: "Resources"
 ---
 #### **Step-by-step guide to creating a new downloadable post**
-![Create a new post](/images/resources/creating-a-new-downloadable-post.gif)
+![Create a new downloadable post](/images/resources/creating-a-new-downloadable-post.gif)
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
 1. Select your "Staging" Branch
