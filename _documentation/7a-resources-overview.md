@@ -16,4 +16,4 @@ Resources page has the following features:
 - Downloadable post enable use to download a file in a new window
 - Content post has layout similar to simple page
 - Date filter is automatically enabled for resources page
-- Resources category are done by the folder structure in media folder
+- Resources category are organised by the folder structure in media folder
