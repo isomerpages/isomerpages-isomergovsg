@@ -10,14 +10,14 @@ second_nav_title: "Webpage"
 ![Create a new left nav page](/images/resources/adding-a-new-left-nav-page.gif)
 > Note: Do not put spaces in the filename of your .md file. Always replace the spaces with dash (-)
 
-* Select your "Staging" Branch
-* Go to the navbar folder that you wish to create your new left nav page
-* Click on “Create new file” button
-* Copy and paste the header code snippet below into your file
-* Fill in title, permalink, breadcrumb, collection. We recommend to make reference from your other existing .md pages
-* Add in your markdown content of your page
-* Save the file in .md
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. Go to the navbar folder that you wish to create your new left nav page
+3. Click on “Create new file” button
+4. Copy and paste the header code snippet below into your file
+5. Fill in title, permalink, breadcrumb, collection. We recommend to make reference from your other existing .md pages
+6. Add in your markdown content of your page
+7. Save the file in .md
+8. Click on "Commit changes" button
 
 ```
 # Sample code snippet for single page
