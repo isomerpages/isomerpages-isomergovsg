@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing color for your website
+title: Changing color
 permalink: /website-color/changing-color/
 breadcrumb: Website Color - Changing color
 collection_name: documentation
