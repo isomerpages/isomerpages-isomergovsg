@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Changing hero banner in your homepage
+title: Changing hero banner
 permalink: /homepage/changing-hero-banner-content/
 breadcrumb: Homepage - Changing hero banner
 collection_name: documentation
