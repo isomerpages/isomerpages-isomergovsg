@@ -14,7 +14,7 @@ second_nav_title: "Navigation bar"
 * In your repository, go to "_data" folder
 * Edit navigation.yml file
 * Copy the code snippet below into navigation.yml
-* State the permalink of your target left nav page under url. To create a left nav page, refer [here](/webpage/creating-a-new-left-nav-page/){:target="_blank"} 
+* Change the url to your page permalink. To create a page, refer [here](/webpage/creating-a-new-left-nav-page/){:target="_blank"} 
 * Click on "Commit changes" button
 
 ```
