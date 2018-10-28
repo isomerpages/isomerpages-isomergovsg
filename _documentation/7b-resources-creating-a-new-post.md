@@ -20,7 +20,7 @@ second_nav_title: "Resources"
 8. Click on "Commit changes" button
 
 ```
-# Sample code snippet for simple page
+# Sample code snippet for post
 # Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
 layout: post
