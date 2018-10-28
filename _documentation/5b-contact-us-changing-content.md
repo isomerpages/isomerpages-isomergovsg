@@ -10,11 +10,11 @@ second_nav_title: "Contact Us"
 ![Changing Content of contact us](/images/resources/changing-content-of-your-contact-us-page.gif)
 > Note: Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect
 
-* Select your "Staging" Branch
-* In your repository, go to "_data" folder
-* Edit contact-us.yml file
-* Change the content by amending the section below inside contact-us.yml
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit contact-us.yml file
+4. Change the content by amending the section below inside contact-us.yml
+5. Click on "Commit changes" button
 
 ```
 # Sample contact-us.yml file section for reference
