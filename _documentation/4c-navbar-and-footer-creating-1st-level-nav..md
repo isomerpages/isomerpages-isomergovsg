@@ -10,12 +10,12 @@ second_nav_title: "Navbar and Footer"
 ![Adding first level nav](/images/resources/adding-first-level-item-to-your-navigation-bar.gif)
 > Note: Be very careful with the spacing in the navigation.yml file. Your website will break if the spacing are incorrect
 
-* Select your "Staging" Branch
-* In your repository, go to "_data" folder
-* Edit navigation.yml file
-* Copy the code snippet below into navigation.yml
-* Change the url to your target page permalink
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit navigation.yml file
+4. Copy the code snippet below into navigation.yml
+5. Change the url to your target page permalink
+6. Click on "Commit changes" button
 
 ```
 # Sample code snippet for you to create a 1st level nav. Replace url with your simple page permalink
