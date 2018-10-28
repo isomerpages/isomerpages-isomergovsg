@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Creating a new downloadable post for your resources
+title: Creating a new downloadable post
 permalink: /resources/creating-a-new-downloadable-post/
 breadcrumb: Resources - Creating a new downloadable post
 collection_name: documentation
