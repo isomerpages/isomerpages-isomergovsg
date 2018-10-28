@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing color for your resources page
-permalink: /resources/changing-color-for-your-resources-page/
-breadcrumb: Resources - Changing color for your resources page
+title: Changing color for your posts
+permalink: /resources/changing-color-for-your-post/
+breadcrumb: Resources - Changing color for your posts
 collection_name: documentation
 second_nav_title: "Resources"
 ---
-#### **Step-by-step guide to change color for your resources page**
+#### **Step-by-step guide to change color for your posts**
 ![How to change the colors for your resources page](/images/resources/changing-color-for-your-resources-page.gif)
 
 1. Select your "Staging" Branch in the repository
