@@ -20,7 +20,7 @@ second_nav_title: "Webpage"
 8. Click on "Commit changes" button
 
 ```
-# Sample code snippet for single page
+# Sample code snippet for left nav page
 # Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
 layout: leftnav-page-content
