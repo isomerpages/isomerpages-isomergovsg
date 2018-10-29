@@ -4,27 +4,27 @@
 #                                #
 ##################################
 
-- title: RESOURCES
+- title: DOCUMENTATION
   url: /training-materials/
   sub-links:
-  - title: TRAINING MATERIALS
+  - title: Training Materials
     url: /training-materials/
-  - title: MARKDOWN HELPER
+  - title: Markdown Helper
     url: /markdown-helper/
-  - title: GITHUB REPOSITORY
+  - title: Github Repository
     url: /github-repository/overview/
-  - title: HOMEPAGE
+  - title: Homepage
     url: /homepage/overview/
-  - title: NAVBAR AND FOOTER
+  - title: Navbar and Footer
     url: /navbar-and-footer/overview/
-  - title: CONTACT US
+  - title: Contact Us
     url: /contact-us/overview/
-  - title: WEBSITE COLOR
-    url: /website-color/overview/
-  - title: WEBPAGE
+  - title: Webpage
     url: /webpage/overview/
-  - title: RESOURCES
+  - title: Resources
     url: /resources/overview/
+  - title: Website Color
+    url: /website-color/overview/
 - title: FAQ
   url: /faq/
 - title: CONTACT US

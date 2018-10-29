@@ -1,20 +1,20 @@
 ---
 layout: leftnav-page-content
-title: Changing content for your contact us page
+title: Changing content
 permalink: /contact-us/changing-content/
 breadcrumb: Contact Us - Changing content
-collection_name: resources
-second_nav_title: "Contact us"
+collection_name: documentation
+second_nav_title: "Contact Us"
 ---
 #### **Step-by-step guide to change content for your contact us page**
 ![Changing Content of contact us](/images/resources/changing-content-of-your-contact-us-page.gif)
 > Note: Be very careful with the spacing in the contact-us.yml file. Your website will break if the spacing are incorrect
 
-* Select your "Staging" Branch
-* In your repository, go to "_data" folder
-* Edit contact-us.yml file
-* Change the content by amending the section below inside contact-us.yml
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit contact-us.yml file
+4. Change the content by amending the section below inside contact-us.yml
+5. Click on "Commit changes" button
 
 ```
 # Sample contact-us.yml file section for reference

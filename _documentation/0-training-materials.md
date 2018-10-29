@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Training materials
+title: Training Materials
 permalink: /training-materials/
-breadcrumb: Training materials
-collection_name: resources
+breadcrumb: Training Materials
+collection_name: documentation
 ---
 
 #### **Basic concept about Isomer, Github, Markdown**

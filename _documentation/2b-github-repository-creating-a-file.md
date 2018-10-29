@@ -1,16 +1,16 @@
 ---
 layout: leftnav-page-content
-title: Creating a file in your repository
+title: Creating a file
 permalink: /github-repository/creating-a-file/
-breadcrumb: Github repository - Creating a file
-collection_name: resources
-second_nav_title: "Github repository"
+breadcrumb: Github Repository - Creating a file
+collection_name: documentation
+second_nav_title: "Github Repository"
 ---
 #### **Step-by-step guide to create a new file in your repository**
 ![Creating a new file in your repository](/images/resources/creating-a-new-file-in-your-repository.gif)
 
-* Select your "Staging" Branch
-* Go to the folder that you wish to create a new folder
-* In your repository, click on "Create new file" button
-* Under the "Name your file..." section, put in your file name
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. Go to the folder that you wish to create a new folder
+3. In your repository, click on "Create new file" button
+4. Under the "Name your file..." section, put in your file name
+5. Click on "Commit changes" button

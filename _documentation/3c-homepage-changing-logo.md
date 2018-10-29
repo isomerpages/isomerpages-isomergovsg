@@ -1,20 +1,20 @@
 ---
 layout: leftnav-page-content
-title: Changing logo in your homepage
+title: Changing logo
 permalink: /homepage/changing-logo/
 breadcrumb: Homepage - Changing logo
-collection_name: resources
+collection_name: documentation
 second_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change logo in your homepage**
 ![Changing logo of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
-* Select your "Staging" Branch
-* In your repository, go to "_data" folder
-* Edit homepage.yml file
-* Change your agency logo by amending the section below inside homepage.yml
-* Click on "Commit changes" button
+1. Select your "Staging" Branch
+2. In your repository, go to "_data" folder
+3. Edit homepage.yml file
+4. Change your agency logo by amending the section below inside homepage.yml
+5. Click on "Commit changes" button
 
 ```
 # Sample homepage.yml file section for reference
