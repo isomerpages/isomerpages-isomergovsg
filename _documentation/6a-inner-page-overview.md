@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /inner-pages/overview/
-breadcrumb: Inner Pages - Overview
+permalink: /inner-page/overview/
+breadcrumb: Inner Page - Overview
 collection_name: documentation
-second_nav_title: "Inner Pages"
+second_nav_title: "Inner Page"
 ---
 #### **Webpage**
-Isomer supports 2 types of layout for inner pages, a simple page and a left nav page.
+Isomer supports 2 types of layout for inner page, a simple page and a left nav page.
 
 #### Simple page
 ![Simple page](/images/resources/simple-page.PNG)
