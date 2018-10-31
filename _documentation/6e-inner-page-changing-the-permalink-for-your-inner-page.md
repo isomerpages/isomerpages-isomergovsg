@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Changing permalink for your page
-permalink: /webpage/changing-the-permalink-for-your-page/
-breadcrumb: Webpage - Changing permalink
+title: Changing permalink for your inner page
+permalink: /inner-page/changing-the-permalink-for-your-page/
+breadcrumb: Inner Page - Changing permalink
 collection_name: documentation
-second_nav_title: "Webpage"
+second_nav_title: "Inner Page"
 ---
 #### **Step-by-step guide to change permalink for your page**
 ![Change permalink for your webpage](/images/resources/changing-the-perma-link-of-your-webpages.gif)
