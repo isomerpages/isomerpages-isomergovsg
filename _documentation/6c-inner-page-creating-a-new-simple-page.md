@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Creating a new simple page
-permalink: /webpage/creating-a-new-simple-page/
-breadcrumb: Webpage - Creating a new simple page
+permalink: /inner-page/creating-a-new-simple-page/
+breadcrumb: Inner Page - Creating a new simple page
 collection_name: documentation
-second_nav_title: "Webpage"
+second_nav_title: "Inner Page"
 ---
 #### **Step-by-step guide to create a new simple page**
 ![Create a new simple page](/images/resources/adding-a-new-simple-page.gif)
