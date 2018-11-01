@@ -17,7 +17,7 @@ second_nav_title: "Resources"
 5. Copy and paste the header code snippet below into your file
 6. Fill in title, date, permalink according to your need. We recommend to make reference from your other existing post
 7. Save the file in the format of YYYY-MM-DD-filename.md. THIS IS VERY IMPORTANT OTHERWISE IT WILL NOT WORK!
-8. Click on "Commit changes" button
+8. Click on "Commit new file" button
 
 ```
 # Sample code snippet for downloadable post

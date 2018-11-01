@@ -13,4 +13,4 @@ second_nav_title: "Github Repository"
 2. Go to the folder that you wish to create a new folder
 3. In your repository, click on "Create new file" button
 4. Under the "Name your file..." section, create the directory by specifying folder-name/ignore.md
-5. Click on "Commit changes" button
+5. Click on "Commit new file" button

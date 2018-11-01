@@ -18,7 +18,7 @@ second_nav_title: "Resources"
 6. Fill in title, date, permalink according to your need. We recommend to make reference from your other existing post
 7. Add in your markdown content of your page. We recommend to make reference from your other existing post
 8. Save the file in the format of YYYY-MM-DD-filename.md. THIS IS VERY IMPORTANT OTHERWISE IT WILL NOT WORK!
-9. Click on "Commit changes" button
+9. Click on "Commit new file" button
 
 ```
 # Sample code snippet for post

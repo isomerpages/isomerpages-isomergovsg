@@ -23,7 +23,7 @@ locations:
   # HQ Address [REQUIRED]
   - title: 10 Pasir Panjang Road
     address: "#10-01 Mapletree Business City<br>Singapore 117438"
-    find-directions: find-directions: https://www.google.com.sg/maps/place/Government+Technology+Agency+of+Singapore/
+    find-directions: find-directions: https://www.google.com.sg/maps/
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu

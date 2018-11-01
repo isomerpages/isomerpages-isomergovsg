@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Changing content for your page
-permalink: /webpage/changing-content-for-your-page/
-breadcrumb: Webpage - Changing content
+title: Changing content for your inner page
+permalink: /inner-page/changing-content-for-your-inner-page/
+breadcrumb: Inner Page - Changing content
 collection_name: documentation
-second_nav_title: "Webpage"
+second_nav_title: "Inner Page"
 ---
-#### **Step-by-step guide to change content for your page**
+#### **Step-by-step guide to change content for your inner page**
 ![Change content for your webpage](/images/resources/changing-content-for-your-webpage.gif)
 1. Select your "Staging" Branch
 2. In your repository, go to page that you wish to change the content
