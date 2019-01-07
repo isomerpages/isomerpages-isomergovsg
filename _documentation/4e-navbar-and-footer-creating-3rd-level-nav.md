@@ -29,7 +29,7 @@ The file will following the naming convention of **number-alphabet-filename.md**
 <br>1a-who-we-are.md
 <br>1b-organisation-structure.md
 <br>1c-contact-us.md
-The number will group the navigation together while the alphabet will determine the order of the pages.
+<br>The number will group the navigation together while the alphabet will determine the order of the pages.
 
 
 
