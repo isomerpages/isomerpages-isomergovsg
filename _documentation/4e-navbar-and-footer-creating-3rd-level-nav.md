@@ -7,12 +7,14 @@ collection_name: documentation
 second_nav_title: "Navbar and Footer"
 ---
 
-> IMPORTANT: 3rd level navigation cannot be added to the header navigation. Instead the creation of 3rd level navigations will level on the left navigation of the 2nd level content
+> IMPORTANT: 3rd level navigations will only appear in the left-navigation.
 
 To create a 3rd level navigation, create a new page and add the parameter **second_nav_title** in the main header of the page. 
+
 The **second_nav_title** corresponds to the 2nd level navigation and the **title** will be the title of the page. 
 
-In the example below, "Github Repository" tells isomer this page belongs to the Github Repository navigation while the page title is "Overview".
+In the example below, "Github Repository" tells isomer that this page belongs to the Github Repository **second-level navigation** while the page **title** is "Overview".
+
 <pre>
 ---
 layout: leftnav-page-content
@@ -23,13 +25,15 @@ collection_name: documentation
 <b>second_nav_title: "Github Repository"</b>
 ---
 </pre>
+
 ![3rd level navigation appearance](/images/resources/3rd-nav-appearance.png)
 
-The file will following the naming convention of **number-alphabet-filename.md** for example:
-<br>1a-who-we-are.md
-<br>1b-organisation-structure.md
-<br>1c-contact-us.md
-<br>The number will group the navigation together while the alphabet will determine the order of the pages.
+The file will following the naming convention of **[number][alphabet]-[filename].md**. For example:
+* *1a-who-we-are.md*
+* *1b-organisation-structure.md*
+* *1c-contact-us.md*
+
+The number will group the navigation together while the alphabet will determine the order of the pages.
 
 
 
