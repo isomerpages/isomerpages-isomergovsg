@@ -20,7 +20,7 @@ second_nav_title: "Inner Page"
       title: Title B
       organisation: Organisation B
       image-url: /images/board-of-directors/Person_B.jpg
-    </pre>
+   </pre>
    
    The content on the page is controlled by the board-of-directors.yml. Add more people by duplicating the name, title, organisation and image-url fields.
 3. Create a board-of-directors.md file under your site's /pages/ folders. 
