@@ -6,6 +6,7 @@ breadcrumb: Inner Page - Creating a Board of Directors page
 collection_name: documentation
 second_nav_title: "Inner Page"
 ---
+#### **Step-by-step guide to creating a Board of Directors page**
 
 Create a new board-of-directors.yml under your site's /_data/ folder
 
