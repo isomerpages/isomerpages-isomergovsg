@@ -11,19 +11,15 @@ second_nav_title: "Inner Page"
 1. Create a new board-of-directors.yml under your site's /_data/ folder
 2. Copy the following code into your file:
    <pre>
-      # Board of Directors
-      - name: Person A
-        title: Title A
-        organisation: Organisation A
-        image-url: /images/board-of-directors/Person_A.jpg
-      - name: Person B
-        title: Title B
-        organisation: Organisation B
-        image-url: /images/board-of-directors/Person_B.jpg
-      - name: Person C
-        title: Title C
-        organisation: Organisation C
-        image-url: /images/board-of-directors/Person_C.jpg
+   # Board of Directors
+   - name: Person A
+      title: Title A
+      organisation: Organisation A
+      image-url: /images/board-of-directors/Person_A.jpg
+   - name: Person B
+      title: Title B
+      organisation: Organisation B
+      image-url: /images/board-of-directors/Person_B.jpg
     </pre>
    
    The content on the page is controlled by the board-of-directors.yml. Add more people by duplicating the name, title, organisation and image-url fields.
