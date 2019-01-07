@@ -32,7 +32,7 @@ GovTech will support your agency by providing training.
 These are some of the Government websites that are already on Isomer:
 * GovTech website: [https://www.tech.gov.sg/](https://www.tech.gov.sg/){:target="_blank"}
 * HLB website: [https://www.hlb.gov.sg](https://www.hlb.gov.sg/){:target="_blank"} 
-* BOA website: [https://www.boa.gov.sg](https://isomer-boagovsg-staging.netlify.com){:target="_blank"}
+* BOA website: [https://www.boa.gov.sg](https://www.boa.gov.sg/){:target="_blank"}
 
 #### **How do Agencies get started on Isomer?**
 You can contact us at <admin@isomer.gov.sg> for more information.
