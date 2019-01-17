@@ -19,7 +19,7 @@ collection_name: documentation
 
 
 #### **Adding media to your website using Markdown**
-* [Adding jpg, png image or gif](https://markdown.isomer.gov.sg/#JYvBDoIwEAXvfMUzvWgT4Rv4BePNeFjbpW1Ct6RdUP9eIsncZsYYY2Dt6H2SgJQpsLXdPaaGnVje+JYVjgTkPegoetw4c35xhRa4SBIYGvmwmNLMWEhjd3qMs3IV0rTtBX8UU6lorjILKpPn2p7n4f+1wRVRcnpdW79IuPwA){:target="_blank"}
+* [Adding jpg, png image or gif](https://markdown.isomer.gov.sg/#NVAxbsQwDNvzChZZWqO9e8ONXYtuRQfFVmKjiW1YyuXu91VyLeBBMEmRYt/3PZy7hJDyhLTQxM51nzEJ7MWy4V5WeMqgEEAPxgkfvPAycIMW+Eh5YmjkB4oxzYxKGrunr8us3DJpuhqDb4qxNIhvzBmNKXCT7+fzoZOzL1nJ69sqp5qnl657l7KYCd8q5SBniS3lHwHNM9Y6F5OHh6fsQcakRwrnthQ0OocyHh/VGK+QgjQe52yUdR/aX2DTUq1Mlmyx3ea4syJdD6i24lmsD8XAFp/t3oDhvjeyl7bFpCyVPINaWQ3bPf83HQ6/){:target="_blank"}
 
 * [Adding word, pdf, excel etc. document link](https://markdown.isomer.gov.sg/#HcxBDsIgFEXRuat4CQOV1HYNztyDcYD815aI0MAnuHyr05uTa4wxsPYqEtKCnosM2GQewI9nBNWPkOzbm0kRQ3pZe7ix8Fix5g7N8IVOCYf7HCJ33FPMTv74cZp+sU5L0LU9L5XatnH/n78=){:target="_blank"}
 
