@@ -1,3 +1,4 @@
+---
 layout: leftnav-page-content
 title: Changing share icon
 permalink: /homepage/changing-favicon/
