@@ -6,7 +6,7 @@ breadcrumb: Homepage - Changing share icon
 collection_name: documentation
 second_nav_title: "Homepage"
 ---
-#### **Step-by-step guide to change favicon in your homepage**
+#### **Step-by-step guide to change your share icon in your site**
 ![Changing favicon of your homepage](/images/resources/changing-content-of-your-homepage.gif)
 > Note: Be very careful with the spacing in the homepage.yml file. Your website will break if the spacing are incorrect
 
