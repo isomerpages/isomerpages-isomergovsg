@@ -18,7 +18,7 @@ Before you start, make sure your share icon is in `png` format and its size is e
 4. Change your share icon by adding or amending the section below inside homepage.yml
 5. Click on "Commit changes" button
 
-```
+```yaml
 # Sample homepage.yml file section for reference
 
 # Image to appear on all pages when shared via WhatsApp, Facebook, etc
