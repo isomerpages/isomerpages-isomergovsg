@@ -9,8 +9,8 @@
   sub-links:
   - title: Training Materials
     url: /training-materials/
-  - title: Markdown Helper
-    url: /markdown-helper/
+  - title: Markdown
+    url: /markdown/markdown-usage/
   - title: Github Repository
     url: /github-repository/overview/
   - title: Homepage
@@ -25,8 +25,6 @@
     url: /resources/overview/
   - title: Website Color
     url: /website-color/overview/
-  - title: Markdown Usage
-    url: /markdown-usage/
   - title: Configuration Options
     url: /configuration-options/
 - title: FAQ
