@@ -4,6 +4,7 @@ title: Markdown Helper
 permalink: /markdown-helper/
 breadcrumb: Markdown Helper
 collection_name: documentation
+second_nav_title: "Markdown"
 ---
 
 #### **Formatting your website content using Markdown**
