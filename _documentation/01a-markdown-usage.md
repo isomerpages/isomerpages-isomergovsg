@@ -4,9 +4,8 @@ title: Markdown Usage
 permalink: /markdown-usage/
 breadcrumb: Markdown Usage
 collection_name: documentation
+second_nav_title: "Markdown"
 ---
-
-**Hi! This page is still very much a WIP. If you need any assistance, please feel free to contact us directly.**
 
 ## What is Markdown?
 
