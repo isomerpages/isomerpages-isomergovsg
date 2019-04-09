@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Markdown Helper
 permalink: /markdown-helper/
-breadcrumb: Markdown Helper
+breadcrumb: Markdown - Markdown Helper
 collection_name: documentation
 second_nav_title: "Markdown"
 ---
