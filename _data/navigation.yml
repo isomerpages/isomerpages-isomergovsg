@@ -25,6 +25,10 @@
     url: /resources/overview/
   - title: Website Color
     url: /website-color/overview/
+  - title: Markdown Usage
+    url: /markdown-usage/
+  - title: Configuration Options
+    url: /configuration-options/
 - title: FAQ
   url: /faq/
 - title: CONTACT US
