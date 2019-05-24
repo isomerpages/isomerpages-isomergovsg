@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Configuration Options
-permalink: /configuration-options/
+permalink: /documentation/configuration-options/
 breadcrumb: Configuration Options
 collection_name: documentation
 ---

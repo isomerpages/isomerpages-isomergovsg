@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Training Materials
-permalink: /training-materials/
+permalink: /documentation/training-materials/
 breadcrumb: Training Materials
 collection_name: documentation
 ---

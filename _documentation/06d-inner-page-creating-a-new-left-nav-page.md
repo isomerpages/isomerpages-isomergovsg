@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating a new left nav page
-permalink: /inner-page/creating-a-new-left-nav-page/
+permalink: /documentation/inner-page/creating-a-new-left-nav-page/
 breadcrumb: Inner Page - Creating a new left nav page
 collection_name: documentation
 second_nav_title: "Inner Page"

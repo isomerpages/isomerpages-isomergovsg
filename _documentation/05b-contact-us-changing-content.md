@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing content
-permalink: /contact-us/changing-content/
+permalink: /documentation/contact-us/changing-content/
 breadcrumb: Contact Us - Changing content
 collection_name: documentation
 second_nav_title: "Contact Us"

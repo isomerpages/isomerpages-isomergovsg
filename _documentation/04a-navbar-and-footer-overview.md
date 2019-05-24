@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /navbar-and-footer/overview/
+permalink: /documentation/navbar-and-footer/overview/
 breadcrumb: Navbar and Footer  - Overview
 collection_name: documentation
 second_nav_title: "Navbar and Footer"

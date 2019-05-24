@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /resources/overview/
+permalink: /documentation/resources/overview/
 breadcrumb: Resources - Overview
 collection_name: documentation
 second_nav_title: "Resources"

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /inner-page/overview/
+permalink: /documentation/inner-page/overview/
 breadcrumb: Inner Page - Overview
 collection_name: documentation
 second_nav_title: "Inner Page"

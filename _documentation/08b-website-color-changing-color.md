@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing color
-permalink: /website-color/changing-color/
+permalink: /documentation/website-color/changing-color/
 breadcrumb: Website Color - Changing color
 collection_name: documentation
 second_nav_title: "Website Color"

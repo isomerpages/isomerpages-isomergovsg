@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing share icon
-permalink: /homepage/changing-share-icon/
+permalink: /documentation/homepage/changing-share-icon/
 breadcrumb: Homepage - Changing share icon
 collection_name: documentation
 second_nav_title: "Homepage"

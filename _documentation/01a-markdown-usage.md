@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Markdown Usage
-permalink: /markdown/markdown-usage/
+permalink: /documentation/markdown/markdown-usage/
 breadcrumb: Markdown - Markdown Usage
 collection_name: documentation
 second_nav_title: "Markdown"

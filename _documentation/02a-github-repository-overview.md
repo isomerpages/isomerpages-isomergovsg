@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /github-repository/overview/
+permalink: /documentation/github-repository/overview/
 breadcrumb: Github Repository - Overview
 collection_name: documentation
 second_nav_title: "Github Repository"

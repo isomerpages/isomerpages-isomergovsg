@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing content for your inner page
-permalink: /inner-page/changing-content-for-your-inner-page/
+permalink: /documentation/inner-page/changing-content-for-your-inner-page/
 breadcrumb: Inner Page - Changing content
 collection_name: documentation
 second_nav_title: "Inner Page"

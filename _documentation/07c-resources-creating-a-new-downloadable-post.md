@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating a new downloadable post
-permalink: /resources/creating-a-new-downloadable-post/
+permalink: /documentation/resources/creating-a-new-downloadable-post/
 breadcrumb: Resources - Creating a new downloadable post
 collection_name: documentation
 second_nav_title: "Resources"
