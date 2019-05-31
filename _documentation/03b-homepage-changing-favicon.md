@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing favicon
-permalink: /homepage/changing-favicon/
+permalink: /documentation/homepage/changing-favicon/
 breadcrumb: Homepage - Changing favicon
 collection_name: documentation
 second_nav_title: "Homepage"

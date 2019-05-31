@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing color for your posts
-permalink: /resources/changing-color-for-your-post/
+permalink: /documentation/resources/changing-color-for-your-post/
 breadcrumb: Resources - Changing color for your posts
 collection_name: documentation
 second_nav_title: "Resources"

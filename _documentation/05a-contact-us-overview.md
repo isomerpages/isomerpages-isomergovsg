@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /contact-us/overview/
+permalink: /documentation/contact-us/overview/
 breadcrumb: Contact Us - Overview
 collection_name: documentation
 second_nav_title: "Contact Us"

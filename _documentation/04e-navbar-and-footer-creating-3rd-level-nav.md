@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating 3rd level nav for your content
-permalink: /navbar-and-footer/creating-3rd-level-nav/
+permalink: /documentation/navbar-and-footer/creating-3rd-level-nav/
 breadcrumb: Navbar and Footer - Creating 3rd level nav
 collection_name: documentation
 second_nav_title: "Navbar and Footer"

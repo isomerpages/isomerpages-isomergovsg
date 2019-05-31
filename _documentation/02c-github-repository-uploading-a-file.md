@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Uploading a file
-permalink: /github-repository/uploading-a-file/
+permalink: /documentation/github-repository/uploading-a-file/
 breadcrumb: Github Repository - Uploading a file
 collection_name: documentation
 second_nav_title: "Github Repository"

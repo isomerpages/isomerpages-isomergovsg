@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating a new post
-permalink: /resources/creating-a-new-post/
+permalink: /documentation/resources/creating-a-new-post/
 breadcrumb: Resources - Creating a new post
 collection_name: documentation
 second_nav_title: "Resources"

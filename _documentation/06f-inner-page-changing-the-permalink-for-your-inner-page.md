@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing permalink for your inner page
-permalink: /inner-page/changing-the-permalink-for-your-page/
+permalink: /documentation/inner-page/changing-the-permalink-for-your-page/
 breadcrumb: Inner Page - Changing permalink
 collection_name: documentation
 second_nav_title: "Inner Page"

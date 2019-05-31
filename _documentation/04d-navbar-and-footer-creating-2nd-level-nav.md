@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating 2nd level nav for your navbar
-permalink: /navbar-and-footer/creating-2nd-level-nav/
+permalink: /documentation/navbar-and-footer/creating-2nd-level-nav/
 breadcrumb: Navbar and Footer - Creating 2nd level nav
 collection_name: documentation
 second_nav_title: "Navbar and Footer"

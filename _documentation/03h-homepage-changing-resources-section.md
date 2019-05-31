@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing resources section
-permalink: /homepage/changing-resources-section/
+permalink: /documentation/homepage/changing-resources-section/
 breadcrumb: Homepage - Changing resources section
 collection_name: documentation
 second_nav_title: "Homepage"

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Changing logo
-permalink: /homepage/changing-logo/
+permalink: /documentation/homepage/changing-logo/
 breadcrumb: Homepage - Changing logo
 collection_name: documentation
 second_nav_title: "Homepage"

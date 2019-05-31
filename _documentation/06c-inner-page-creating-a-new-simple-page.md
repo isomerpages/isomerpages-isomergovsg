@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating a new simple page
-permalink: /inner-page/creating-a-new-simple-page/
+permalink: /documentation/inner-page/creating-a-new-simple-page/
 breadcrumb: Inner Page - Creating a new simple page
 collection_name: documentation
 second_nav_title: "Inner Page"

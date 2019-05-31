@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Markdown Helper
-permalink: /markdown/markdown-helper/
+permalink: /documentation/markdown/markdown-helper/
 breadcrumb: Markdown - Markdown Helper
 collection_name: documentation
 second_nav_title: "Markdown"

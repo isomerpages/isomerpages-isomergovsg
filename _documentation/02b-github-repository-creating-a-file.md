@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Creating a file
-permalink: /github-repository/creating-a-file/
+permalink: /documentation/github-repository/creating-a-file/
 breadcrumb: Github Repository - Creating a file
 collection_name: documentation
 second_nav_title: "Github Repository"
