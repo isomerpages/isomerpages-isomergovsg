@@ -7,7 +7,7 @@
 - title: DOCUMENTATION
   url: /documentation/training-materials/
   sub-links:
-   - title: Training Materials
+  - title: Training Materials
     url: /documentation/training-materials/
   - title: Markdown
     url: /documentation/markdown/markdown-usage/
