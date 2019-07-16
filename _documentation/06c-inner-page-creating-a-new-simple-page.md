@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Creating a new simple page
 permalink: /documentation/inner-page/creating-a-new-simple-page/
-breadcrumb: Inner Page - Creating a new simple page
-collection_name: documentation
-second_nav_title: "Inner Page"
+third_nav_title: "Inner Page"
 ---
 #### **Step-by-step guide to create a new simple page**
 ![Create a new simple page](/images/resources/adding-a-new-simple-page.gif)
@@ -23,7 +20,6 @@ second_nav_title: "Inner Page"
 # Sample code snippet for simple page
 # Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
-layout: simple-page
 title: fill in your own title description
 permalink: /fill-in-your-own-title-description/
 breadcrumb: Fill in your own title description

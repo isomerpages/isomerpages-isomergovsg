@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Creating 3rd level nav for your content
 permalink: /documentation/navbar-and-footer/creating-3rd-level-nav/
-breadcrumb: Navbar and Footer - Creating 3rd level nav
-collection_name: documentation
-second_nav_title: "Navbar and Footer"
+third_nav_title: "Navbar and Footer"
 ---
 
 > IMPORTANT: 3rd level navigations will only appear in the left-navigation.
@@ -17,11 +14,9 @@ In the example below, "Github Repository" tells isomer that this page belongs to
 
 <pre>
 ---
-layout: leftnav-page-content
 <b>title: Overview</b>
 permalink: /github-repository/overview/
 breadcrumb: Github Repository - Overview
-collection_name: documentation
 <b>second_nav_title: "Github Repository"</b>
 ---
 </pre>

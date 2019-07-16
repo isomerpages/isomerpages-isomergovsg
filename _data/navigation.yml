@@ -4,30 +4,12 @@
 #                                #
 ##################################
 
-- title: DOCUMENTATION
-  url: /documentation/training-materials/
-  sub-links:
-  - title: Training Materials
-    url: /documentation/training-materials/
-  - title: Markdown
-    url: /documentation/markdown/markdown-usage/
-  - title: Github Repository
-    url: /documentation/github-repository/overview/
-  - title: Homepage
-    url: /documentation/homepage/overview/
-  - title: Navbar and Footer
-    url: /documentation/navbar-and-footer/overview/
-  - title: Contact Us
-    url: /documentation/contact-us/overview/
-  - title: Inner Page
-    url: /documentation/inner-page/overview/
-  - title: Resources
-    url: /documentation/resources/overview/
-  - title: Website Color
-    url: /documentation/website-color/overview/
-  - title: Configuration Options
-    url: /documentation/configuration-options/
-- title: FAQ
-  url: /faq/
-- title: CONTACT US
-  url: /contact-us/
+logo: /images/isomer-logo.svg
+
+links:
+  - title: DOCUMENTATION
+    collection: documentation
+  - title: FAQ
+    url: /faq/
+  - title: CONTACT US
+    url: /contact-us/

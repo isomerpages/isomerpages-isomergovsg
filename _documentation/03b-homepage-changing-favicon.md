@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing favicon
 permalink: /documentation/homepage/changing-favicon/
-breadcrumb: Homepage - Changing favicon
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change favicon in your homepage**
 ![Changing favicon of your homepage](/images/resources/changing-content-of-your-homepage.gif)

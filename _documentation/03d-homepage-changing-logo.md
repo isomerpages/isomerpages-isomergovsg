@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing logo
 permalink: /documentation/homepage/changing-logo/
-breadcrumb: Homepage - Changing logo
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change logo in your homepage**
 ![Changing logo of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)

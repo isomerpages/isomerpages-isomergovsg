@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Creating a new post
 permalink: /documentation/resources/creating-a-new-post/
-breadcrumb: Resources - Creating a new post
-collection_name: documentation
-second_nav_title: "Resources"
+third_nav_title: "Resources"
 ---
 #### **Step-by-step guide to creating a new post**
 ![Create a new post](/images/resources/creating-a-new-post.gif)

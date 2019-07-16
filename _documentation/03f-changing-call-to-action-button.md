@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing call to action button
 permalink: /documentation/homepage/changing-call-to-action-button/
-breadcrumb: Homepage - Changing call to action button
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change call to action button in your homepage**
 ![Changing call to action button of your homepage](/images/resources/changing-content-of-your-homepage.gif)

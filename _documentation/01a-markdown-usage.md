@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Markdown Usage
 permalink: /documentation/markdown/markdown-usage/
-breadcrumb: Markdown - Markdown Usage
-collection_name: documentation
-second_nav_title: "Markdown"
+third_nav_title: "Markdown"
 ---
 
 ## What is Markdown?

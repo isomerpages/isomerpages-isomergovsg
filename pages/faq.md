@@ -1,8 +1,6 @@
 ---
-layout: simple-page
 title: Frequently Asked Questions
 permalink: /faq/
-breadcrumb: FAQ
 ---
 
 #### **What is Isomer?**

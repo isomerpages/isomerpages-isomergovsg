@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /documentation/github-repository/overview/
-breadcrumb: Github Repository - Overview
-collection_name: documentation
-second_nav_title: "Github Repository"
+third_nav_title: "Github Repository"
 ---
 #### **Github Repository**
 Each Isomer website has a Github repository

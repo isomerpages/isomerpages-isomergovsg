@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Configuration Options
 permalink: /documentation/configuration-options/
-breadcrumb: Configuration Options
-collection_name: documentation
 ---
 
 All configuration files for an Isomer sites are stored as [`yaml`](https://yaml.org/) files (with a `.yml` file extension). Except for `_config.yml` which is in the parent directory of the repository, all other configuration files are in the `_data` folder.

@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Markdown Helper
 permalink: /documentation/markdown/markdown-helper/
-breadcrumb: Markdown - Markdown Helper
-collection_name: documentation
-second_nav_title: "Markdown"
+third_nav_title: "Markdown"
 ---
 
 #### **Formatting your website content using Markdown**

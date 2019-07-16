@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Creating a new left nav page
 permalink: /documentation/resources/creating-a-new-left-nav-page/
-breadcrumb: Resources - Creating a new left nav page
-collection_name: documentation
-second_nav_title: "Resources"
+third_nav_title: "Resources"
 ---
 #### **Step-by-step guide to create a new left nav page**
 ![Create a new left nav page](/images/resources/adding-a-new-left-nav-page.gif)
@@ -23,7 +20,6 @@ second_nav_title: "Resources"
 # Sample code snippet for single page
 # Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
-layout: leftnav-page-content
 title: Change to your own title description
 permalink: /change-to-your-own-title-description/
 breadcrumb: Change to your own title description

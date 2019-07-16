@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /documentation/resources/overview/
-breadcrumb: Resources - Overview
-collection_name: documentation
-second_nav_title: "Resources"
+third_nav_title: "Resources"
 ---
 #### **Resources page**
 Each Isomer website has resources page with 2 type of post, downloadable post or content post.
