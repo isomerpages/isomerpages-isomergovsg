@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /documentation/navbar-and-footer/overview/
-breadcrumb: Navbar and Footer  - Overview
-collection_name: documentation
-second_nav_title: "Navbar and Footer"
+third_nav_title: "Navbar and Footer"
 ---
 #### **Navbar and footer**
 Each Isomer website has a navbar and footer.

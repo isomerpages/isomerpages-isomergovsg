@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /documentation/homepage/overview/
-breadcrumb: Homepage - Overview
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Homepage**
 Each Isomer website has a Homepage which contain the main and resources section.

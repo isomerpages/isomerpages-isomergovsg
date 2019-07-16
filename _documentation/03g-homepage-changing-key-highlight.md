@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing key highlight
 permalink: /documentation/homepage/changing-key-highlight/
-breadcrumb: Homepage - Changing key highlight
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change key highlight in your homepage**
 ![Changing favicon of your homepage](/images/resources/changing-content-of-your-homepage.gif)

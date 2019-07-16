@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /documentation/inner-page/overview/
-breadcrumb: Inner Page - Overview
-collection_name: documentation
-second_nav_title: "Inner Page"
+third_nav_title: "Inner Page"
 ---
 #### **Webpage**
 Isomer supports 2 types of layout for inner page, a simple page and a left nav page.

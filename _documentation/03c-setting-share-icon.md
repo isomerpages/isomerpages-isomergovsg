@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing share icon
 permalink: /documentation/homepage/changing-share-icon/
-breadcrumb: Homepage - Changing share icon
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change your share icon in your site**
 ![Changing favicon of your homepage](/images/resources/changing-content-of-your-homepage.gif)

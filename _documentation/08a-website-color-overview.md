@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /documentation/website-color/overview/
-breadcrumb: Website Color - Overview
-collection_name: documentation
-second_nav_title: "Website Color"
+third_nav_title: "Website Color"
 ---
 #### **Website Colors**
 Each Isomer website has two main colors, a primary color and a secondary color.

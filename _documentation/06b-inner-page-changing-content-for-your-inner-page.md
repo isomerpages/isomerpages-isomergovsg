@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing content for your inner page
 permalink: /documentation/inner-page/changing-content-for-your-inner-page/
-breadcrumb: Inner Page - Changing content
-collection_name: documentation
-second_nav_title: "Inner Page"
+third_nav_title: "Inner Page"
 ---
 #### **Step-by-step guide to change content for your inner page**
 ![Change content for your webpage](/images/resources/changing-content-for-your-webpage.gif)

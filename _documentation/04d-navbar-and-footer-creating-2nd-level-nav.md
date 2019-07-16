@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Creating 2nd level nav for your navbar
 permalink: /documentation/navbar-and-footer/creating-2nd-level-nav/
-breadcrumb: Navbar and Footer - Creating 2nd level nav
-collection_name: documentation
-second_nav_title: "Navbar and Footer"
+third_nav_title: "Navbar and Footer"
 ---
 > IMPORTANT: For simplicity sake, the guide assumes the creation of the 2nd level nav of "WHO WE ARE" item.
 Once you have a sense of how it is done, you may change "WHO WE ARE" into your preferred header name. If you have any questions regarding this, please reach out to us via Slack or email us at admin@isomer.gov.sg

@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Creating a Board of Directors page
 permalink: /documentation/inner-page/creating-board-of-directors-page/
-breadcrumb: Inner Page - Creating a Board of Directors page
-collection_name: documentation
-second_nav_title: "Inner Page"
+third_nav_title: "Inner Page"
 ---
 #### **Step-by-step guide to creating a Board of Directors page**
 

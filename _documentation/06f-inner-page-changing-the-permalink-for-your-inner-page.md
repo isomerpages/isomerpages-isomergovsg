@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing permalink for your inner page
 permalink: /documentation/inner-page/changing-the-permalink-for-your-page/
-breadcrumb: Inner Page - Changing permalink
-collection_name: documentation
-second_nav_title: "Inner Page"
+third_nav_title: "Inner Page"
 ---
 #### **Step-by-step guide to change permalink for your page**
 ![Change permalink for your webpage](/images/resources/changing-the-perma-link-of-your-webpages.gif)

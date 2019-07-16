@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Changing hero banner content
 permalink: /documentation/homepage/changing-hero-banner-content/
-breadcrumb: Homepage - Changing hero banner content
-collection_name: documentation
-second_nav_title: "Homepage"
+third_nav_title: "Homepage"
 ---
 #### **Step-by-step guide to change content for your hero banner in your homepage**
 ![Changing hero banner content of Your Homepage](/images/resources/changing-content-of-your-homepage.gif)
