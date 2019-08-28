@@ -14,12 +14,16 @@ In the example below, "Github Repository" tells isomer that this page belongs to
 
 <pre>
 ---
-<b>title: Overview</b>
+<b>layout: leftnav-page-content</b>
+title: Overview
 permalink: /github-repository/overview/
 breadcrumb: Github Repository - Overview
+collection_name: Fill in collection of the nav bar. You may get this from other pages in the navbar folder
 <b>second_nav_title: "Github Repository"</b>
 ---
 </pre>
+
+
 
 ![3rd level navigation appearance](/images/resources/3rd-nav-appearance.png)
 
