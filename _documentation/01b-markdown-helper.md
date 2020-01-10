@@ -1,8 +1,4 @@
----
-title: Markdown Helper
-permalink: /documentation/markdown/markdown-helper/
-third_nav_title: "Markdown"
----
+
 
 #### **Formatting your website content using Markdown**
 * [Setting font size for headers](https://markdown.isomer.gov.sg/#U1ZWVlbQ0gpOLSnJzEtXSMvPK1EozqxKBbKKFDJSE1NSi4q1tLi4lEHqHBWKcxNzcsAKUqCyXBCJ3NSUzNJcdBmgRFJmOpooyJjSgtQiDCkA){:target="_blank"}
