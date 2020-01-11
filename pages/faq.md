@@ -40,11 +40,11 @@ Informational websites are suited to be on Isomer.
 You can contact us at <admin@isomer.gov.sg> for more information.
 
 #### **What are my options if I am unable to use Isomer?**
-Your agency can consider using the Isomer Design System. 
+Your agency can consider using the [Singapore Government Design System](https://www.designsystem.gov.sg/). 
 
-Isomer Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
+The Singapore Government Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
 
-Do note that for the Isomer Design System, your agency will be responsible for  developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
+Do note that for the Singapore Government Design System, your agency will be responsible for  developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
 
 Design systems are widely used around the world today:
 * In Industry: [Google Material design](https://material.io/design/){:target="_blank"}, [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/){:target="_blank"}
