@@ -7,9 +7,11 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: DOCUMENTATION
+  - title: Get started
+    url: /get-started/
+  - title: Documentation
     collection: documentation
   - title: FAQ
     url: /faq/
-  - title: CONTACT US
+  - title: Contact us
     url: /contact-us/
