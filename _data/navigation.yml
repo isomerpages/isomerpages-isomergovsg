@@ -13,5 +13,5 @@ links:
     collection: documentation
   - title: FAQ
     url: /faq/
-  - title: Contact us
-    url: /contact-us/
+#   - title: Contact us
+#     url: /contact-us/
