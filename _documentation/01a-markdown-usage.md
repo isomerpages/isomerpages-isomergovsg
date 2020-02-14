@@ -24,6 +24,7 @@ The above Markdown will produce:
 
 This is some normal text. *This sentence is in italics.* This **word** is in bold.
 
+
 ### Headers
 
 Headers are the big titles and subtitles on your page. For example, the headers you have seen so far on this page are "What is Markdown?", "Markdown Guide", and "Headers". Headers come in levels, with a level 1 header (aka `H1`) the biggest level usually used only for page titles.
@@ -57,3 +58,10 @@ To place an image in your Markdown file, first [upload the image](/github-reposi
 ```-->
 
 Markdown uses the [kramdown](https://kramdown.gettalong.org/index.html) dialect of Markdown
+
+
+### Videos
+
+To embed a video on your page, simply copy the iframe code from Youtube or Vimeo after you've uploaded your video, and paste it onto your page. 
+
+![image of iframe code on youtube](/images/video.png)

@@ -7,9 +7,13 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: DOCUMENTATION
+  - title: Get started
+    url: /get-started/
+  - title: Documentation
     collection: documentation
   - title: FAQ
     url: /faq/
-  - title: CONTACT US
-    url: /contact-us/
+  - title: Isomer v2
+    url: "https://v2.isomer.gov.sg"
+#   - title: Contact us
+#     url: /contact-us/
