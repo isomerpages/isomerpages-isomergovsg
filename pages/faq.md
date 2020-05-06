@@ -33,11 +33,11 @@ These are some of the Government websites that are already on Isomer:
 * BOA website: [https://www.boa.gov.sg](https://www.boa.gov.sg/){:target="_blank"}
 
 #### **How do Agencies get started on Isomer?**
-You can contact us at <admin@isomer.gov.sg> for more information.
+You can contact us through this [form](https://form.gov.sg/#!/5dc80f7c03b2790012428dc5)for more information.
 
 #### **What type of websites is Isomer suitable for?**
 Informational websites are suited to be on Isomer.
-You can contact us at <admin@isomer.gov.sg> for more information.
+You can contact us through this [form](https://form.gov.sg/#!/5dc80f7c03b2790012428dc5) for more information.
 
 #### **What are my options if I am unable to use Isomer?**
 Your agency can consider using the [Singapore Government Design System](https://www.designsystem.gov.sg/). 
