@@ -33,7 +33,7 @@ These are some of the Government websites that are already on Isomer:
 * BOA website: [https://www.boa.gov.sg](https://www.boa.gov.sg/){:target="_blank"}
 
 #### **How do Agencies get started on Isomer?**
-You can contact us through this [form](https://form.gov.sg/#!/5dc80f7c03b2790012428dc5)for more information.
+You can contact us through this [form](https://form.gov.sg/#!/5dc80f7c03b2790012428dc5) for more information.
 
 #### **What type of websites is Isomer suitable for?**
 Informational websites are suited to be on Isomer.
@@ -44,7 +44,7 @@ Your agency can consider using the [Singapore Government Design System](https://
 
 The Singapore Government Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
 
-Do note that for the Singapore Government Design System, your agency will be responsible for  developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
+Do note that for the Singapore Government Design System, your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
 
 Design systems are widely used around the world today:
 * In Industry: [Google Material design](https://material.io/design/){:target="_blank"}, [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/){:target="_blank"}
