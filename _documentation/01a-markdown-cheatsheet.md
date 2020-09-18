@@ -1,5 +1,5 @@
 ---
-title: Markdown Usage
+title: Markdown Cheatsheet
 permalink: /documentation/markdown/markdown-cheatsheet/
 third_nav_title: "Markdown"
 ---
