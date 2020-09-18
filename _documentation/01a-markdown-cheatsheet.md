@@ -53,11 +53,18 @@ The above Markdown will produce:
 
 To place an image in your Markdown file, first [upload the image](/github-repository/uploading-a-file/) into your `/images/` folder. Then use the following Markdown syntax:
 
-<!--```markdown
-!
-```-->
+```
+![alt text - this is a description of what is in the image for people with visual impairments using screen readers](/images/isomer-logo.svg)
 
-Markdown uses the [kramdown](https://kramdown.gettalong.org/index.html) dialect of Markdown
+![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
+```
+
+The above Markdown will produce:
+
+![alt text - this is a description of what is in the image for people with visual impairments using screen readers](/images/sample-image.jpg)
+
+![just like links, you can include titles which appear when hovered](/images/sample-image.jpg "Sample Image")
+
 
 
 ### Videos
