@@ -1,6 +1,6 @@
 ---
 title: Markdown Usage
-permalink: /documentation/markdown/markdown-usage/
+permalink: /documentation/markdown/markdown-cheatsheet/
 third_nav_title: "Markdown"
 ---
 
