@@ -12,22 +12,23 @@ This model works very well for sites which are informational in nature such as c
 
 Here are a few reasons why you should choose Isomer to host your websites.
 
-### Isomer sites are static
-All isomer sites are static. Launching a static site means that there is no database, no server patches required since no complicated server side scripts and processes running for your webpage to be rendered on the browser.
+### Your website is informational and doesn't contain transactional components
+
+All isomer sites are static, and what this means is that there is no database, no server patches required since no complicated server side scripts and processes running for your webpage to be rendered on the browser.
 
 Your website structure is much simpler. Your pages are simply files (just like your word or excel documents on your File Explorer).
 
 <div align="center">
-<img src="/images/static-vs-dynamic.png" alt="Static and dynamic sites comparison" width="80%">
+<img src="/images/static-vs-dynamic.png" alt="Static and dynamic sites comparison" width="70%">
 </div> 
 
 You can read more about the benefits of having a static site [here](https://scotch.io/bar-talk/5-reasons-static-sites-rock). 
 
-However, dynamic sites (hosted on CWP) could still be relevant if your site requires content to be dynamically generated such as the ability for users to log into their individual accounts. 
+That being said, dynamic sites could still be relevant if your site requires content to be dynamically generated such as the ability for users to log into their individual accounts. 
 
 > If your site is purely informational, there is no need for you to build a dynamic site that is harder to maintain and will cost you more.
 
-### Faster load time and updates 
+### Faster load time for your sites
 
 A static site, coupled with a Content Delivery Network (CDN) will make your site load much faster. Webpages are pre-rendered and stored in your CDN instead of being dynamically generated from the server like those on dynamic sites.
 
