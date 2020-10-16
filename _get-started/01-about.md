@@ -1,5 +1,5 @@
 ---
-title: About Isomer
+title: About 
 permalink: /get-started/about-isomer/
 ---
 
