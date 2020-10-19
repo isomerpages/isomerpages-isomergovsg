@@ -1,6 +1,6 @@
 ---
 title: Ready to onboard?
-permalink: /get-started/ready-to-onboard/
+permalink: /get-started/onboard/
 ---
 
 Launching a site on Isomer is fairly straightforward. Here's a high level view of the steps from site set up to site launch.  
@@ -12,11 +12,10 @@ This entire process could take from 36 hours to 6 months, depending on the size 
 ### Setting up your site
 
 When you're ready to get onboard:
-1. Create an account on [Github](https://www.github.com) 
-2. Send us request through [this contact form](https://go.gov.sg/isomer-contact/).
-3. We'll create an empty template for you and grant you access to start editing
-
-You can refer to our guide [here](https://v2.isomer.gov.sg/tutorial/firstedit/github-setup/) on how to create a Github account.
+1. Prepare a sitemap. You can take a look at a sample sitemap [here](https://go.gov.sg/isomer-sample-sitemap)
+2. Create an account on [Github](https://www.github.com). 
+3. Send us request through [this contact form](https://go.gov.sg/isomer-contact/).
+4. We'll create an empty template for you and grant you access to start editing
 
 ### Editing your site
 
