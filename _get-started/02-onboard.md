@@ -1,5 +1,5 @@
 ---
-title: Ready to onboard?
+title: Get onboard
 permalink: /get-started/onboard/
 ---
 
