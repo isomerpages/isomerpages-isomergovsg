@@ -8,6 +8,7 @@ collections:
     output: true
 
 favicon: /images/favicon-isomer.ico
+google-analytics: UA-139339739-1
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
