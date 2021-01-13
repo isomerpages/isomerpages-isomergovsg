@@ -2,14 +2,15 @@ title: Isomer
 url: "https://www.isomer.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
-  documentation:
+  features:
     output: true
   get-started:
     output: true
-
+  faq:
+    output: true
 favicon: /images/favicon-isomer.ico
-google-analytics: UA-139339739-1
 
+google_analytics: UA-139339739-1
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -34,5 +35,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
+baseurl: ""
 #twitter_username: jekyllrb
 #github_username:  jekyll

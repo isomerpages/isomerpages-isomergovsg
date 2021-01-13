@@ -37,7 +37,9 @@ Let us know in advance (ideally 2 weeks) prior to when you'd like to launch the 
 3. Make the necessary updates on your DNS records  
 4. Isomer team will update our CDN and in 10-15 mins, your site will be live! 
 
-You can also refer to our [FAQ](/faq/) if you have more questions. 
+### Have questions?
+You can refer to our [FAQ](/faq/) for a list of commonly asked questions or you may also write in to us through [this contact form](https://go.gov.sg/isomer-contact).
+
 
 
 
