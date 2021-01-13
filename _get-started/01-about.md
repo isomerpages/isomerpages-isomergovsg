@@ -11,7 +11,7 @@ This model works very well for sites which are informational in nature such as c
 ![Picture of Markdown text being turned into an Isomer site](/images/markdown-to-site.png)
 
 
-### All isomer sites are static. 
+### All isomer sites are static 
 
 Launching a static site means that there is no database, no server patches required since no complicated server side scripts and processes running for your webpage to be rendered on the browser.
 
@@ -29,11 +29,11 @@ Dynamic sites could still be relevant if your site requires content to be dynami
 
 Therefore, we can ensure that your sites are blazing fast and is more secure than dynamic sites.
 
-### Isomer is fast 
+#### How are static sites fast?
 
 A static site, coupled with a Content Delivery Network (CDN) will make your site load much faster. Webpages are pre-rendered and stored in your CDN instead of being dynamically generated from the server like those on dynamic sites.
 
-### Isomer is more secure
+#### How are static sites more secure?
 
 All sites hosted on isomer are maintained centrally by the isomer team through a central template, using the same infrastructure. The only difference between different sites is your content.
 
@@ -51,7 +51,14 @@ We've designed Isomer to be compliant to applicable clauses on IM8 and follow th
 
 If you have specific queries regarding im8 compliance, please contact any of the isomer team members and we'll help you address them. 
 
+### In line with Singapore Government Design System
+
+Our site templates are designed based on the components found on the [Singapore Government Design System](https://designsystem.tech.gov.sg). If you choose to build a site on your own, you can still refer to the UI components found on their site.
+
+*Note that the current components may not be up to date with the latest SGDS.*
+
 ### Have questions?
+
 You can refer to our [FAQ](/faq/) for a list of commonly asked questions or you may also write in to us through [this contact form](https://go.gov.sg/isomer-contact).
 
 

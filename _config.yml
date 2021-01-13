@@ -6,8 +6,6 @@ collections:
     output: true
   get-started:
     output: true
-  faq:
-    output: true
 favicon: /images/favicon-isomer.ico
 
 google_analytics: UA-139339739-1
