@@ -2,6 +2,7 @@
 title: Training Materials
 permalink: /documentation/training-materials/
 ---
+> The following Isomer v1 documentation may not be updated, if you could not find information that you need, please reach out to Isomer Support Team. We're also progressively deprecating v1 sites, we'll be reaching out to you in due time for the migration. 
 
 #### **Basic concept about Isomer, Github, Markdown**
 * [Training Guide for Reviewer of Content](/files/Reviewer Training Guide.pdf){:target="_blank"}
