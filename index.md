@@ -51,7 +51,7 @@ sections:
         subtitle: 
         description: 
         button: Start here
-        url: /faq/
+        url: /get-started/onboard/
 
 ---
 
