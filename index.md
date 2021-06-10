@@ -13,7 +13,7 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: <h1><bold>96</bold></h1>
+            - title: <h1><bold>105</bold></h1>
               description: SITES LAUNCHED
               url: 
             - title: <bold><h1>30+</h1></bold>
