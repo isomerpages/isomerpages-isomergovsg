@@ -11,9 +11,10 @@ links:
     collection: get-started
   - title: FAQ
     url: /faq/
-  - title: Guide
-    url: "https://v2.isomer.gov.sg"
-#   - title: Contact us
-#     url: /contact-us/
   - title: Our Users
     url: /users/
+  - title: Guide
+    url: "https://guide.isomer.gov.sg"
+#   - title: Contact us
+#     url: /contact-us/
+
