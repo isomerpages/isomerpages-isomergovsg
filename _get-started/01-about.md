@@ -3,45 +3,15 @@ title: About
 permalink: /get-started/about-isomer/
 ---
 
-Isomer is an end-to-end managed service by GovTech which allows you to focus exclusively on your site's content. GovTech creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast. 
+### You focus on your content.
+
+Isomer is informational website builder for the government. 
+
+GovTech creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast. 
+
 > All you have to do is to prepare the content, and Isomer "builds" a fully featured and fully compliant site.
 
 This model works very well for sites which are informational in nature such as corporate sites.
-
-![Picture of Markdown text being turned into an Isomer site](/images/markdown-to-site.png)
-
-
-### All isomer sites are static 
-
-Launching a static site means that there is no database, no server patches required since no complicated server side scripts and processes running for your webpage to be rendered on the browser.
-
-Your website structure is much simpler. Your pages are simply files (just like your word or excel documents on your File Explorer).
-
-<div align="center">
-<img src="/images/static-vs-dynamic.png" alt="Static and dynamic sites comparison" width="80%">
-</div> 
-
-[Read more about the benefits of having a static site](https://scotch.io/bar-talk/5-reasons-static-sites-rock). 
-
-Dynamic sites could still be relevant if your site requires content to be dynamically generated such as the ability for users to log into their individual accounts. 
-
-> If your site is purely informational, there is no need for you to build a dynamic site that is harder to maintain and will cost you more.
-
-Therefore, we can ensure that your sites are blazing fast and is more secure than dynamic sites.
-
-#### How are static sites fast?
-
-A static site, coupled with a Content Delivery Network (CDN) will make your site load much faster. Webpages are pre-rendered and stored in your CDN instead of being dynamically generated from the server like those on dynamic sites.
-
-#### How are static sites more secure?
-
-All sites hosted on isomer are maintained centrally by the isomer team through a central template, using the same infrastructure. The only difference between different sites is your content.
-
-Isomer team conducts regular Vulnerability Assessment Penetration Testing (VAPT), and ensures that only whitelisted scripts are able to run on your sites. 
-
-> Note that we will not allow any custom scripts to run on isomer sites.
-
-Your sites are also monitored by us 24/7, all of us are on call and we will attend immediately to any downtime to your sites.
 
 ### We take care of compliance for you
 
@@ -60,5 +30,6 @@ Our site templates are designed based on the components found on the [Singapore 
 ### Have questions?
 
 You can refer to our [FAQ](/faq/) for a list of commonly asked questions or you may also write in to us through [this contact form](https://go.gov.sg/isomer-contact).
+
 
 

@@ -3,8 +3,10 @@ title: Our Users
 permalink: /users/
 ---
 
+We're proud to say that Isomer has helped over 30 government agencies, ministries and statboard launched their websites. Ministry of Law, Customs, Prime Minister's Office, National Library Board and Nanyang Polytechnic are a few of our users. 
+
 ### Need some inspiration on how you can build your website using Isomer? 
-Here are some great examples to get you started with. 
+Here are a few great sites built by our users to get you started with. 
 
 <table width="100%">
 <tbody>
@@ -17,11 +19,11 @@ Here are some great examples to get you started with.
           <br /><br />
       </td>
       <td width="100px" style="text-align:center">
-        <a href="https://www.ourfoodfuture.gov.sg" target="_blank"><img src="/images/ourfoodfuture.png" alt="Our Food Future website" title="Visit Website"/></a><br /><strong>SFA, Our Food Future</strong><br />
-        <br /><br />
         <a href="https://www.climate-friendly-households.gov.sg/" target="_blank"><img src="/images/cfhp.png" alt="NEA/PUB Climate Friendly Households Programme" title="Visit Website"/></a><br /><strong>NEA/PUB, Climate Friendly Households Programme</strong><br />
         <br /><br />
         <a href="https://www.sentosa.gov.sg" target="_blank"><img src="/images/sentosa.png" alt="Sentosa Development Corporation Website" title="Visit Website"/></a><br /><strong>Sentosa Development Corporation, Corporate Site</strong><br />
+        <br /><br />
+        <a href="https://www.ourfoodfuture.gov.sg" target="_blank"><img src="/images/ourfoodfuture.png" alt="Our Food Future website" title="Visit Website"/></a><br /><strong>SFA, Our Food Future</strong><br />
         <br /><br />
       </td>
   </tbody>
