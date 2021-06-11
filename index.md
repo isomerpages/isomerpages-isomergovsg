@@ -4,7 +4,7 @@ title: Isomer
 description: Isomer is the website builder for the Singapore government
 image: /images/isomer-logo.svg
 permalink: /
-notification: We've recently launched IsomerCMS to make it easy for users to edit their site. Find out more about the CMS in our guide. 
+notification: We've recently launched IsomerCMS to make it easy for users to edit their site. Find out more about the CMS in <a href="https://guide.isomer.gov.sg">our guide</a>!
 sections:
     - hero:
         title: Isomer
