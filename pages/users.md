@@ -3,7 +3,7 @@ title: Our Users
 permalink: /users/
 ---
 
-We're proud to say that Isomer has helped over 30 government agencies, ministries and statboard launched their websites. Ministry of Law, Customs, Prime Minister's Office, National Library Board and Nanyang Polytechnic are a few of our users. 
+Isomer has helped over 30 government agencies, ministries and statboard launched their websites. Ministry of Law, Customs, Prime Minister's Office, National Library Board and Nanyang Polytechnic are a few of our users. 
 
 ### Need some inspiration on how you can build your website using Isomer? 
 Here are a few great sites built by our users to get you started with. 
