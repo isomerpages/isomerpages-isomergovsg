@@ -26,24 +26,18 @@ sections:
         title: Launch a website <br>in days
         subtitle: 
         description: Take our template, populate your content and you're ready to go. No more engaging web development services or going through long procurement process.
-<!--         button: Get Started
-        url: /get-started/about-isomer/ -->
         image: /images/site-setup.png
         alt: Image of site builder
     - infopic:
         title: Build a blazing fast website
         subtitle: 
         description: Isomer sites loads fast, because we build all our sites into simple and lightweight html pages that are easily cached and retrieved.
-<!--         button: Get started
-        url: /get-started/about-isomer/ -->
         image: /images/site-fast.png
         alt: Image of fast site
     - infopic: 
         title: Secure and reliable
         subtitle: 
         description: Isomer enforces strict security policies and actively monitor the uptime your sites around the clock. So sit back, relax and focus on your site content. 
-<!--         button: Get Started
-        url: /get-started/about-isomer/ -->
         image: /images/site-security.png
         alt: Image of security guy on a website
     - infobar: 
