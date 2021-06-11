@@ -9,9 +9,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: Get started
     collection: get-started
+  - title: Our Users
+    url: /users/
   - title: FAQ
     url: /faq/
   - title: Guide
-    url: "https://v2.isomer.gov.sg"
+    url: "https://guide.isomer.gov.sg"
 #   - title: Contact us
 #     url: /contact-us/
+
