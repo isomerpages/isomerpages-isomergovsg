@@ -1,5 +1,0 @@
-collections:
-  features:
-    output: true
-    order:
-      - isomercms.md
