@@ -1,11 +1,6 @@
 title: Isomer
 url: "https://www.isomer.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
-collections:
-  features:
-    output: true
-  get-started:
-    output: true
 favicon: /images/favicon-isomer.ico
 
 google_analytics: UA-139339739-1
@@ -27,12 +22,15 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+baseurl: ""
+#twitter_username: jekyllrb
+#github_username:  jekyll
+staging: https://isomer-staging.netlify.com
+prod: https://isomer-isomergovsg-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-baseurl: ""
-#twitter_username: jekyllrb
-#github_username:  jekyll
+  - jekyll-remote-theme
