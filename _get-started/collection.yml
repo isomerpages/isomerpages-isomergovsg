@@ -1,0 +1,6 @@
+collections:
+  get-started:
+    output: true
+    order:
+      - about.md
+      - get-onboard.md
