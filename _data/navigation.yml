@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Get started
     collection: get-started
@@ -14,7 +7,6 @@ links:
   - title: FAQ
     url: /faq/
   - title: Guide
-    url: "https://guide.isomer.gov.sg"
-#   - title: Contact us
-#     url: /contact-us/
-
+    url: https://guide.isomer.gov.sg
+  - title: Github
+    url: https://github.com/isomerpages
