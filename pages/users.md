@@ -2,7 +2,6 @@
 title: Our Users
 permalink: /users/
 ---
-
 Isomer has helped over 30 government agencies, ministries and statboard launched their websites. Ministry of Law, Customs, Prime Minister's Office, National Library Board and Nanyang Polytechnic are a few of our users. 
 
 ### Need some inspiration on how you can build your website using Isomer? 
@@ -13,7 +12,7 @@ Here are a few great sites built by our users to get you started with.
       <td width="50%" style="text-align:center">
           <a href="https://www.singaporetogether.gov.sg" target="_blank"><img src="/images/singapore-together.png" alt="Singapore Together Website" title="Visit Website"/></a><br /><strong>MCCY, Singapore Together</strong><br />
           <br /><br />
-          <a href="https://www.switch.org" target="_blank"><img src="/images/switchsg.png" alt="Switch SG website" title="Visit Website"/></a><br /><strong>EnterpriseSG, Switch SG</strong><br />
+          <a href="https://www.switchsg.org" target="_blank"><img src="/images/switchsg.png" alt="Switch SG website" title="Visit Website"/></a><br /><strong>EnterpriseSG, Switch SG</strong><br />
           <br /><br />
           <a href="https://www.sgunited.gov.sg" target="_blank"><img src="/images/sgunited.png" alt="SG United website" title="Visit Website"/></a><br /><strong>MCCY, SGUnited</strong><br />
           <br /><br />
@@ -28,7 +27,3 @@ Here are a few great sites built by our users to get you started with.
       </td>
   </tbody>
 </table>
-
-
-
-
