@@ -1,6 +1,6 @@
 collections:
   documentation:
-    output: true
+    output: false
     order:
       - training-materials.md
       - markdown/.keep
