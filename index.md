@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer
+title: Isomer | Open Government Products
 description: Isomer is the website builder for the Singapore government
 image: /images/isomer-logo.svg
 permalink: /
