@@ -4,7 +4,9 @@ title: Isomer \| Open Government Products
 description: Isomer is the website builder for the Singapore government
 image: /images/isomer-logo.svg
 permalink: /
-notification: We've recently launched IsomerCMS to make it easy for users to edit their site. Find out more about the CMS in <a href="https://guide.isomer.gov.sg"> our guide</a>!
+notification: We've recently launched IsomerCMS to make it easy for users to
+  edit their site. Find out more about the CMS in <a
+  href="https://guide.isomer.gov.sg"> our guide</a>!
 sections:
   - hero:
       title: Isomer
@@ -13,7 +15,7 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/isomer-contact
       key_highlights:
-        - title: <h1><bold>105</bold></h1>
+        - title: <h1><bold>150</bold></h1>
           description: SITES LAUNCHED
           url: null
         - title: <bold><h1>30+</h1></bold>
