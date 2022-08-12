@@ -15,7 +15,7 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/isomer-contact
       key_highlights:
-        - title: <h1><bold>150</bold></h1>
+        - title: <h1><bold>150+</bold></h1>
           description: SITES LAUNCHED
           url: null
         - title: <bold><h1>30+</h1></bold>
