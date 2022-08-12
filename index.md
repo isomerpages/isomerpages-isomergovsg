@@ -18,7 +18,7 @@ sections:
         - title: <h1><bold>150+</bold></h1>
           description: SITES LAUNCHED
           url: null
-        - title: <bold><h1>30+</h1></bold>
+        - title: <bold><h1>50+</h1></bold>
           description: AGENCIES
           url: null
         - title: <bold><h1>99.99%</h1></bold>
