@@ -4,7 +4,7 @@ permalink: /faq/
 ---
 
 #### **What is Isomer?**
-Isomer is an informational website builder created by the Open Governnment Products team at Government Technology Agency of Singapore (GovTech).
+Isomer is an informational website builder created by the Open Government Products team at Government Technology Agency of Singapore (GovTech).
 
 It provides template for website with hosting and is compliant to applicable clauses in the Instruction Manual 8 (IM8), Design Service Standard (DSS) and Usability Checklist (UC). 
 
