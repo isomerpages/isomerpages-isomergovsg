@@ -1,6 +1,6 @@
 ---
 title: Facebook Pixel
-permalink: /documentation/analytics/facebook-pixel
+permalink: /documentation/analytics/facebook-pixel/
 third_nav_title: "Analytics"
 ---
 #### Facebook Pixel

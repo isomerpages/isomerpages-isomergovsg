@@ -1,6 +1,6 @@
 ---
 title: Google Analytics
-permalink: /documentation/analytics/google-analytics
+permalink: /documentation/analytics/google-analytics/
 third_nav_title: "Analytics"
 ---
 #### Google Anlaytics
