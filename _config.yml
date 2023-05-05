@@ -26,8 +26,8 @@ description: test test
 baseurl: ""
 #twitter_username: jekyllrb
 #github_username:  jekyll
-staging: https://isomer-staging.netlify.com
-prod: https://isomer-isomergovsg-prod.netlify.app/
+staging: https://staging.dm5zdzybbp42c.amplifyapp.com/
+prod: https://master.dm5zdzybbp42c.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
