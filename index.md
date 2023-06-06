@@ -15,10 +15,10 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/isomer-contact
       key_highlights:
-        - title: <h1><bold>150+</bold></h1>
+        - title: <h1><bold>530+</bold></h1>
           description: SITES LAUNCHED
           url: null
-        - title: <bold><h1>50+</h1></bold>
+        - title: <bold><h1>70+</h1></bold>
           description: AGENCIES
           url: null
         - title: <bold><h1>99.99%</h1></bold>
