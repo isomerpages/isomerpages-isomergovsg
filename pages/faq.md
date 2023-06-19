@@ -80,7 +80,7 @@ We will not be able to provide details beyond what was provided on our official 
 
 #### **What is a static website?**
 
-A static website has no database, and no server patches will be required since there are no complicated server side scripts and processes which will be running for your webpage to be rendered on the browser.
+A static website has no database, and doesn’t need server patches, since there are no complicated server-side scripts or processes running for your webpage to be rendered on a browser.
 
 Your website structure is much simpler. Your pages are simply files (just like your word or excel documents on your File Explorer).
 
